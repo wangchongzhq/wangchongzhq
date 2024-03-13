@@ -2143,6 +2143,7 @@ QVC Beauty[1920*1080],https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1
 
 
 🌍丨全球,#genre#
+
 [半岛电视][1280*720],https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 [半岛电视][1920*1080],https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 [半岛新闻][1280*720],http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
@@ -2157,7 +2158,6 @@ QVC Beauty[1920*1080],https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1
 [美国]KBSV/AssyriaSat[1600*900],http://66.242.170.53/hls/live/temp/index.m3u8
 [美国]NASA TV Public[1280*720],https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 [美国]NASA TV Public[1280*720],https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-[美国]NASA TV Public[1280*720],https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 [美国]NASA TV Public[1280*720],https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 [美国]Newsy[1920*1080],https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 [美国]OmidJavedan[1920*1080],http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
@@ -2165,21 +2165,34 @@ QVC Beauty[1920*1080],https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1
 [日本]NHK World Japan (1080p)[1280*720],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 [日本]NHK·国际[1280*720],https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
 [新加坡]CNA[1280*720],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-[新加坡]CNA[1280*720],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 [新加坡]CNA[1280*720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 [新加坡]CNA[1920*1080],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 [新加坡]CNA[1920*1080],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+ABC[960*544],http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&checkedby:iptvcat.com
 Al Jazeera[1920*1080],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 AXS TV NOW[1920*1080],https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 Baden TV[1920*1080],http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+CBS News[1280*720],https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 CGTN[1024*576],https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN[1047*576],https://live-wuxi.cgtn.com/live/wx_cgtn_1000k_internalnormal.m3u8
+CGTN纪录[1024*576],https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
 CGTN美国[1024*576],http://live.cgtn.com/1000/prog_index.m3u8?zshijd
 CGTN英语[1024*576],http://live.cgtn.com/1000/prog_index.m3u8
 DC Council Channel.htm[1920*1080],http://video.oct.dc.gov/out/u/15_12.m3u8
+FOX 28[1280*720],https://lnc-wtxf.tubi.video/index.m3u8
+Global News BC[1280*720],https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
+Global News BC[1280*720],https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
 Global News[1280*720],https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+Gugbang TV[720*407][1920*1080],http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+HBO +[1280*720],http://208.115.225.174:14152
+HBO family[1920*1080],http://208.115.225.174:14144
+HBO Mundi[1280*720],http://208.115.225.174:14148
+HBO POP[1280*720],http://208.115.225.174:14156
+HBO XTREME[1280*720],http://208.115.225.174:14165
+HBO[1280*720],http://208.115.225.174:14136
+MSNBC[1280*720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176827
+Sky News[1280*720],https://stream.skynewsarabia.com/hls/sna_720.m3u8
 TMA Caraïbes[1920*1080],http://hls.tmacaraibes.com/live/index.m3u8
-
-
 
 📺【韩语频道】,#genre#
 Arirang 阿里郎[1280*720],http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8

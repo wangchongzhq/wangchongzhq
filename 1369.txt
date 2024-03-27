@@ -7,7 +7,7 @@
 
 
 
-"lives":[{"name":"live","type":0,"url":"aHR0cHM6Ly9tcGltZy5jbi9kb3duLnBocC83OGUzNmYwN2QwYmE3NTVmMTMzNzJhNTA2MmExMjY0Mi50eHQmODg=","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"aHR0cHM6Ly9yYXcua2tnaXRodWIuY29tL3dhbmdjaG9uZ3pocS93YW5nY2hvbmd6aHEvbWFpbi8xMDkudHh0","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 
 
 

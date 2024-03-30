@@ -116,14 +116,10 @@ CCTV7[1920*1080],http://222.89.107.42:9876/tsfile/live/0007_1.m3u8?key=txiptv&pl
 CCTV7[1920*1080],http://60.212.2.122:8154/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV7[1920*1080],http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 CCTV7[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
-CCTV8[1920*1080],http://1.195.111.251:11190/tsfile/live/0008_1.m3u8
-CCTV8[1920*1080],http://222.89.107.42:9876/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV8[1920*1080],http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV8[1920*1080],http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
+
 CCTV8[1920*1080],http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV8[1920*1080],http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV8[1920*1080],http://59.173.243.210:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+
 CCTV9[1920*1080],http://1.195.111.251:11190/tsfile/live/0009_1.m3u8
 CCTV9[1920*1080],http://221.226.4.10:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9[1920*1080],http://222.89.107.42:9876/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -242,6 +238,8 @@ CHC家庭影院[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 青海卫视[1280*720],http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=63cf437e1591689484
 青海卫视[1280*720],http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
 青海卫视[1920*1080],http://60.212.2.122:8154/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视[1920*1080],http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
+山东卫视[1920*1080],http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
 山东卫视[1920*1080],http://221.226.4.10:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视[1920*1080],http://60.212.2.122:8154/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8

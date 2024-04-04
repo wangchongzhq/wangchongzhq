@@ -197,7 +197,10 @@ CNA新闻[1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48
 风云足球[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
 风云音乐[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
 高尔夫网球[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+哒啵电竞[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
+纪实人文[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 魅力足球[1920*1080],https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
+
 CCTV3[1920*1080],http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV7[1920*1080],http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 
@@ -311,6 +314,9 @@ CCTV7[1920*1080],http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/22
 山东卫视[1920*1080],http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 
 山西卫视[1047*576],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
+
+陕西卫视[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+
 上海卫视[1920*1080],http://113.57.103.216:9000/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 
 深圳卫视[1920*1080],http://221.226.4.10:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -326,6 +332,8 @@ CCTV7[1920*1080],http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/22
 天津卫视[1920*1080],http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 天津卫视[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 天津卫视[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
+
+
 
 延边卫视[1280*720],http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视[1280*720],http://live.ybtvyun.com/video/s10006-90fe76c52091/index.m3u8

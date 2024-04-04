@@ -667,15 +667,24 @@ CHC高清电影[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/32
 CHC家庭影院[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 
 
+//移动宽带央卫
+CCTV1[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV2[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV3[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV4[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV6[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV8[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
 CCTV9[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV10[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV12[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV13[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV14[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 电视指南[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 风云足球[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
@@ -686,7 +695,9 @@ CCTV17[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/
 女性时尚[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 怀旧剧场[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 兵器科技[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+高尔夫网球[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 央视文化精品[1920*1080],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+
 
 
 CCTV2[1920*1080],http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8

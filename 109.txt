@@ -37,7 +37,6 @@ Loupe4K[3840*2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8	
 欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/index.m3u8	
 欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8	
-欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8?blog.ntnas.top
 欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8	
 欢笑剧场4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3	
 欢笑剧场4K[3840*2160],http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com

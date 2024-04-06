@@ -14,7 +14,7 @@ CCTV16-4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/50000000
 CCTV16-4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3&HlsProfileId=
 FTV[3840*2160],http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 FTV[3840*2160],https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-Loupe 4K[3840*2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Loupe[3840*2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 北京4K超清[3840*2160],http://webmail.axxe.top:4022/rtp/239.3.1.249:8001
 北京纪实科教8K[7680*4320],http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8	
 北京纪实科教8K[7680*4320],http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8	

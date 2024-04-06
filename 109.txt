@@ -1,23 +1,20 @@
 🇨🇳 4K,#genre#
 
+4KUHD[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3	
+4KUHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3	
+4KUHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3&HlsProfileId=	
+4KUHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3	
 
-4K UHD[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3	
-4K UHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3	
-4K UHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3&HlsProfileId=	
-4K UHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3	
-4K测试[3840*2160],http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS	
 4k修复[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-4K影视[3840*2160],http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3	
-4K影视[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3	
-CCTV超高清[3840*2160],http://159.75.85.63:5679/cctv4k.php 	
+
+CCTV4K[3840*2160],http://159.75.85.63:5679/cctv4k.php 	
+
 CCTV16-4K[3840*2160],http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3	
 CCTV16-4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3	
 CCTV16-4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3&HlsProfileId=	
-FashionTV 4K[3840*2160],http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8	
-FashionTV 4K[3840*2160],https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8	
+FTV 4K[3840*2160],http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8	
+FTV 4K[3840*2160],https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8	
 Loupe4K[3840*2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-爱上4K[3840*2160],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-爱上4K[3840*2160],http://host.gaoxincloud.cn:4000/udp/239.109.205.53:8360	
 百视通4K[1280*720],http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS	
 北京4K超清[3840*2160],http://webmail.axxe.top:4022/rtp/239.3.1.249:8001	
 北京纪实科教8K[7680*4320],http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8	
@@ -27,9 +24,17 @@ Loupe4K[3840*2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 斗鱼4K影院[3840*2160],http://mmitv.top/test/douyu.php?id=9249162	
 广东综艺4K[3840*2160],http://58.252.12.164:8000/udp/239.77.0.244:5146	
 广东综艺4K[3840*2160],http://58.252.12.164:8000/udp/239.77.1.237:5146	
+
+华数4K测试[3840*2160],http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS	
+华数4K测试[3840*2160],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+华数4K测试[3840*2160],http://host.gaoxincloud.cn:4000/udp/239.109.205.53:8360	
+
+华数4K影视[3840*2160],http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3	
+华数4K影视[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3	
 华数4K影视[3840*2160],http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3	
 华数4K影视[3840*2160],http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3	
 华数4K影视[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3	
+
 欢笑剧场4K[3840*2160],http://[2409:8087:7000:20::14]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8?icpid=88888888&from=20&ocs=2_2409:8087:7001:20:2::2_80&hms_devid=623&prioritypopid=20&online=1707066312&vqe=3	
 欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 欢笑剧场4K[3840*2160],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -47,8 +52,6 @@ Loupe4K[3840*2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8?zjiangsd	
 苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd	
 苏州4K[3840*2160],http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-
-
 
 
 🇨🇳 央视IPV6,#genre#

@@ -6,11 +6,10 @@
 4K UHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3&HlsProfileId=	
 4K UHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3	
 4K测试[3840*2160],http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS	
-4k修复[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8	
-4k修复[3840*2160][3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8	
+4k修复[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 4K影视[3840*2160],http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3	
 4K影视[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3	
-CCTV4K 超高清[3840*2160],http://159.75.85.63:5679/cctv4k.php 	
+CCTV超高清[3840*2160],http://159.75.85.63:5679/cctv4k.php 	
 CCTV16-4K[3840*2160],http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3	
 CCTV16-4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3	
 CCTV16-4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3&HlsProfileId=	

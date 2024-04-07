@@ -162,6 +162,13 @@
 //
 
 
+{"key": "lzzywdj","name": "️短剧一次看爽1","type": 1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧"]},
+{"key": "xldj",    "name": "️短剧再来一个","type": 1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/   ","searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [  "短剧"   ]   },
+{"key": "wujingdj",    "name": "️短剧一次看爽2","type": 1,"api":"https://api.wujinapi.me/api.php/provide/vod/?ac=list","searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [  "短剧"   ]   },
+{"key": "jisuzydj",    "name": "️短剧一次看爽3","type": 1,"api":"https://jszyapi.com/api.php/provide/vod ", "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [  "短剧"   ]   },
+{"key": "haohuaziyuandj", "name": "️短剧一次看爽4","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/?ac=videolistt   ", "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [  "短剧"  ]},
+{"key": "snzydj",    "name": "️短剧一次看爽5","type": 1,"api":"https://suoniapi.com/api.php/provide/vod/?ac=list   ", "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [  "爽文短剧"   ]   },
+{"key": "fszydj",    "name": "️短剧一次看爽6","type": 1,"api":" https://www.feisuzyapi.com/api.php/provide/vod/?ac=list   ", "searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": [  "短剧"   ]   },
 
 
 

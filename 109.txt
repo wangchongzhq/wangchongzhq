@@ -7,15 +7,13 @@
 
 4k修复[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
+CCTV4K[3840*2160],http://159.75.85.63:5679/cctv4k.php
 CCTV4K[3840*2160],http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv4k
-CCTV4K[3840*2160],http://159.75.85.63:5679/cctv4k.php	
-CCTV4K[1920*1080],http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8cdd688b04e4495ba1635e218419d6f9/4000.m3u8
 
-CCTV16-4K[3840*2160],http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv164k
 CCTV16-4K[3840*2160],http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV16-4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV16-4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3&HlsProfileId=
-
+CCTV16-4K[3840*2160],http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv164k
 
 FTV[3840*2160],http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 FTV[3840*2160],https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -23,8 +21,9 @@ Loupe[3840*2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 LOVE NATURE 4K[3840*2160],https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-北京4K超清[3840*2160]http://mywlkj.ddns.net:754/tv/bjltzb.php?id=35
 北京4K超清[3840*2160],http://webmail.axxe.top:4022/rtp/239.3.1.249:8001
+北京4K超清[3840*2160]http://mywlkj.ddns.net:754/tv/bjltzb.php?id=35
+
 
 北京纪实科教8K[7680*4320],http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京纪实科教8K[7680*4320],http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
@@ -51,7 +50,6 @@ LOVE NATURE 4K[3840*2160],https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3
 华数4K影视[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000003000004748&amp;livemode=1&amp;stbId=3
 
 
-欢笑剧场4K[3840*2160],http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hxjc4k
 欢笑剧场4K[3840*2160],http://[2409:8087:7000:20::14]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8?icpid=88888888&from=20&ocs=2_2409:8087:7001:20:2::2_80&hms_devid=623&prioritypopid=20&online=1707066312&vqe=3
 欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 欢笑剧场4K[3840*2160],http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -62,9 +60,10 @@ LOVE NATURE 4K[3840*2160],https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3
 欢笑剧场4K[3840*2160],http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 欢笑剧场4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 欢笑剧场4K[3840*2160],http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+欢笑剧场4K[3840*2160],http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hxjc4k
 
 南国都市4K[3840*2160],http://58.252.12.164:8000/udp/239.253.43.99:5146
+
 苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
 苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
@@ -76,7 +75,6 @@ LOVE NATURE 4K[3840*2160],https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3
 
 🇨🇳 央视IPV6,#genre#
 
-CCTV13[1920*1080],rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 
 CCTV1[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1[1920*1080],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -796,6 +794,8 @@ CNA新闻[1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48
 
 CCTV3[1920*1080],http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 CCTV7[1920*1080],http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+
+CCTV13[1920*1080],rtmp://live-play.cctvnews.cctv.com/cctv/merge_cctv13
 
 
 🇨🇳丨卫视,#genre#

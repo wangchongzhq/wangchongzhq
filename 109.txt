@@ -1,9 +1,9 @@
 🇨🇳 4K,#genre#
 
-4KUHD[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3	
 4KUHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 4KUHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3&HlsProfileId=
 4KUHD[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3	
+4KUHD[3840*2160],http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3	
 
 4k修复[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 

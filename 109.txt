@@ -7,6 +7,8 @@
 
 4k修复[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
+Bloomberg_Asia[3840*2160],https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
+
 CCTV4K[3840*2160],http://159.75.85.63:5679/cctv4k.php
 CCTV4K[3840*2160],http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv4k
 

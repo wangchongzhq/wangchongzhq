@@ -1018,6 +1018,8 @@ Red Bull TV HD[1920*1080],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-A
 
 🌍丨全球,#genre#
 
+CLASS TV MODA[1920*1080],https://streamcdne1-859c1818ed614cc5b0047439470927b0.msvdn.net/vod/852oKGTnb3tO/7c1b70d3-7dcb-4818-8274-4a8524391b6f/chunklist-f1-v1-a1.m3u8?T=1649336837
+
 [半岛电视][1280*720],https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 [半岛电视][1920*1080],https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 [半岛新闻][1280*720],http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd

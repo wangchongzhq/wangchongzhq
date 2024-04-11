@@ -1094,7 +1094,6 @@ Red Bull TV HD[1920*1080],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-A
 [半岛电视][1280*720],https://live-hls-web-aje.getaj.net/AJE/02.m3u8?zshijd
 [半岛电视][1920*1080],https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 [半岛新闻][1280*720],http://live-hls-web-aja.getaj.net/AJA/02.m3u8?zshijd
-[俄罗斯金砖电视台TV BRICS](ENG)[1920*1080],http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 [加拿大]5AABTV[1280*720],http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 [加拿大]AzstarTV[Not24/7][1920*1080],http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
 [加拿大]Canada One[1280*720],http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
@@ -1110,7 +1109,7 @@ Red Bull TV HD[1920*1080],https://rbmn-live.akamaized.net/hls/live/590964/BoRB-A
 [美国]OmidJavedan[1920*1080],http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
 [美国]The360Channel[1280*640],https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
 [日本]NHK World Japan (1080p)[1280*720],https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-[日本]NHK·国际[1280*720],https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
+
 [新加坡]CNA[1280*720],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 [新加坡]CNA[1280*720],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 [新加坡]CNA[1920*1080],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -1121,7 +1120,7 @@ Al Jazeera[1920*1080],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 Arirang[1920*1080],https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 AXS TV NOW[1920*1080],https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
 Baden TV[1920*1080],http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
-CBS News[1280*720],https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
 CGTN[1024*576],https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 CGTN[1047*576],https://live-wuxi.cgtn.com/live/wx_cgtn_1000k_internalnormal.m3u8
 CGTN纪录[1024*576],https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
@@ -1133,23 +1132,18 @@ Disney_International[1920*1080],http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8O
 Dubai_One[1920*1080],http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 Fashion TV[1920*1080],http://91.247.68.229:8000/play/Fashion/index.m3u8
 Fight_Network[1920*1080],https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-Flix_HD[1920*1080],http://89.187.177.137:8081/&FLIX/index.m3u8
+
 FOX 28[1280*720],https://lnc-wtxf.tubi.video/index.m3u8
 Global News BC[1280*720],https://live.corusdigitaldev.com/groupa/live/48a5882b-a1ec-42d7-bfd7-6c2739e737da/live.isml/.m3u8
 Global News BC[1280*720],https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
 Global News[1280*720],https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
-Gugbang TV[720*407][1920*1080],http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-HBO +[1280*720],http://208.115.225.174:14152
-HBO family[1920*1080],http://208.115.225.174:14144
-HBO Mundi[1280*720],http://208.115.225.174:14148
-HBO POP[1280*720],http://208.115.225.174:14156
-HBO XTREME[1280*720],http://208.115.225.174:14165
-HBO[1280*720],http://208.115.225.174:14136
+
+
 HBO_2[1280*720],http://170.254.18.106/HBO2/index.m3u8
 HBO_Family[1280*720],http://170.254.18.106/HBO_FAMILY/index.m3u8
 Me_TV[1280*720],http://streamsy.online:2999/coachj88/N93DPKS9pJ/744
 Movies_Now[1920*1080],http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
-MSNBC[1280*720],http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176827
+
 NASA[1280*720],https://ntv1.akamaized.net:443/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?
 Nat_Geo[1280*720],http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 NBA_TV[1024*576],http://streamsy.online:2999/coachj88/N93DPKS9pJ/136

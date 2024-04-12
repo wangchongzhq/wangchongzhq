@@ -185,7 +185,7 @@
     "name": "CCTV 超高清",
     "title": "CCTV 超高清",
     "uris": [
-      "http://159.75.85.63:5679/cctv4k.php"
+      "http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv4k"
     ]
   },
 

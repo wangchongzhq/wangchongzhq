@@ -1,0 +1,491 @@
+[
+  {
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",
+    "name": "CCTV1",
+    "title": "CCTV1",
+    "uris": [
+      "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",
+    "name": "CCTV2",
+    "title": "CCTV2",
+    "uris": [
+      "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",
+    "name": "CCTV3",
+    "title": "CCTV3",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
+    "name": "CCTV4",
+    "title": "CCTV4",
+    "uris": [
+      "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
+    "name": "CCTV4欧洲",
+    "title": "CCTV4欧洲",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
+    "name": "CCTV4美州",
+    "title": "CCTV4美洲",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",
+    "name": "CCTV5",
+    "title": "CCTV5",
+    "uris": [
+      "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",
+    "name": "CCTV5+",
+    "title": "CCTV5+",
+    "uris": [
+      "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",
+    "name": "CCTV6",
+    "title": "CCTV6",
+    "uris": [
+      "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",
+    "name": "CCTV7",
+    "title": "CCTV7",
+    "uris": [
+      "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",
+    "name": "CCTV8",
+    "title": "CCTV8",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000362/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",
+    "name": "CCTV9",
+    "title": "CCTV9",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000319/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",
+    "name": "CCTV10",
+    "title": "CCTV10",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000321/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",
+    "name": "CCTV11",
+    "title": "CCTV11",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",
+    "name": "CCTV12",
+    "title": "CCTV12",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000322/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",
+    "name": "CCTV13",
+    "title": "CCTV13",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000345/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",
+    "name": "CCTV14",
+    "title": "CCTV14",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000323/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",
+    "name": "CCTV15",
+    "title": "CCTV15",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",
+    "name": "CCTV16",
+    "title": "CCTV16",
+    "uris": [
+      "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",
+    "name": "CCTV17",
+    "title": "CCTV17",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",
+    "name": "CCTV 超高清",
+    "title": "CCTV 超高清",
+    "uris": [
+      "http://159.75.85.63:5679/cctv4k.php"
+    ]
+  },
+
+
+
+{
+    "group": "央视",
+    "logo": "https://img1.baidu.com/it/u=1536905844,1172426159&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+    "name": "家庭影院",
+    "title": "家庭影院",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00002028/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "https://img1.baidu.com/it/u=3799413086,2703469059&fm=253&fmt=auto?w=171&h=171",
+    "name": "高清电影",
+    "title": "高清电影",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00002029/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "https://img2.baidu.com/it/u=356457911,619421343&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+    "name": "动作电影",
+    "title": "动作电影",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00002030/index.m3u8"
+    ]
+  },
+{
+    "group": "山东",
+    "logo": "https://www.ywdeyy.com/images/upload201606shandongweishi.jpg",
+    "name": "山东卫视",
+    "title": "山东卫视",
+    "uris": [
+      "http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8"
+    ]
+  },
+{
+    "group": "山东",
+    "logo": "https://bkimg.cdn.bcebos.com/pic/060828381f30e924b89969de0e5f79061d950b7b599e?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_440",
+    "name": "山东体育",
+    "title": "山东体育",
+    "uris": [
+      "http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8"
+    ]
+  },
+{
+    "group": "山东",
+    "logo": "https://img2.baidu.com/it/u=187675191,397849835&fm=253&fmt=auto&app=138&f=JPEG?w=303&h=190",
+    "name": "山东齐鲁",
+    "title": "山东齐鲁",
+    "uris": [
+      "http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8"
+    ]
+  },
+{
+    "group": "山东",
+    "logo": "https://img1.baidu.com/it/u=2070506456,2762680626&fm=253&fmt=auto&app=138&f=JPEG?w=584&h=389",
+    "name": "山东文旅",
+    "title": "山东文旅",
+    "uris": [
+      "http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8"
+    ]
+  },
+{
+    "group": "山东",
+    "logo": "https://img2.baidu.com/it/u=554611276,1964837021&fm=253&fmt=auto&app=138&f=JPEG?w=300&h=225",
+    "name": "山东综艺",
+    "title": "山东综艺",
+    "uris": [
+      "http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8"
+    ]
+  },
+{
+    "group": "山东",
+    "logo": "https://img1.baidu.com/it/u=3987434457,1453364616&fm=253&fmt=auto&app=138&f=JPEG?w=303&h=190",
+    "name": "山东生活",
+    "title": "山东生活",
+    "uris": [
+      "http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8"
+    ]
+  },
+{
+    "group": "山东",
+    "logo": "https://img2.baidu.com/it/u=2455404668,4274423562&fm=253&fmt=auto&app=120&f=JPEG?w=696&h=699",
+    "name": "山东新闻",
+    "title": "山东新闻",
+    "uris": [
+      "http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8"
+    ]
+  },
+{
+    "group": "山东",
+    "logo": "https://img0.baidu.com/it/u=658362359,3849774770&fm=253&fmt=auto&app=138&f=JPEG?w=303&h=190",
+    "name": "山东农科",
+    "title": "山东农科",
+    "uris": [
+      "http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8"
+    ]
+  },
+{
+    "group": "山东",
+    "logo": "https://img2.baidu.com/it/u=3241689448,3196380662&fm=253&fmt=auto&app=138&f=JPEG?w=584&h=389",
+    "name": "山东少儿",
+    "title": "山东少儿",
+    "uris": [
+      "http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕1",
+    "title": "咪咕1",
+    "uris": [
+      "http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕2",
+    "title": "咪咕2",
+    "uris": [
+      "http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕3",
+    "title": "咪咕3",
+    "uris": [
+      "http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕4",
+    "title": "咪咕4",
+    "uris": [
+      "http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕5",
+    "title": "咪咕5",
+    "uris": [
+      "http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕6",
+    "title": "咪咕6",
+    "uris": [
+      "http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕7",
+    "title": "咪咕7",
+    "uris": [
+      "http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕8",
+    "title": "咪咕8",
+    "uris": [
+      "http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕9",
+    "title": "咪咕9",
+    "uris": [
+      "http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕10",
+    "title": "咪咕10",
+    "uris": [
+      "http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕11",
+    "title": "咪咕11",
+    "uris": [
+      "http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕12",
+    "title": "咪咕12",
+    "uris": [
+      "http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕13",
+    "title": "咪咕13",
+    "uris": [
+      "http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225613/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕14",
+    "title": "咪咕14",
+    "uris": [
+      "http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕15",
+    "title": "咪咕15",
+    "uris": [
+      "http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕16",
+    "title": "咪咕16",
+    "uris": [
+      "http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕17",
+    "title": "咪咕17",
+    "uris": [
+      "http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕18",
+    "title": "咪咕18",
+    "uris": [
+      "http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕19",
+    "title": "咪咕19",
+    "uris": [
+      "http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕20",
+    "title": "咪咕20",
+    "uris": [
+      "http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8"
+    ]
+  },
+{
+    "group": "咪咕",
+    "logo": "https://pic.iask.cn/fimg/568634978561.jpg",
+    "name": "咪咕21",
+    "title": "咪咕21",
+    "uris": [
+      "http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8"
+    ]
+  }
+]

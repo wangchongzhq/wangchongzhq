@@ -11,6 +11,8 @@ Bloomberg_Asia[3840*2160],https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f
 
 CCTV4K[3840*2160],http://159.75.85.63:5679/cctv4k.php
 CCTV4K[3840*2160],http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv4k
+CCTV4K[3840*2160],http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV8K 超高清[3840*2160],https://tv.cry33.com/ys4k.php?id=8k
 
 CCTV16-4K[3840*2160],http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
 CCTV16-4K[3840*2160],http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
@@ -105,10 +107,13 @@ CCTV7[1920*1080][1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobi
 CCTV7[1920*1080][1920*1080],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7[1920*1080][1920*1080],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
 CCTV7[1920*1080][1920*1080],http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225671/index.m3u8
+
 CCTV8[1920*1080][1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8[1920*1080][1920*1080],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV8[1920*1080][1920*1080],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
 CCTV8[1920*1080][1920*1080],http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8
+CCTV8[1920*1080],http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+
 CCTV9[1920*1080][1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9[1920*1080][1920*1080],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV9[1920*1080][1920*1080],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8

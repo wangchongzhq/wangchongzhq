@@ -14,7 +14,7 @@
     "name": "CCTV2",
     "title": "CCTV2",
     "uris": [
-      "http://nas147.myds.me:8888/rtp/239.77.1.158:5146?Cf=cfss.cc"
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8"
     ]
   },
 {

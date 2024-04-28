@@ -14,7 +14,7 @@
     "name": "CCTV2",
     "title": "CCTV2",
     "uris": [
-      "http://61.158.166.45:1301/newysp.php?id=cctv2"
+      "http://nas147.myds.me:8888/rtp/239.77.1.158:5146?Cf=cfss.cc"
     ]
   },
 {

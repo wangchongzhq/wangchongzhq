@@ -32,7 +32,7 @@
     "name": "CCTV4",
     "title": "CCTV4",
     "uris": [
-      "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8"
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
     ]
   },
 {
@@ -123,7 +123,7 @@
     "name": "CCTV11",
     "title": "CCTV11",
     "uris": [
-      "http://150.138.8.143/00/SNM/CHANNEL00000344/index.m3u8"
+      "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4"
     ]
   },
 {
@@ -159,7 +159,7 @@
     "name": "CCTV15",
     "title": "CCTV15",
     "uris": [
-      "http://150.138.8.143/00/SNM/CHANNEL00000346/index.m3u8"
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
     ]
   },
 {
@@ -192,15 +192,13 @@
     ]
   },
 
-
-
 {
     "group": "央视",
     "logo": "https://img1.baidu.com/it/u=1536905844,1172426159&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
     "name": "家庭影院",
     "title": "家庭影院",
     "uris": [
-      "http://150.138.8.143/00/SNM/CHANNEL00002028/index.m3u8"
+      "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4"
     ]
   },
 
@@ -211,7 +209,7 @@
     "name": "高清电影",
     "title": "高清电影",
     "uris": [
-      "http://150.138.8.143/00/SNM/CHANNEL00002029/index.m3u8"
+      "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04"
     ]
   },
 {
@@ -220,9 +218,13 @@
     "name": "动作电影",
     "title": "动作电影",
     "uris": [
-      "http://150.138.8.143/00/SNM/CHANNEL00002030/index.m3u8"
+      "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ"
     ]
   },
+
+
+
+
 {
     "group": "山东",
     "logo": "https://www.ywdeyy.com/images/upload201606shandongweishi.jpg",

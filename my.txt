@@ -179,6 +179,20 @@
       "http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8"
     ]
   },
+
+
+{
+    "group": "央视",
+    "logo": "https://img1.baidu.com/it/u=1536905844,1172426159&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
+    "name": "CCTV4K",
+    "title": "CCTV4K",
+    "uris": [
+      "http://159.75.85.63:5679/cctv4k.php"
+    ]
+  },
+
+
+
 {
     "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",

@@ -14,7 +14,7 @@
     "name": "CCTV2",
     "title": "CCTV2",
     "uris": [
-      "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8"
+      "http://61.158.166.45:1301/newysp.php?id=cctv2"
     ]
   },
 {

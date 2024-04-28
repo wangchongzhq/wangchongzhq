@@ -409,6 +409,26 @@ CCTV女性时尚[1920*1080],http://61.158.166.45:1301/newysp.php?id=nxss
 CCTV世界地理[1920*1080],http://61.158.166.45:1301/newysp.php?id=sjdl
 CCTV卫生健康[1920*1080],http://61.158.166.45:1301/newysp.php?id=wsjk
 
+//
+
+CCTV1[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+CCTV3[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8
+CCTV5[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225818/index.m3u8
+CCTV5+[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8
+CCTV6[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225814/index.m3u8
+CCTV7[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8
+CCTV8[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225795/index.m3u8
+CCTV9[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9[1920*1080],http://39.134.65.208/PLTV/88888888/224/3221225676/index.m3u8
+CCTV10[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225677/index.m3u8
+CCTV10[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+CCTV12[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225669/index.m3u8
+CCTV14[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225674/index.m3u8
+CCTV14[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+CCTV14[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225674/index.m3u8
+CCTV17[1920*1080],http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
+
+
 //移动宽带央卫
 CCTV5[1920*1080],https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 CCTV12[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
@@ -416,6 +436,8 @@ CNA新闻[1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48
 亚洲新闻[1920*1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 半岛新闻[1920*1080],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 中国教育1[1920*1080],http://183.204.13.13/1.v.smtcdns.net/mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
+
+
 
 🇨🇳丨卫视,#genre#
 安徽卫视[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8

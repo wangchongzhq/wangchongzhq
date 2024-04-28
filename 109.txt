@@ -3,6 +3,10 @@
 4k修复[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 CCTV4K[3840*2160],http://159.75.85.63:5679/cctv4k.php
 CCTV4K[3840*2160],http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+
+CCTV4k[1920*1080],http://61.158.166.45:1301/newysp.php?id=cctv4k
+CCTV8k[1920*1080],http://61.158.166.45:1301/newysp.php?id=cctv8k
+
 CCTV8K[3840*2160],https://tv.cry33.com/ys4k.php?id=8k
 FTV[3840*2160],http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 FTV[3840*2160],https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
@@ -75,7 +79,7 @@ CCTV14[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 CCTV14[1920*1080],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 CCTV14[1920*1080],http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225674/index.m3u8
 CCTV15[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV15[1280*720][1280*720][1280*720],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
+CCTV15[1280*720],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
 CCTV16[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16[1920*1080],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV16[1920*1080],http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8

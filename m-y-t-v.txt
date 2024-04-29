@@ -198,7 +198,7 @@
     "name": "CCTV8K",
     "title": "CCTV8K",
     "uris": [
-      "https://tv.cry33.com/ys4k.php?id=8k"
+      "http://61.158.166.45:1301/newysp.php?id=cctv8k"
     ]
   },
 

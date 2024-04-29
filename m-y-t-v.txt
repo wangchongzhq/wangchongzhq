@@ -194,6 +194,17 @@
 
 {
     "group": "央视",
+    "logo": "  ",
+    "name": "CCTV8K",
+    "title": "CCTV8K",
+    "uris": [
+      "CCTV8K[3840*2160],https://tv.cry33.com/ys4k.php?id=8k"
+    ]
+  },
+
+
+{
+    "group": "央视",
     "logo": "https://img1.baidu.com/it/u=1536905844,1172426159&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500",
     "name": "家庭影院",
     "title": "家庭影院",

@@ -188,7 +188,7 @@
     "name": "CCTV4K",
     "title": "CCTV4K",
     "uris": [
-      "http://159.75.85.63:5679/cctv4k.php"
+      "http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8"
     ]
   },
 

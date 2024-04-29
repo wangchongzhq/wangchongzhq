@@ -198,7 +198,7 @@
     "name": "CCTV8K",
     "title": "CCTV8K",
     "uris": [
-      "CCTV8K[3840*2160],https://tv.cry33.com/ys4k.php?id=8k"
+      "https://tv.cry33.com/ys4k.php?id=8k"
     ]
   },
 

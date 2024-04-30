@@ -8,6 +8,17 @@
       "http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8"
     ]
   },
+  {
+    "group": "央视",
+    "logo": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/19/1629359983543_414.png",
+    "name": "CCTV1",
+    "title": "CCTV1",
+    "uris": [
+      "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8"
+    ]
+  },
+
+
 {
     "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",
@@ -19,6 +30,17 @@
   },
 {
     "group": "央视",
+    "logo": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316477977_992.png",
+    "name": "CCTV2",
+    "title": "CCTV2",
+    "uris": [
+      "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI"
+    ]
+  },
+
+
+{
+    "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",
     "name": "CCTV3",
     "title": "CCTV3",
@@ -26,6 +48,17 @@
       "http://39.134.66.110/PLTV/88888888/224/3221225799/index.m3u8"
     ]
   },
+{
+    "group": "央视",
+    "logo": "https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316623268_171.png",
+    "name": "CCTV3",
+    "title": "CCTV3",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8"
+    ]
+  },
+
+
 {
     "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
@@ -37,6 +70,17 @@
   },
 {
     "group": "央视",
+    "logo": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316491895_112.png",
+    "name": "CCTV4",
+    "title": "CCTV4",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8"
+    ]
+  },
+
+
+{
+    "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
     "name": "CCTV4欧洲",
     "title": "CCTV4欧洲",
@@ -46,6 +90,16 @@
   },
 {
     "group": "央视",
+    "logo": "https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316581631_560.png",
+    "name": "CCTV4欧洲",
+    "title": "CCTV4欧洲",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000350/index.m3u8"
+    ]
+  },
+
+{
+    "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",
     "name": "CCTV4美州",
     "title": "CCTV4美洲",
@@ -53,6 +107,17 @@
       "http://114.249.18.134:4022/rtp/239.3.1.214:4220"
     ]
   },
+
+{
+    "group": "央视",
+    "logo": "https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316587060_625.png",
+    "name": "CCTV4美州",
+    "title": "CCTV4美洲",
+    "uris": [
+      "http://150.138.8.143/00/SNM/CHANNEL00000351/index.m3u8"
+    ]
+  },
+
 {
     "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",
@@ -64,6 +129,16 @@
   },
 {
     "group": "央视",
+    "logo": "https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316501457_214.png",
+    "name": "CCTV5",
+    "title": "CCTV5",
+    "uris": [
+      "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8"
+    ]
+  },
+
+{
+    "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",
     "name": "CCTV5+",
     "title": "CCTV5+",
@@ -71,6 +146,17 @@
       "http://39.134.66.110/PLTV/88888888/224/3221225507/index.m3u8"
     ]
   },
+{
+    "group": "央视",
+    "logo": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316764208_806.png",
+    "name": "CCTV5+",
+    "title": "CCTV5+",
+    "uris": [
+      "http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS"
+    ]
+  },
+
+
 {
     "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",
@@ -82,6 +168,17 @@
   },
 {
     "group": "央视",
+    "logo": "https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316508331_888.png",
+    "name": "CCTV6",
+    "title": "CCTV6",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8"
+    ]
+  },
+
+
+{
+    "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",
     "name": "CCTV7",
     "title": "CCTV7",
@@ -89,6 +186,17 @@
       "http://39.134.66.110/PLTV/88888888/224/3221225671/index.m3u8"
     ]
   },
+{
+    "group": "央视",
+    "logo": "https://p5.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316515008_875.png",
+    "name": "CCTV7",
+    "title": "CCTV7",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8"
+    ]
+  },
+
+
 {
     "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",
@@ -100,6 +208,17 @@
   },
 {
     "group": "央视",
+    "logo": "https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316521994_45.png",
+    "name": "CCTV8",
+    "title": "CCTV8",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8"
+    ]
+  },
+
+
+{
+    "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",
     "name": "CCTV9",
     "title": "CCTV9",
@@ -107,6 +226,16 @@
       "http://39.134.66.110/PLTV/88888888/224/3221225676/index.m3u8"
     ]
   },
+{
+    "group": "央视",
+    "logo": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316529209_844.png",
+    "name": "CCTV9",
+    "title": "CCTV9",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8"
+    ]
+  },
+
 
 {
     "group": "央视",
@@ -119,6 +248,17 @@
   },
 {
     "group": "央视",
+    "logo": "https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316536409_552.png",
+    "name": "CCTV10",
+    "title": "CCTV10",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8"
+    ]
+  },
+
+
+{
+    "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",
     "name": "CCTV11",
     "title": "CCTV11",
@@ -126,6 +266,17 @@
       "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4"
     ]
   },
+{
+    "group": "央视",
+    "logo": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316543304_227.png",
+    "name": "CCTV11",
+    "title": "CCTV11",
+    "uris": [
+      "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4"
+    ]
+  },
+
+
 {
     "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",
@@ -137,6 +288,16 @@
   },
 {
     "group": "央视",
+    "logo": "https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316551442_666.png",
+    "name": "CCTV12",
+    "title": "CCTV12",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8"
+    ]
+  },
+
+{
+    "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",
     "name": "CCTV13",
     "title": "CCTV13",
@@ -144,6 +305,18 @@
       "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
     ]
   },
+{
+    "group": "央视",
+    "logo": "https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316470095_79.png",
+    "name": "CCTV13",
+    "title": "CCTV13",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8"
+    ]
+  },
+
+
+
 {
     "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",
@@ -155,6 +328,17 @@
   },
 {
     "group": "央视",
+    "logo": "https://p4.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316559993_215.png",
+    "name": "CCTV14",
+    "title": "CCTV14",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8"
+    ]
+  },
+
+
+{
+    "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",
     "name": "CCTV15",
     "title": "CCTV15",
@@ -162,6 +346,17 @@
       "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
     ]
   },
+{
+    "group": "央视",
+    "logo": "https://p1.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630317026734_339.png",
+    "name": "CCTV15",
+    "title": "CCTV15",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8"
+    ]
+  },
+
+
 {
     "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",
@@ -173,11 +368,31 @@
   },
 {
     "group": "央视",
+    "logo": "https://p2.img.cctvpic.com/photoAlbum/page/performance/img/2021/10/24/1635062945071_988.png",
+    "name": "CCTV16",
+    "title": "CCTV16",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8"
+    ]
+  },
+
+
+{
+    "group": "央视",
     "logo": "http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",
     "name": "CCTV17",
     "title": "CCTV17",
     "uris": [
       "http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8"
+    ]
+  },
+{
+    "group": "央视",
+    "logo": "https://p3.img.cctvpic.com/photoAlbum/page/performance/img/2021/8/30/1630316963072_190.png",
+    "name": "CCTV17",
+    "title": "CCTV17",
+    "uris": [
+      "http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8"
     ]
   },
 
@@ -191,6 +406,7 @@
       "http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8"
     ]
   },
+
 
 
 
@@ -221,6 +437,18 @@
     "title": "动作电影",
     "uris": [
       "http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ"
+    ]
+  },
+
+
+
+{
+    "group": "卫视",
+    "logo": "  ",
+    "name": "安徽卫视",
+    "title": "安徽卫视",
+    "uris": [
+      "http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8"
     ]
   },
 

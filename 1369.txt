@@ -33,7 +33,7 @@
 
 
 
-{"key": "ziji2","name":"💘橘子柚┃4K|弹幕💘","type":3,"api":"csp_Zijijiekou", "searchable": 1,"quickSearch":1, "ext":  {"token": "" ,"url":"https://www.juziyou.vip"}}, 
+{"key": "ziji2","name":"💘橘子柚┃4K|弹幕💘","type":3,"api":"csp_Zijijiekou", "searchable": 1,"quickSearch":1, "ext":  {"token": "" ,"url":"https://www.juziyou.vip"}","jar": "https://gitee.com/hackyjso/box/raw/main/jar/custom_spider.txt"},
 
 
 

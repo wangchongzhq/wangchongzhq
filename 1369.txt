@@ -23,7 +23,9 @@
 
 
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
-{"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"}},
+
+
+{"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"},"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
 
 
 

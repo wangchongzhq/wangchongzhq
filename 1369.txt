@@ -14,11 +14,8 @@
 
 "sites":[
 
-
-
  
 { "key": "挂影院", "name": "💝听听┃影院", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [  "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "电影解说", "足球", "篮球", "网球", "斯诺克", "预告片" ] }, 
-
 
 
 
@@ -43,8 +40,6 @@
 
 
 
-
-
 { "key": "csp_XYQHiker4klg", "name": "💅🏻原盘4k=🚢中国蓝4K", "type": 3, "api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://jihulab.com/ymz1231/json/-/raw/main/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json","jar": "https://agit.ai/guot54/ygbh/raw/branch/master/JAR/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"},
 
 
@@ -57,8 +52,6 @@
 {"key": "csp_XYQHikerlg4k","name": "🥨4k影院","type": 3,"api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz2","ext": "https://jihulab.com/ymz1231/json/-/raw/main/4KHDR.json"},
 
 {"key": "csp_XYQHikerdyx","name": "🚢电影港4K","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/chenlong622/2/-/raw/main/多多/json/电影港.json","jar": "https://jihulab.com/chenlong622/2/-/raw/main/多多/jars/csp_XYQHikerdyx.jar"},
-
-
 
 
 
@@ -116,7 +109,6 @@
 
 
 
-//
 //
 {"key": "xldj",    "name": "️短剧","type": 1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/   ","searchable": 1,   "quickSearch": 1,   "filterable": 1,   "categories": ["短剧" ] },
 {"key": "fszydj","name": "️短剧一次看爽","type": 1,"api":" https://www.feisuzyapi.com/api.php/provide/vod/?ac=list ", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧" ] },

@@ -102,48 +102,13 @@
 },
 
 
-{"key" : "csp_biubiu_dadagui","name" : "🐢达达龟","type" : 3,"api" : "csp_XPathFilter","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "https://agit.ai/l/o/raw/branch/o/o/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"},
 
-{"key":"csp_BBB1","name":"🅱️哔哩套餐（B站）","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/哔哩.json"},
-
-{"key": "教程","name": "🅱️教程合集（B站）","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://maoyingshi.cc/tvbox/云星日记/sh/MaooXB/教程.json"},
 
 {"key":"Bili_歌舞","name":"🅱️哔哔┃歌舞","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/乱舞.json"},
 {"key":"Bili_健身","name":"🅱️哔哔┃健身","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://notabug.org/qizhen15800/My9394/raw/master/json/健身.js"},
 
 
-{
-            "key": "Bili",
-            "name": "哔哔🅱合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json"
-        },
-        {
-            "key": "Biliych",
-            "name": "哔哔🅱歌曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json"
-        },
 
-
-
-{"key": "潇洒综合","name": "🅱️哔哩┃综合","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://download.kstore.space/download/2863/xpath/哔哩哔哩.json","jar": "https://download.kstore.space/download/2863/Bili.jar;md5;c5c337bb2793598e9aa5953898fbb087"},
 
 {"key": "极速资源lz","name": "🌸SP┃极速资源lz","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]},
 

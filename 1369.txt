@@ -169,6 +169,38 @@
 {"key": "fszydj","name": "️短剧一次看爽","type": 1,"api":" https://www.feisuzyapi.com/api.php/provide/vod/?ac=list ", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": ["短剧" ] },
 
 
+    {
+      "key": "csp_Czzy",
+      "name": "┃厂长影视┃请勿相信视频内广告",
+      "type": 3,
+      "api": "csp_Czzy",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://jxjson.icu/tvbox/厂长.jar",
+      "ext": "https://www.czys.top/"
+    },
+   {
+      "key": "drpy_js_酷狗MV",
+      "name": "📺┃酷狗┃音乐MV",
+      "type": 3,
+      "api": "https://jxjson.icu/tvbox/drpymin.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://jxjson.icu/tvbox/酷狗MV.js"
+    },
+  {
+      "key": "drpy_js_短视频",
+      "name": "📺┃聚合┃短视频",
+      "type": 3,
+      "api": "https://jxjson.icu/tvbox/drpymin.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://jxjson.icu/tvbox/短视频.js"
+    },
 
 
 
@@ -270,6 +302,32 @@
 { "name": "dm嗅探", "url": "https://dm.xmflv.com:4433/?url=", "type": 0, "ext": { "flag": [ "qiyi", "imgo", "爱奇艺", "奇艺", "qq", "腾讯", "youku", "优酷", "pptv", "PPTV", "letv", "乐视", "leshi", "bilibili", "哔哩哔哩", "哔哩", "mgtv", "芒果", "sohu", "xigua", "fun", "风行" ], "header": { "User-Agent": "Mozilla/5.0"}}}, 
 
 {"name": "xmflv","type": 0,"url": "https://jx.xmflv.com/?url="},
+
+    {
+      "name": "左岸接口",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "header": {
+        "User-Agent": "okhttp/4.9.3"
+      }
+    },
+    {
+      "name": "巴拉接口",
+      "type": 1,
+      "url": "https://jxjson.icu/fangdao.php?url=",
+      "header": {
+        "User-Agent": "okhttp/4.1.0"
+      }
+    },
+    {
+      "name": "芒果接口",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url=",
+      "header": {
+        "User-Agent": "okhttp/4.9.3"
+      }
+    },
+
 
 {"name": "剖云","type": 0,"url": "https://www.pouyun.com/?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]}},
 

@@ -54,14 +54,6 @@
 
 
 
-
-
-
-{"key": "i4k","name": "📀I4K","type": 3,"api": "csp_I4K","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "https://jihulab.com/hami/stop/-/raw/main/农作物/i4k.jar;md5;3e42de262d22a12432699eac342956bd"},
-
-{"key": "csp_XYQHiker蓝","name": "🐳中国蓝4K","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/VMXf8/%E4%B8%AD%E5%9B%BD%E8%93%9D%E5%85%89%E7%BD%91.json","jar":"https://download.kstore.space/download/4127/Xiang.txt;md5; 34c9dc42f82e201172ad1b5a981d0a60"},
-
-
 {"key": "csp_XYQHikerlg4k","name": "🥨4k影院","type": 3,"api": "csp_XYQHiker", "searchable": 1, "quickSearch": 1, "filterable": 1,"jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymz2","ext": "https://jihulab.com/ymz1231/json/-/raw/main/4KHDR.json"},
 
 {"key": "csp_XYQHikerdyx","name": "🚢电影港4K","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/chenlong622/2/-/raw/main/多多/json/电影港.json","jar": "https://jihulab.com/chenlong622/2/-/raw/main/多多/jars/csp_XYQHikerdyx.jar"},

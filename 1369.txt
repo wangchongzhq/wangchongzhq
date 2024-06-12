@@ -1,6 +1,6 @@
 {
 
-"spider": "https://gitee.com/zhqys/y-shzy/raw/master/Yoursmile.jar;md5;854533ABD7FF446D0DBC153B5F7FCDC5",
+"spider": "https://raw.kkgithub.com/wangchongzhq/wangchongzhq//main/Yoursmile.jar;md5;854533ABD7FF446D0DBC153B5F7FCDC5",
 
 
 

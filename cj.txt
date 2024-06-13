@@ -1,0 +1,44 @@
+{"urls":[
+
+{"url": "https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "🍇XC 南风线路"},
+
+{"url": "https://mpimg.cn/down.php/b5c9682adf791c63e59c29d903b59809.txt&88","name": "🍇基于XC 0228-改rules + 解析"},
+
+{"url": "https://raw.kkgithub.com/wangchongzhq/wangchongzhq/main/1369.txt","name": "🍇github1369  基于XC0612+短剧"},
+
+{"url": "https://gitee.com/zhqys/ysh/raw/master/1369.txt","name": "🍇gitee1369  基于XC"},
+
+{"url": "https://pastebin.com/raw/5NHaxyGR","name": "👻道长"},
+
+{"url":"http://肥猫.com","name":"💋肥猫线路"},
+
+
+{"url":"https://shorturl.at/druGT","name":"💋吾爱线路"},
+
+
+{"url": "https://jihulab.com/bh666/YGBH/-/raw/main/ygbox.json","name": "🌙月光线路"},
+
+
+{"url": "http://cdn.qiaoji8.com/tvbox.json","name": "🍑巧技"},
+
+//{"url":"http://饭太硬.ga/x/o.json","name":"🕎饭太硬"},
+{"url":"http://www.饭太硬.com/tv","name":"🕎饭太硬"},
+
+
+{"url":"http://home.jundie.top:81/top98.json","name":"♐️俊于=俊佬接口"},
+
+
+{"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json","name": "🔮潇洒"},
+
+
+{"url": "http://xhww.fun/小米/DEMO.json","name": "🚀小米"},
+
+
+
+{"url": "https://weixine.net/ysc.json","name": "🚀运输车线路"},
+
+
+
+{"url": "https://raw.liucn.cc/box/m.json", "name": "🚀老刘备线路" }
+
+]}

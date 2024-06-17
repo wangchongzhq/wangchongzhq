@@ -22,6 +22,13 @@ CCTV4K[3840*2160],http://www.kitcc.cn:8887/udp/239.77.0.232:5146
 CCTV8K[3840*2160],https://tv.cry33.com/ys4k.php?id=8k
 CCTV8K[3840*2160],http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 
+
+CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
+CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+
+
+
 CCTV16-4K[3840*2160],http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
 CCTV16-4K[3840*2160],https://tv.cry33.com/ys4k.php?id=16-4k
 

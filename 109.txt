@@ -1,26 +1,26 @@
 🇨🇳 4K,#genre#
 
-4KUHD[3840*2160],http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-4KUHD[3840*2160],http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
+4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+4KUHD,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 
 
-CCTV4K[3840*2160],http://159.75.85.63:5679/cctv4k.php
-CCTV4K[3840*2160],http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
-CCTV4K[3840*2160],http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
-CCTV4K[3840*2160],http://php.jdshipin.com:8880/PLTV/iptv.php?id=cctv4k
-CCTV4K[3840*2160],http://ainm.cc/a/play/php/cctv4k.php?id=4khd
-CCTV4K[3840*2160],https://tv.cry33.com/ys4k.php?id=4k
-CCTV4K[3840*2160],http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
-CCTV4K[3840*2160],http://jxtv2.gdsz.eu.org:8081/hls/144/index.m3u8
-CCTV4K[3840*2160],http://jxtv2.gdsz.eu.org:8081/hls/145/index.m3u8
-CCTV4K[3840*2160],http://www.kitcc.cn:8887/udp/239.77.0.194:5146
-CCTV4K[3840*2160],http://www.kitcc.cn:8887/udp/239.77.0.174:5146
-CCTV4K[3840*2160],http://www.kitcc.cn:8887/udp/239.77.0.232:5146
+CCTV4K,http://159.75.85.63:5679/cctv4k.php
+CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+CCTV4K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
+CCTV4K,http://php.jdshipin.com:8880/PLTV/iptv.php?id=cctv4k
+CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
+CCTV4K,https://tv.cry33.com/ys4k.php?id=4k
+CCTV4K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022575203.m3u8
+CCTV4K,http://jxtv2.gdsz.eu.org:8081/hls/144/index.m3u8
+CCTV4K,http://jxtv2.gdsz.eu.org:8081/hls/145/index.m3u8
+CCTV4K,http://www.kitcc.cn:8887/udp/239.77.0.194:5146
+CCTV4K,http://www.kitcc.cn:8887/udp/239.77.0.174:5146
+CCTV4K,http://www.kitcc.cn:8887/udp/239.77.0.232:5146
 
 
 
-CCTV8K[3840*2160],https://tv.cry33.com/ys4k.php?id=8k
-CCTV8K[3840*2160],http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
+CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
+CCTV8K,http://183.204.13.13/1.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2020603421.m3u8
 
 
 CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
@@ -29,67 +29,67 @@ CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 
 
 
-CCTV16-4K[3840*2160],http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
-CCTV16-4K[3840*2160],https://tv.cry33.com/ys4k.php?id=16-4k
+CCTV16-4K,http://php.jdshipin.com:8880/bst2.php?id=cctv16hd4k/15000000
+CCTV16-4K,https://tv.cry33.com/ys4k.php?id=16-4k
 
-FTV[3840*2160],http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-FTV[3840*2160],https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+FTV,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+FTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
 Love自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-爱上4K[3840*2160],http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-爱上4K[3840*2160],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+爱上4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
 
-放大镜4K[3840*2160],https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-
-
-
-北京IPTV4K[3840*2160],http://webmail.axxe.top:4022/rtp/239.3.1.249:8001
-北京IPTV4K[3840*2160],http://php.jdshipin.com:8880/iptv.php?id=bj4k
+放大镜4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 
-北京纪实科教8K[7680*4320],http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-北京纪实科教8K[7680*4320],http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-
-斗鱼4K影院[3840*2160],http://159.75.85.63:35455/douyu/9249162
-斗鱼4K影院[3840*2160],http://43.138.170.29:35455/douyu/9249162
-
-广东综艺4K[3840*2160],http://183.11.239.36:808/hls/9/index.m3u8?key=tvbox6_com&playlive=1&authid=0
-
-
-广东4K超高清[3840*2160],http://php.jdshipin.com:8880/iptv.php?id=gd4k
-
-广州南国都市4K[3840*2160],http://php.jdshipin.com:8880/iptv.php?id=ngds4k
+北京IPTV4K,http://webmail.axxe.top:4022/rtp/239.3.1.249:8001
+北京IPTV4K,http://php.jdshipin.com:8880/iptv.php?id=bj4k
 
 
 
-湖南IPTV4K[3840*2160],http://php.jdshipin.com:8880/iptv.php?id=hn4k
+北京纪实科教8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+
+斗鱼4K影院,http://159.75.85.63:35455/douyu/9249162
+斗鱼4K影院,http://43.138.170.29:35455/douyu/9249162
+
+广东综艺4K,http://183.11.239.36:808/hls/9/index.m3u8?key=tvbox6_com&playlive=1&authid=0
+
+
+广东4K超高清,http://php.jdshipin.com:8880/iptv.php?id=gd4k
+
+广州南国都市4K,http://php.jdshipin.com:8880/iptv.php?id=ngds4k
 
 
 
-华数4K测试[3840*2160],http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-华数4K测试[3840*2160],http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-华数4K测试[3840*2160],http://host.gaoxincloud.cn:4000/udp/239.109.205.53:8360
-华数4K测试[3840*2160]http://www.8700956.top:18888/rtp/239.81.0.123:4056?Cf=cfss.cc
+湖南IPTV4K,http://php.jdshipin.com:8880/iptv.php?id=hn4k
 
 
-华数4K影视[3840*2160],http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
+
+华数4K测试,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+华数4K测试,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+华数4K测试,http://host.gaoxincloud.cn:4000/udp/239.109.205.53:8360
+华数4K测试,http://www.8700956.top:18888/rtp/239.81.0.123:4056?Cf=cfss.cc
 
 
-咪咕体育4K[3840*2160],http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+华数4K影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 
 
-苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
-苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
-苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8?zjiangsd
-苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
-苏州4K[3840*2160],http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+咪咕体育4K,http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 
-绚影4K[3840*2160],http://php.jdshipin.com:8880/iptv.php?id=xy4k
+
+苏州4K,http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
+苏州4K,http://liveshowbak2.kan0512.com/ksznorecord/csztv4k_4k.m3u8?zjiangsd
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
+苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+
+绚影4K,http://php.jdshipin.com:8880/iptv.php?id=xy4k
 
 
 

@@ -114,56 +114,6 @@
 
 
 
-    {
-      "key": "yydsys",
-      "name": "┃阿里盘搜┃请勿相信视频内广告",
-      "type": 3,
-      "api": "csp_Wobg",
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60,
-      "ext": "http://jxjson.icu/tvbox/PG推送.json$$$https://tv.yydsys.top/$$$null$$$1$$$https://jxjson.icu/tvbox/wogg.json",
-      "jar": "https://jxjson.icu/tvbox/pg.jar"
-    },
-   {
-      "key": "drpy_js_腾讯",
-      "name": "┃腾讯视频┃[官网]",
-      "type": 3,
-      "api": "https://jxjson.icu/tvbox/drpymin.js",
-      "ext": "https://jxjson.icu/tvbox/腾讯.js"
-    },
-    {
-      "key": "drpy_js_芒果",
-      "name": "┃芒果TV┃[官网]",
-      "type": 3,
-      "api": "https://jxjson.icu/tvbox/drpymin.js",
-      "ext": "https://jxjson.icu/tvbox/芒果.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "┃优酷视频┃[官网]",
-      "type": 3,
-      "api": "https://jxjson.icu/tvbox/drpymin.js",
-      "ext": "https://jxjson.icu/tvbox/优酷.js"
-    },
-    {
-      "key": "drpy_js_爱奇艺",
-      "name": "┃爱奇艺┃[官网]",
-      "type": 3,
-      "api": "https://jxjson.icu/tvbox/drpymin.js",
-      "ext": "https://jxjson.icu/tvbox/爱奇艺.js"
-    },
-    {
-      "key": "drpy_js_搜狗视频",
-      "name": "┃搜狗视频┃[官网]",
-      "type": 3,
-      "api": "https://jxjson.icu/tvbox/drpymin.js",
-      "ext": "https://jxjson.icu/tvbox/搜狗视频.js"
-    },
- 
-
-
 
 
 //

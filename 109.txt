@@ -10,6 +10,7 @@
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://voicetest.cl3.sc96655.com/live/ys4Kcq_2000.m3u8
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
+CCTV4K,http://113.96.179.241/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 CCTV4K,http://php.jdshipin.com:8880/PLTV/iptv.php?id=cctv4k
 CCTV4K,https://tv.cry33.com/ys4k.php?id=4k
 CCTV4K,http://jxtv2.gdsz.eu.org:8081/hls/144/index.m3u8

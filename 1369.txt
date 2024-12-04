@@ -138,7 +138,6 @@
 
 
 
-
 //
         {
             "key": "我的阿里",
@@ -150,8 +149,10 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "token": "file://TV/ali_token.txt"
-            },
+                "token": "file://TV/ali_token.txt"      }
+            ,
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20OK.jar",
+
             "style": {
                 "type": "list"
             },
@@ -167,8 +168,10 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "cookie": "file://TV/quark_cookie.txt"
-            },
+                "cookie": "file://TV/quark_cookie.txt"}
+            ,
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20OK.jar",
+
             "style": {
                 "type": "list"
             },
@@ -184,8 +187,11 @@
             "filterable": 0,
             "indexs": 0,
             "ext": {
-                "uc_cookie": "file://TV/uc_cookie.txt"
-            },
+                "uc_cookie": "file://TV/uc_cookie.txt"          }
+            ,
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20OK.jar",
+
+
             "style": {
                 "type": "list"
             },
@@ -202,8 +208,10 @@
             "indexs": 0,
             "ext": {
                 "token": "file://TV/ali_token.txt",
-                "share": "file://TV/阿里集合.json"
-            },
+                "share": "file://TV/阿里集合.json"            }
+            ,
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20OK.jar",
+
             "style": {
                 "type": "list"
             },
@@ -211,7 +219,6 @@
         },
 
 
-//
  
 
 

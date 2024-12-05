@@ -1,7 +1,7 @@
 
 {
 
-"spider": "https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/Yoursmile20241205.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A",
+"spider": "https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/Yoursmile20241205.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A",
 
 "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 

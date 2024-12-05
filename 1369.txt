@@ -11,6 +11,87 @@
 
 "sites":[
 
+        {
+            "key": "我的阿里",
+            "name": "🐱我的┃阿里",
+            "type": 3,
+            "api": "csp_MyAli",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "file://TV/ali_token.txt"      }
+            ,
+            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20FTY.jar",
+
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
+        {
+            "key": "我的夸克",
+            "name": "🗽我的┃夸克",
+            "type": 3,
+            "api": "csp_MyQuark",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "cookie": "file://TV/quark_cookie.txt"}
+            ,
+            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20FTY.jar",
+
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
+        {
+            "key": "我的UC",
+            "name": "😼我的┃UC",
+            "type": 3,
+            "api": "csp_MyUc",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "uc_cookie": "file://TV/uc_cookie.txt"          }
+            ,
+            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20FTY.jar",
+
+
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
+        {
+            "key": "阿里合集",
+            "name": "🦋阿里┃合集",
+            "type": 3,
+            "api": "csp_AliShare",
+            "searchable": 1,
+            "changeable": 0,
+            "filterable": 0,
+            "indexs": 0,
+            "ext": {
+                "token": "file://TV/ali_token.txt",
+                "share": "file://TV/阿里集合.json"            }
+            ,
+            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20FTY.jar",
+
+            "style": {
+                "type": "list"
+            },
+            "timeout": 30
+        },
+
+
+
 {"key": "csp_XYQHikerdyx","name": "🚢电影港4K","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/chenlong622/2/-/raw/main/多多/json/电影港.json","jar": "https://jihulab.com/chenlong622/2/-/raw/main/多多/jars/csp_XYQHikerdyx.jar"},
 
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},
@@ -150,93 +231,10 @@
 
 {"key": "极速资源lz","name": "🌸SP┃极速资源lz","type": 1,"api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","韩国剧","欧美剧","记录片","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","电影解说"]},
 
-
-
-
-
-//
-        {
-            "key": "我的阿里",
-            "name": "🐱我的┃阿里",
-            "type": 3,
-            "api": "csp_MyAli",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "ext": {
-                "token": "file://TV/ali_token.txt"      }
-            ,
-            "jar":"./spider OK.jar",
-
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30
-        },
-        {
-            "key": "我的夸克",
-            "name": "🗽我的┃夸克",
-            "type": 3,
-            "api": "csp_MyQuark",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "ext": {
-                "cookie": "file://TV/quark_cookie.txt"}
-            ,
-            "jar":"./spider OK.jar",
-
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30
-        },
-        {
-            "key": "我的UC",
-            "name": "😼我的┃UC",
-            "type": 3,
-            "api": "csp_MyUc",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "ext": {
-                "uc_cookie": "file://TV/uc_cookie.txt"          }
-            ,
-            "jar":"./spider OK.jar",
-
-
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30
-        },
-        {
-            "key": "阿里合集",
-            "name": "🦋阿里┃合集",
-            "type": 3,
-            "api": "csp_AliShare",
-            "searchable": 1,
-            "changeable": 0,
-            "filterable": 0,
-            "indexs": 0,
-            "ext": {
-                "token": "file://TV/ali_token.txt",
-                "share": "file://TV/阿里集合.json"            }
-            ,
-            "jar":"./spider OK.jar",
-
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30
-        },
-
-
 //
  
+
+
 
 
 

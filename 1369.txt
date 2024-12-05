@@ -23,7 +23,7 @@
             "ext": {
                 "token": "file://TV/ali_token.txt"      }
             ,
-            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20FTY.jar",
+            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/blob/main/spider%20OK.jar",
 
             "style": {
                 "type": "list"
@@ -42,7 +42,7 @@
             "ext": {
                 "cookie": "file://TV/quark_cookie.txt"}
             ,
-            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20FTY.jar",
+            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/blob/main/spider%20OK.jar",
 
             "style": {
                 "type": "list"
@@ -61,7 +61,7 @@
             "ext": {
                 "uc_cookie": "file://TV/uc_cookie.txt"          }
             ,
-            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20FTY.jar",
+            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/blob/main/spider%20OK.jar",
 
 
             "style": {
@@ -82,13 +82,14 @@
                 "token": "file://TV/ali_token.txt",
                 "share": "file://TV/阿里集合.json"            }
             ,
-            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20FTY.jar",
+            "jar":"https://raw.kkgithub.com/wangchongzhq/wangchongzhq/blob/main/spider%20OK.jar",
 
             "style": {
                 "type": "list"
             },
             "timeout": 30
         },
+
 
 
 

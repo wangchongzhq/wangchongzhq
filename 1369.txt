@@ -59,7 +59,7 @@
 
 //
 
-//{"key": "csp_Xunlei8","name": "🧲┃迅雷┃磁力4k","type": 3,"jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymvip.jar","api": "csp_Xunlei8","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "csp_Xunlei8","name": "🧲┃迅雷┃磁力4k","type": 3,"jar": "https://jihulab.com/ymz1231/jar/-/raw/main/ymvip.jar","api": "csp_Xunlei8","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 
 
 
@@ -73,9 +73,9 @@
     "categories": ["内地剧","动作片","科幻片","战争片","喜剧片","爱情片","恐怖片","警匪片","剧情片","冒险片","记录片","韩剧","香港剧","台湾剧","欧美剧","日剧","马泰剧","体育赛事","综艺","动画片","中国动漫","本动漫","美国动漫","伦理"]},
 
 
-{"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/jianpian.json"},
+//{"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/jianpian.json"},
 
-//以下来自https://gitee.com/andyszou/tvbox/blob/master/catboxmzys.json
+
 {"key": "荐片弹幕","name": "荐片","jar": "https://gitee.com/xiaofei1980/tvbox/raw/master/lib/spider.jar","type": 3,"api": "csp_Jianpian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {  "danmu": false}},
 {"key": "xbpq_高清剧场","name": "高清┃玉玉","type": 3,"api": "csp_XBPQ","ext": {  "分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
 "分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports",
@@ -282,9 +282,9 @@
 {"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 
 {"key":"网盘集合","name":"🅿网盘集合|4K","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","share":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"}},
-{"key":"Youtube","name":"⚡Youtube（墙外）","type":3,"api":"csp_Youtube","searchable":1,"changeable":1,"style":{"type":"rect","ratio":1.433},"ext":{"json":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/youtube.json","cookie":"http://127.0.0.1:9978/file/TVBox/youtubecookie.json"}},
-{"key":"Tg | 豆瓣","name":"🅿Tg|豆瓣（墙外）","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","channelUsername":"hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/douban.json"}},
-{"key":"TgYunPan|本地","name":"🅿TgYunPan|本地（墙外）","type":3,"api":"csp_TgYunPanLocal","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
+
+
+
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 
 

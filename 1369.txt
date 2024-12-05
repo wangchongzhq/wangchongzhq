@@ -280,9 +280,6 @@
 {"key":"木偶","name":"🧸木偶","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://mogg.xn--yetu07f.top/","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
 {"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 
-{"key":"网盘集合","name":"🅿网盘集合|4K","type":3,"api":"csp_网盘集合","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","share":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"}},
-
-
 
 {"key":"push_agent","name":"🍭推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 

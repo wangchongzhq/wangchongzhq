@@ -17,6 +17,14 @@
 {"key": "我的UC","name": "😼我的┃UC","type": 3,"api": "csp_MyUc","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs": 0,"ext": {"uc_cookie": "file://TV/uc_cookie.txt"  },"jar":"https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20OK.jar","style": {"type": "list"},"timeout": 30},
 {"key": "阿里合集","name": "🦋阿里┃合集","type": 3,"api": "csp_AliShare","searchable": 1,"changeable": 0,"filterable": 0,"indexs": 0,"ext": {"token": "file://TV/ali_token.txt","share": "file://TV/阿里集合.json"},"jar":"https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20OK.jar","style": {"type": "list"},"timeout": 30},
 
+{
+"key": "酷狗",
+"name": "酷狗",
+"type": 3,
+"api": "csp_Kugou",
+"searchable": 1,
+"changeable": 0
+},
 
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},
 

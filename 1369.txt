@@ -21,8 +21,6 @@
 
 
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},
-{"key": "csp_New6v","name": "x🧲新6V","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"http://www.xb6v.com"},
-
 
 
 {"key": "搜索弹幕","name": "搜索｜弹幕","type": 3,"api": "csp_PanSearch","searchable": 1,"filterable": 0,"changeable": 1,"ext": {  "token": "http://127.0.0.1:9978/file/TVBox/token.txt","danmu": true}},

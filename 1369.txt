@@ -10,14 +10,14 @@
 
 
 "sites":[
-{"key": "csp_XYQHikerdyx","name": "🚢电影港4K","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/chenlong622/2/-/raw/main/多多/json/电影港.json","jar": "https://jihulab.com/chenlong622/2/-/raw/main/多多/jars/csp_XYQHikerdyx.jar"},
+
+{"key": "酷狗","name": "酷狗","type": 3,"api": "csp_Kugou","searchable": 1,"changeable": 0},
 
 {"key": "我的阿里","name": "🐱我的┃阿里","type": 3,"api": "csp_MyAli","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs": 0,"ext": {"token": "file://TV/ali_token.txt"  },"jar":"https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20OK.jar","style": {"type": "list"},"timeout": 30},
 {"key": "我的夸克","name": "🗽我的┃夸克","type": 3,"api": "csp_MyQuark","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs": 0,"ext": {"cookie": "file://TV/quark_cookie.txt"},"jar":"https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20OK.jar","style": {"type": "list"},"timeout": 30},
 {"key": "我的UC","name": "😼我的┃UC","type": 3,"api": "csp_MyUc","searchable": 0,"quickSearch": 0,"filterable": 0,"indexs": 0,"ext": {"uc_cookie": "file://TV/uc_cookie.txt"  },"jar":"https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20OK.jar","style": {"type": "list"},"timeout": 30},
 {"key": "阿里合集","name": "🦋阿里┃合集","type": 3,"api": "csp_AliShare","searchable": 1,"changeable": 0,"filterable": 0,"indexs": 0,"ext": {"token": "file://TV/ali_token.txt","share": "file://TV/阿里集合.json"},"jar":"https://ghp.ci/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20OK.jar","style": {"type": "list"},"timeout": 30},
 
-{"key": "酷狗","name": "酷狗","type": 3,"api": "csp_Kugou","searchable": 1,"changeable": 0},
 
 
 {"key":"csp_SixV","name":"🧲新6V","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.xb6v.com/"},
@@ -36,13 +36,12 @@
 
 
 
-
 //
+{"key":"木偶","name":"🧸木偶","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://mogg.xn--yetu07f.top/","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
 
-//{"key":"玩偶gg","name":"👽玩偶哥哥","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://www.wogg.net/","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
-{"key": "玩偶","name": "👽玩偶哥哥┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt","from": "4k|auto","siteUrl": "https://www.wogg.net/","danMu": "弹"},"jar": "https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/spider%20FTY.jar"},
-{"key": "玩偶","name": "👽玩偶┃4K弹幕","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.net/","danMu": "弹"},"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1714919832106/fan.txt;md5;4e1e8b71199c4a7f2daf0336cb42bad9"},
 
+{"key":"玩偶gg","name":"👽玩偶哥哥","type":3,"api":"csp_Wogg","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://www.wogg.net/","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
+{"key":"csp_WoGG","name":"玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 
 
     {
@@ -201,7 +200,7 @@
 {"key":"多多","name":"🌟多多影音","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://tv.yydsys.top","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
 {"key":"蜡笔","name":"🖍︎蜡笔","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://duopan.fun","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
 {"key":"至臻","name":"💌至臻","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"https://mihdr.top","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
-{"key":"木偶","name":"🧸木偶","type":3,"api":"csp_kongbai","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json","siteUrl":"http://mogg.xn--yetu07f.top/","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
+
 {"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
 
 

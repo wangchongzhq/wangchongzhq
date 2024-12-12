@@ -38,49 +38,6 @@ LoveNature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 
 🇨🇳 央视,#genre#
-
-
-
-🇨🇳 4K,#genre#
-
-4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-4KUHD,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
-4KUHD,http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
-
-CCTV4K,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
-
-华数4K,http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
-华数4K,http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
-华数4K,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-
-足球联赛,http://39.134.136.161:6610/000000001000/3000000010000005180/index.m3u8?livemode=1&stbId=2&channel-id=FifastbLive&Contentid=3000000010000005180
-足球联赛,http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=
-
-
-欢笑剧场,http://39.134.136.161:6610/000000001000/5000000007000010001/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000007000010001
-欢笑剧场,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-
-
-CCTV16,http://majian.ixiaobai.net:5540/udp/239.37.1.22:5540
-CCTV16,http://ipv4.sunjianwu.fun:8800/rtp/239.49.0.109:8000
-CCTV16,http://125.123.215.188:4022/rtp/233.50.201.63:5140$LR
-CCTV16,http://39.134.136.161:6610/000000001000/5000000008000023254/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000008000023254
-
-
-FTV,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-FTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
-LoveNature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-北京IPTV4K,http://php.jdshipin.com:8880/iptv.php?id=bj4k
-
-广东综艺4K,http://183.11.239.36:808/hls/9/index.m3u8?key=tvbox6_com&playlive=1&authid=0
-
-广州南国都市4K,http://php.jdshipin.com:8880/iptv.php?id=ngds4k
-
-
-
-🇨🇳 央视,#genre#
 CCTV1[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
 CCTV1[1920*1080],http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
@@ -95,6 +52,7 @@ CCTV4[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/i
 
 CCTV5[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5[1920*1080],http://183.94.1.118:8801/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 
 CCTV5+[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
 CCTV6[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
@@ -109,21 +67,27 @@ CCTV9[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/i
 CCTV10[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
 CCTV10[1920*1080],http://111.14.181.15:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 
+
+CCTV11[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11[1920*1080],http://111.14.181.15:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+
+CCTV12[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
 CCTV12[1920*1080],http://111.14.181.15:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV13[1920*1080],http://111.14.181.15:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+CCTV13[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 CCTV14[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+CCTV14[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 
-CCTV15[1920*1080],http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 
-CCTV16[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+CCTV16[1920*1080],http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
 
-CCTV17[1920*1080],http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
-
-
-
+CCTV17[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
+CCTV17[1920*1080],http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
 
 CCTV4[1920*1080],http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
 CCTV5[1920*1080],http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
@@ -147,9 +111,32 @@ CCTV14[1920*1080],http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226591/
 CCTV14[1920*1080],http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
 CCTV15[1920*1080],http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226476/index.m3u8
 CCTV15[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV16[1920*1080],http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-CCTV17[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
-CCTV17[1920*1080],http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
+
+
+
+CCTV17[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+CCTV1[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+CCTV4[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV6[1920*1080],http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+
+
+
+
+
+
+CCTV15[1920*1080],http://111.14.181.15:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+CCTV16[1920*1080],http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+
+CCTV17[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+
+CCTV17[1920*1080],http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
+
+
+
+
+
 
 CCTV1[1920*1080],http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8
 CCTV1[1920*1080],http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
@@ -189,18 +176,6 @@ CCTV14[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLT
 CCTV15[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV16[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 //
-CCTV11[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV17[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV1[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-CCTV4[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV6[1920*1080],http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV13[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV15[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
-CCTV17[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CCTV11[1920*1080],http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-CCTV5[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV12[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
-CCTV14[1920*1080],http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
 
 CCTV3[1920*1080],http://[2409:8087:1a0a:df::404e]:80/wh7f454c46tw1306766403_-33994166/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?icpid=88888888&RTS=1713968135&from=4&hms_devid=1208&online=1713968135&vqe=3
 CCTV5[1920*1080],http://[2409:8087:1a0a:df::4017]:80/wh7f454c46tw1517328845_1706942365/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8?icpid=88888888&RTS=1713968346&from=4&hms_devid=990&online=1713968346&vqe=3
@@ -254,6 +229,7 @@ CGTN俄语[1920*1080],https://0472.org/hls/cgtne.m3u8
 CGTN法语[1920*1080],https://0472.org/hls/cgtnf.m3u8
 
 
+//以下来自：https://github.com/354c3675-906f-4ac0-b12f-670968b20782
 CCTV1[1920*1080],http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000265001/1.m3u8$LR•IPV6『线路2』
 CCTV1[1920*1080],http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002133/index.m3u8$LR•IPV6『线路4』
 CCTV1[1920*1080],http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226733/index.m3u8$LR•IPV6『线路5』

@@ -1120,7 +1120,6 @@ CCTV5,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000005
 CCTV5,http://219.128.121.202:59901/tsfile/live/1004_1.m3u8?key=txiptv	
 CCTV5,http://122.139.141.107:9901/tsfile/live/0005_1.m3u8	
 CCTV5,http://221.233.192.152:1111/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0	
-CCTV5[0*0],http://60.2.190.206:4000/udp/239.253.92.181:6046	
 CCTV5,http://120.0.52.241:8086/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0	
 CCTV5,http://123.113.249.203:8888/udp/239.3.1.173:8001	
 CCTV5,http://114.252.238.87:8000/udp/239.3.1.173:8001	
@@ -1165,7 +1164,6 @@ CCTV5+,http://113.57.109.48:1111/tsfile/live/1016_1.m3u8
 CCTV5+,http://111.160.17.2:59901/tsfile/live/0001_6.m3u8	
 CCTV5+,http://59.173.183.242:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0	
 CCTV5+,http://221.233.192.152:1111/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0	
-CCTV5+[0*0],http://222.129.139.229:8888/rtp/239.3.1.130:8004	
 CCTV5+,http://123.117.237.15:8680/rtp/239.3.1.130:8004	
 CCTV5+,http://123.113.187.204:8000/rtp/239.3.1.130:8004	
 CCTV5+,http://221.219.79.161:4000/rtp/239.3.1.130:8004	
@@ -1401,7 +1399,6 @@ CCTV7,http://219.159.194.4:8181/tsfile/live/0007_1.m3u8
 CCTV7,http://222.142.65.165:9901/tsfile/live/0007_1.m3u8	
 CCTV7,http://60.255.240.247:8090/live/CCTV-7H265_4000.m3u8	
 CCTV7,http://1.203.111.193:17777/udp/225.1.8.7:8104	
-CCTV7[0*0],http://221.222.162.206:8888/udp/239.3.1.61:8104	
 CCTV7,http://221.219.79.161:4000/udp/239.3.1.61:8104	
 CCTV7,http://60.10.106.114:555/udp/239.253.92.194:6059	
 CCTV7,http://114.249.229.24:8888/udp/239.3.1.61:8104	
@@ -1636,7 +1633,6 @@ CCTV9,http://110.80.17.38:9901/tsfile/live/0009_1.m3u8?key=txiptv
 CCTV9,http://219.147.200.9:18080/newlive/live/hls/9/live.m3u8	
 CCTV9,http://183.94.146.109:2222/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0	
 CCTV9,http://123.113.187.204:8000/udp/239.3.1.62:8112	
-CCTV9[0*0],http://222.129.139.229:8888/udp/239.3.1.62:8112	
 CCTV9,http://58.220.219.14:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0	
 CCTV9,http://219.128.121.202:59901/tsfile/live/0009_1.m3u8?key=txiptv	
 CCTV9,http://223.166.234.19:7777/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0	
@@ -1790,7 +1786,6 @@ CCTV11,http://222.129.139.229:8888/rtp/239.3.1.152:8120
 CCTV11,http://123.117.237.15:8680/rtp/239.3.1.152:8120	
 CCTV11,http://123.113.187.204:8000/rtp/239.3.1.152:8120	
 CCTV11,http://221.219.79.161:4000/rtp/239.3.1.152:8120	
-CCTV11[0*0],http://60.2.190.206:4000/rtp/239.253.93.153:6321	
 CCTV11,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?	
 CCTV11,http://www.furymax.top:85/rtp/239.69.1.154:10560	
 CCTV11,http://wouu.net:9977/udp/239.93.0.102:5140	
@@ -2202,7 +2197,6 @@ CCTV14,http://219.128.121.202:59901/tsfile/live/0014_1.m3u8?key=txiptv
 CCTV14,http://123.113.187.204:8000/udp/239.3.1.65:8132	
 CCTV14,http://222.129.139.91:8888/udp/239.3.1.65:8132	
 CCTV14,http://1.203.111.193:17777/udp/225.1.8.14:8132	
-CCTV14[0*0],http://221.222.162.206:8888/udp/239.3.1.65:8132	
 CCTV14,http://221.219.79.161:4000/udp/239.3.1.65:8132	
 CCTV14,http://60.10.106.114:555/udp/239.253.92.198:6063	
 CCTV14,http://114.249.229.24:8888/udp/239.3.1.65:8132	
@@ -2412,7 +2406,6 @@ CCTV17,http://1.203.111.193:17777/udp/225.1.8.17:8144
 CCTV17,http://221.222.162.206:8888/udp/239.3.1.151:8144	
 CCTV17,http://221.219.79.161:4000/udp/239.3.1.151:8144	
 CCTV17,http://60.10.106.114:555/udp/239.253.93.150:6318	
-CCTV17[0*0],http://114.249.229.24:8888/udp/239.3.1.151:8144	
 CCTV17,http://60.210.100.54:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0	
 CCTV17,http://115.60.241.249:2000/rtp/225.1.4.226:2506	
 CCTV17,http://218.89.240.144:59901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0	
@@ -3366,7 +3359,6 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225729/index.m3
 湖南卫视,http://221.2.148.205:8154/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0	
 湖南卫视,http://221.213.69.82:9901/tsfile/live/0127_2.m3u8	
 湖南卫视,http://221.219.79.161:4000/udp/239.3.1.132:8012	
-湖南卫视[0*0],http://221.222.162.206:8888/udp/239.3.1.132:8012	
 湖南卫视,http://221.224.4.170:1111/tsfile/live/0128_1.m3u8	
 湖南卫视,http://221.233.192.152:1111/tsfile/live/0128_1.m3u8	
 湖南卫视,http://222.129.139.229:8888/rtp/239.3.1.132:8012	

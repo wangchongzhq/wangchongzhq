@@ -125,7 +125,7 @@ CCTV14,http://[2409:8087:1a0a:df::404d]:80/wh7f454c46tw1988565230_-380430064/ott
 CCTV16,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2135331742_-653554677/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8?icpid=88888888&RTS=1713968964&from=4&hms_devid=1144&online=1713968964&vqe=3
 CCTV17,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw2178989547_-748691326/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8?icpid=88888888&RTS=1713969007&from=4&hms_devid=1144&online=1713969007&vqe=3
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
-CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226419/index.m3u8
+
 CCTV1,http://[2409:8087:1a0a:df::4031]:80/wh7f454c46tw705163907_345094122/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8?icpid=88888888&RTS=1713967534&from=4&hms_devid=1143&online=1713967534&vqe=3
 CCTV4,http://[2409:8087:1a0a:df::4032]:80/wh7f454c46tw1452344678_931674717/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8?icpid=88888888&RTS=1713968281&from=4&hms_devid=1143&online=1713968281&vqe=3
 CCTV5,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
@@ -2645,9 +2645,11 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225729/index.m3
 河南卫视,http://[2409:8087:1a0a:df::402b]:80/wh7f454c46tw3580436585_-1356766422/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8?icpid=88888888&RTS=1713970409&from=4&hms_devid=989&online=1713970409&vqe=3	
 黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8	
 黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8	
-黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8?	
-黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8?	
-黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8	
+黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8
+黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226419/index.m3u8	
+黑龙江卫视,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226467/index.m3u8	
+黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+
 黑龙江卫视,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw3745569663_1783156534/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8	
 黑龙江卫视,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw3745569663_1783156534/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8?icpid=88888888&RTS=1713970574&from=4&hms_devid=1144&online=1713970574&vqe=3	
 黑龙江卫视,http://[2409:8087:1a0a:df::4030]:80/wh7f454c46tw3745569663_1783156534/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8?icpid=88888888&RTS=1713970574&from=4&hms_devid=1144&online=1713970574&vqe=3	

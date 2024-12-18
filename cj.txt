@@ -1,10 +1,12 @@
+
+
 {"urls":[
 
 {"url": "https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json","name": "🚀南风线路"},
 
 {"url": "https://raw.kkgithub.com/wangchongzhq/wangchongzhq/main/1369.txt","name": "🍇github1369-1"},
 
-{"url": "https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/1369.txt","name": "🍇github1369-2"},
+{"url": "https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/1369.txt","name": "🍇github1369-2"},
 
 
 {"url": "https://gitee.com/zhqys/y-shzy/raw/master/1369.txt","name": "🍇gitee 1369"},

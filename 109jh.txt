@@ -2,7 +2,11 @@
 4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 4KUHD,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 4KUHD,http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
-CCTV4K,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IASHttpSessionId=
+
+CCTV4K,http://113.194.51.14:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
+CCTV4K,http://121.29.215.23:2083/rtp/239.253.93.134:6631
+
+
 华数4K,http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?livemode=1&stbId=1213&channel-id=wasusyt&Contentid=6000000003000004748
 华数4K,http://39.134.136.161:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
 华数4K,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -20,6 +24,7 @@ LoveNature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 北京IPTV4K,http://php.jdshipin.com:8880/iptv.php?id=bj4k
 广东综艺4K,http://183.11.239.36:808/hls/9/index.m3u8?key=tvbox6_com&playlive=1&authid=0
 广州南国都市4K,http://php.jdshipin.com:8880/iptv.php?id=ngds4k
+
 
 🇨🇳 央视,#genre#
 ////可回看

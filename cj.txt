@@ -1,31 +1,31 @@
-
-
 {"urls":[
 
-{"url": "https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json","name": "🚀南风线路"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "🚀南风线路"},
 
-{"url": "https://raw.kkgithub.com/wangchongzhq/wangchongzhq/main/1369.txt","name": "🍇github1369-1"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/main/1369.txt","name": "🍇github1369-1"},
 
-{"url": "https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/1369.txt","name": "🍇github1369-2"},
+{"url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/refs/heads/main/1369.txt","name": "🍇github1369-2"},
 
 
 {"url": "https://gitee.com/zhqys/y-shzy/raw/master/1369.txt","name": "🍇gitee 1369"},
 
 
+{"url":"http://www.饭太硬.com/tv","name":"🕎饭太硬"},
+
 
 {"url":"http://肥猫.com","name":"💋肥猫线路"},
+
+{"url":"https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json","name":"liu673cn"},
+
+{"url":"https://fastly.jsdelivr.net/gh/xhstv/tvkj@master/xhstv.json","name":"天微"},
+
 
 
 
 {"url": "http://cdn.qiaoji8.com/tvbox.json","name": "🍑巧技"},
 
 
-
-{"url":"http://www.饭太硬.com/tv","name":"🕎饭太硬"},
-
-
 {"url":"https://tv.xn--yhqu5zs87a.top","name":"🌾菜妮丝"},
-
 
 
 {"url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json","name": "💃不良帅"},
@@ -123,7 +123,7 @@
       "name": "🚀天天开心"
     },
     {
-      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/main.json",
       "name": "🚀插兜线路"
     },
     {
@@ -159,7 +159,7 @@
       "name": "🚀菜妮丝线"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "🚀香雅情线"
     },
     {
@@ -175,7 +175,7 @@
       "name": "🚀神仙线路"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/maoystv/6/main/000.json",
       "name": "🚀分享者"
     },
     {
@@ -191,11 +191,11 @@
       "name": "🚀挺好线路"
     },
     {
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
       "name": "🚀老刘线路"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "🚀高天流云"
     },
     {
@@ -215,4 +215,3 @@
       "name": "🚀短剧大全"
     }
   ]
-}

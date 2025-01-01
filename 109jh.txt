@@ -2880,8 +2880,8 @@ CHC家庭影院,http://183.94.146.109:2222/tsfile/live/1018_1.m3u8?key=txiptv&pl
 欢乐剧场,http://gslbserv.itv.cmvideo.cn:80/2000000003000000050/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000050&livemode=1&stbId=fy666	
 欢乐剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8	
 欢笑剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.m3u8	
-欢笑剧场4K,http://gslbserv.itv.cmvideo.cn:80/2000000002000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=fy666	
-欢笑剧场4K,http://gslbserv.itv.cmvideo.cn:80/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=fy666	
+欢笑剧场,http://gslbserv.itv.cmvideo.cn:80/2000000002000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=fy666	
+欢笑剧场,http://gslbserv.itv.cmvideo.cn:80/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=fy666	
 纪实科教,http://[2409:8087:74d9:21::6]:80/270000001128/9900000515/index.m3u8	
 纪实人文,http://gslbserv.itv.cmvideo.cn:80/1000000001000010606/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010606&livemode=1&stbId=fy666	
 纪实人文,http://gslbserv.itv.cmvideo.cn:80/1000000001000016545/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=fy666	

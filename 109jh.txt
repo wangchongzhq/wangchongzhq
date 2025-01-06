@@ -24,12 +24,6 @@ CCTV16,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
 
 河南卫视4K,http://43217878.xyz:5566/rtp/239.16.20.199:11990
 
-重庆卫视,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=ace
-青海卫视,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=ace
-兵团卫视,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=ace
-新疆卫视,http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=ace
-
-
 
 CCTV1,http://223.105.252.60/PLTV/4/224/3221228732/index.m3u8?servicetype=1
 CCTV3,http://223.105.252.60/PLTV/4/224/3221228499/index.m3u8?servicetype=1

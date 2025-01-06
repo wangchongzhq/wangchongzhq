@@ -37,6 +37,14 @@ http://php.jdshipin.com:8880/iptv.php?id=bj4k
 http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=31%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=3
 #EXTINF:-1 group-title="🇨🇳 4K",河南卫视4K
 http://43217878.xyz:5566/rtp/239.16.20.199:11990
+#EXTINF:-1 group-title="🇨🇳 4K",重庆卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=ace
+#EXTINF:-1 group-title="🇨🇳 4K",青海卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=ace
+#EXTINF:-1 group-title="🇨🇳 4K",兵团卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=ace
+#EXTINF:-1 group-title="🇨🇳 4K",新疆卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=ace
 #EXTINF:-1 group-title="🇨🇳 4K",CCTV1
 http://223.105.252.60/PLTV/4/224/3221228732/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="🇨🇳 4K",CCTV3
@@ -83,10 +91,6 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇨🇳 4K",广东综艺4K
 http://183.11.239.36:808/hls/9/index.m3u8?key=tvbox6_com&playlive=1&authid=0
-#EXTINF:-1 group-title="🇨🇳 4K",广州南国都市
-http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 group-title="🇨🇳 4K",广州南国都市
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 #EXTINF:-1 group-title="🇨🇳 央视",CCTV1
 http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00000250001B50800001B401420BC069&userToken=&usergroup=
 #EXTINF:-1 group-title="🇨🇳 央视",CCTV2
@@ -4931,6 +4935,166 @@ http://60.210.100.54:352/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 group-title="########",卡酷少儿
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="国内百视通",CCTV1
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265001&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV2
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV2
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000005000031113&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV3
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265003&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV4
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV4
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265004&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV5
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265005&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV6
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265006&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV7
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031104&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV7
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000005000026715&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV9
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV10
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV10
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV11
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV12
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031107&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV13
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV13
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV15
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV16
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CETV1
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CETV2
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031201&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CCTV4
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CETV4
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000012123&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",CETV4
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",北京卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",北京卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265011&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",东方卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000032246&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",东方卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",东方卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265007&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",东南卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",云南卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031120&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",吉林卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",四川卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006119&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",天津卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000030788&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",天津卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006827&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",山东卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000020424&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",广东卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000014694&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",广西卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",江苏卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018509&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",江苏卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000019351&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",江苏卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265009&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",江西卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000011210&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",河北卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",河南卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",浙江卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000017320&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",湖南卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000030452&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",湖南卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265010&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",湖南卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",浙江卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000007275&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",湖北卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000014954&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",安徽卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",安徽卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000027288&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",甘肃卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",辽宁卫视
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",卡酷少儿
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000265008&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",新闻综合
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",法治天地
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",东方财经
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",乐游
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",动漫秀场
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",哈哈炫动
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",欢笑剧场
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",游戏风云
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",都市频道
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",金色学堂
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",魅力足球
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",财富天下
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031208&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",茶频道
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",金鹰纪实
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",金鹰卡通
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",家庭理财
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000011000031210&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",百事通直播1
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000001116&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",百事通直播2
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000002898&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",百视通直播3
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000004876&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",百事通直播4
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000006777&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",百事通直播5
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000017342&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",百视通直播6
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000026930&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",百事通直播7
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000019233&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",百事通直播8
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000022620&livemode=1&stbId=ace
+#EXTINF:-1 group-title="国内百视通",百事通直播9
+http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000001000023256&livemode=1&stbId=ace
 #EXTINF:-1 group-title="港·澳·台",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 #EXTINF:-1 group-title="港·澳·台",凤凰中文

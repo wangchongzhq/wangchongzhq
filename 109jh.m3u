@@ -37,14 +37,6 @@ http://php.jdshipin.com:8880/iptv.php?id=bj4k
 http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=31%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=3
 #EXTINF:-1 group-title="🇨🇳 4K",河南卫视4K
 http://43217878.xyz:5566/rtp/239.16.20.199:11990
-#EXTINF:-1 group-title="🇨🇳 4K",重庆卫视
-http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000004000025797&livemode=1&stbId=ace
-#EXTINF:-1 group-title="🇨🇳 4K",青海卫视
-http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=ace
-#EXTINF:-1 group-title="🇨🇳 4K",兵团卫视
-http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040020&livemode=1&stbId=ace
-#EXTINF:-1 group-title="🇨🇳 4K",新疆卫视
-http://[2409:8087:5e08:24::16]:6610/000000001000/0/index.m3u8?channel-id=bestzb&Contentid=5000000006000040018&livemode=1&stbId=ace
 #EXTINF:-1 group-title="🇨🇳 4K",CCTV1
 http://223.105.252.60/PLTV/4/224/3221228732/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="🇨🇳 4K",CCTV3

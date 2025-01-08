@@ -1,11 +1,10 @@
-
 {"urls":[
 
-{"url": "https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json","name": "🚀南风线路"},
+{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "🚀南风线路"},
 
 {"url": "https://raw.kkgithub.com/wangchongzhq/wangchongzhq/refs/heads/main/1369.txt","name": "🍇github1369-1"},
 
-{"url": "https://raw.kkgithub.com/wangchongzhq/wangchongzhq/main/1369.txt","name": "🍇github1369-2"},
+{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/main/1369.txt","name": "🍇github1369-2"},
 
 {"url": "https://gitee.com/zhqys/y-shzy/raw/master/1369.txt","name": "🍇gitee 1369"},
 
@@ -17,21 +16,17 @@
 
 {"url":"https://fastly.jsdelivr.net/gh/liu673cn/box@main/m.json","name":"liu673cn"},
 
-
 {"url": "http://cdn.qiaoji8.com/tvbox.json","name": "🍑巧技"},
 
 {"url":"https://tv.xn--yhqu5zs87a.top","name":"🌾菜妮丝"},
 
 {"url": "https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json","name": "💃不良帅"},
 
-
 {"url":"http://home.jundie.top:81/top98.json","name":"♐️俊于=俊佬接口"},
-
 
 {"url": "https://weixine.net/ysc.json","name": "🚀运输车线路"},
 
 {"url": "https://raw.liucn.cc/box/m.json", "name": "🚀老刘备线路" },
-
 
     {
       "url": "http://meowtv.top/tv",
@@ -45,7 +40,6 @@
       "url": "https://szyyds.cn/tv/x.json",
       "name": "🚀小马线路"
     },
-
     {
       "url": "http://www.饭太硬.com/tv",
       "name": "🚀饭硬专线"
@@ -58,22 +52,18 @@
       "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
       "name": "🚀D佬魔改"
     },
-
     {
       "url": "http://www.mpanso.com/小米/DEMO.json",
       "name": "🚀小米线路"
     },
-
     {
       "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
       "name": "🚀道长线路"
     },
-
     {
       "url": "https://4708.kstore.space/omg/omg.json",
       "name": "🚀拾光专线"
     },
-
     {
       "url": "http://mzjk.top/禁止贩卖",
       "name": "🚀宝盒线路"
@@ -83,28 +73,25 @@
       "name": "🚀菜妮丝线"
     },
     {
-      "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/XYQ.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "🚀香雅情线"
     },
-
     {
       "url": "https://ztha.top/TVBox/thdjk.json",
       "name": "🚀挺好线路"
     },
     {
-      "url": "https://raw.kkgithub.com/liu673cn/box/main/m.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
       "name": "🚀老刘线路"
     },
     {
-      "url": "https://raw.kkgithub.com/gaotianliuyun/gao/master/js.json",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "🚀高天流云"
     },
-
     {
       "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json",
       "name": "🚀青龙影线"
     },
-
     {
       "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
       "name": "🚀短剧大全"

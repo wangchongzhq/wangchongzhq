@@ -1,15 +1,11 @@
 🇨🇳 4K,#genre#
-
 4KUHD,http://39.134.136.161:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
 4KUHD,http://gslbserv.itv.cmvideo.cn:80/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=fy666
 4KUHD,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 4KUHD,http://[2409:8087:5e00:24::029]:6610/000000001000/1000000004000011651/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000004000011651
 
-
 CCTV1,http://223.105.252.60/PLTV/4/224/3221228732/index.m3u8?servicetype=1
 CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
-
-
 
 CCTV3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
 CCTV3,http://223.105.252.60/PLTV/4/224/3221228499/index.m3u8?servicetype=1
@@ -17,10 +13,8 @@ CCTV3,http://223.105.252.60/PLTV/4/224/3221228499/index.m3u8?servicetype=1
 CCTV4K,http://223.105.252.60/PLTV/4/224/3221228228/index.m3u8?servicetype=1
 CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 
-
 CCTV5,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
 CCTV8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
-
 
 CCTV16,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
 CCTV16,http://223.105.252.60/PLTV/4/224/3221228314/index.m3u8?servicetype=1
@@ -2714,22 +2708,50 @@ Sky News,https://stream.skynewsarabia.com/hls/sna_720.m3u8
 TMA Caraïbes,http://hls.tmacaraibes.com/live/index.m3u8
 
 📺【韩语频道】,#genre#
+ABNHD,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
+BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
+BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
+CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+GugakTV國樂放送,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 iHQ 돈쭐내러 왔습니다,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=ihq%EB%8F%88%EC%AD%90%EB%82%B4%EB%9F%AC%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4&channel_id=newid_066&apikey=b97c7a7d0c82424bb607e141ef215779&auth=7655c725-1db330b1-ae689684-c7002a87&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name
+KBC SBS综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
+KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 KBC 광주방송 (SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-KBS WORLD,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-KBS WORLD,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+KBS1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS2,http://mytv.dothome.co.kr/ch/public/3.php
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist.m3u
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
+KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
 KCTV朝鲜中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 MBC 무한도전,https://d10m2y49qo2prz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ti9izov8t0kyp-prod/Channel_MBC_1.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 MBC 综艺频道,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 MBC 어쩌다 발견한 하루,https://d3olsdkvjaij5t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xr45ydzp0qwbr-prod/Channel_MBC_5.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 MBC 왔다! 장보리,https://d386gkzosr3i38.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fm713l3q6ryzr-prod/Channel_MBC_8.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 MBC 해를 품은 달,https://d13bfaug2ipt96.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-49ujgh90ynpdw-prod/Channel_MBC_2.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+MBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
+MbcYeosu,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
+MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
 Mnet 스트릿 우먼 파이터,https://d35dv31kxp3bol.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-oc5lbsxrbmd0d-ssai-prd/f9d55b7b_6be1_465e_9451_05ebac892aed/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000191N
+Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
+NBS农业广播,https://media.joycorp.co.kr:4443/live/ngrp:live_all/playlist.m3u8
+NBS农业广播,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
+SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+SBS,http://1.245.74.5:1935/live/tv/.m3u8
 TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-TJB (SBS 大田),http://1.245.74.5:1935/live/tv/.m3u8
-TJBI SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
+TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
+TJB(SBS大田),http://1.245.74.5:1935/live/tv/.m3u8
+TJB SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
+TJB SBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
+TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
 tvN 군검사 도베르만,https://d2mecmy93314jg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ysoihaaolxdeo-ssai-prd/8774f2b9_200a_41a9_b741_0882edc4765b/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200016H1
 tvN 꽃보다할배,https://d3kirm9c53tl5m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-us244sbpf51mr-ssai-prd/1e735686_e190_4801_944d_651719fca85a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000200B
 tvN 도깨비,https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J
@@ -2739,12 +2761,17 @@ tvN 멜랑꼴리아,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c
 tvN 삼시세끼 어촌편5,https://d2jgaw7uttn3h3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f49y0pr4caw7w-ssai-prd/b1e01036_7c37_48b3_9137_7ecc71b50661/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200021ZA
 tvN 수미네 반찬(13-24회),https://d2chiell4gvxfl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-obcwj7uic0zcf-ssai-prd/83cd3a28_879e_4f2e_9ac4_b21dc7cad4c8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200028P2
 tvN 프리한19 (1~14회),https://d1zto4uvqkznpl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-e02jwpz12nm4y-ssai-prd/a8dbe12b_5883_496b_8f6e_c56ef91558c5/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200025QG
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国中央,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
+소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 중화TV 곡주부인,https://d18izuz3xw10qm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7d2zn3pthct37-ssai-prd/68bf80a2_aec4_494d_b2ef_63779ed40809/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000128W
 중화TV 장가행,https://d27qq4sc9v1h7c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dxfwub7u3zl2a-ssai-prd/328d5389_0716_4717_979f_372036a0d322/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800013YF
 탐나는 도다,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%ED%83%90%EB%82%98%EB%8A%94%EB%8F%84%EB%8B%A4&channel_id=newid_064&apikey=b97c7a7d0c82424bb607e141ef215779&auth=87c5684e-70561157-9b220f17-aae50b61&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion
 투니버스 신비아파트: 고스트볼의 비밀,https://d2jtp2u7s0oid6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw7peenqm1bog-ssai-prd/4cb8089d_7e08_4435_bc0d_8e2d9ec90dd8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000144F
 투니버스 흔한남매의 안흔한일기2,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
+한국가요채널Korean Song,http://live.kytv.co.kr:8080/hls/stream.m3u8
 현대홈쇼핑,https://livestreaming.hyundaihmall.com/cjpstp/live.stream/playlist.m3u8
+
 
 📺英国频道,#genre#
 AlbUK TV,http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
@@ -2792,6 +2819,5 @@ Fun Roads,http://104.143.4.5:2080/funroads.m3u8
 Gainesville Community 12TV,https://lin10.isilive.ca/live/gainesville/live/index.m3u8
 HTV 1 - Houston Television,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 HTV 2 Houston Television,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
-IMPACT! Wrestling,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 Mobile County Public Schools TV Network (MCPSS),https://5b200f5268ceb.streamlock.net/MCPSS/MCPSS247.smil/playlist.m3u8
 Newsy,https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8

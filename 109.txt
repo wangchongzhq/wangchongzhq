@@ -2710,14 +2710,13 @@ Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_
 BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 BBS 불교방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
-GS Shop,https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+CJB SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 GugakTV國樂放送,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 iHQ 돈쭐내러 왔습니다,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=ihq%EB%8F%88%EC%AD%90%EB%82%B4%EB%9F%AC%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4&channel_id=newid_066&apikey=b97c7a7d0c82424bb607e141ef215779&auth=7655c725-1db330b1-ae689684-c7002a87&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name
-KBC SBS综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
-KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-KBC 광주방송 (SBS 光州),http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+KBC SBS,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
+KBC SBS,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
+
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
@@ -2745,7 +2744,7 @@ SBS CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 SBS,http://1.245.74.5:1935/live/tv/.m3u8
 TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 TBS,https://cdntv.tbs.seoul.kr/tbs/_definst_/tbs_tv_web_720.smil/playlist.m3u8
-TJB(SBS大田),http://1.245.74.5:1935/live/tv/.m3u8
+TJB SBS,http://1.245.74.5:1935/live/tv/.m3u8
 TJB SBS,http://1.245.74.5:1935/live/tv/chunklist_w1082057117.m3u8
 TJB SBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
 TJMBC,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8

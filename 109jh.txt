@@ -1,7 +1,6 @@
 🇨🇳 4K,#genre#
 
 4KUHD,http://gslbserv.itv.cmvideo.cn:80/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=fy666
-4KUHD,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=yu&mode=1&$16M UHD
 
 CCTV16,http://gslbserv.itv.cmvideo.cn:80/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=fy666
 
@@ -60,6 +59,8 @@ CCTV14,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=
 CCTV15,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=IPTV
 CCTV16,http://gslbserv.itv.cmvideo.cn:80/5000000008000023253/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=fy666
 CCTV17,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=IPTV
+
+
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000001000004953/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=fy666
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000004000002226/1.m3u8?channel-id=bestzb&Contentid=5000000004000002226&livemode=1&stbId=fy666
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/5000000010000030810/1.m3u8?channel-id=bestzb&Contentid=5000000010000030810&livemode=1&stbId=fy666
@@ -149,6 +150,44 @@ CCTV15,http://gslbserv.itv.cmvideo.cn:80/5000000005000018417/1.m3u8?channel-id=b
 CCTV15,http://gslbserv.itv.cmvideo.cn:80/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=fy666
 CCTV16,http://gslbserv.itv.cmvideo.cn:80/5000000008000023253/1.m3u8?channel-id=bestzb&Contentid=5000000008000023253&livemode=1&stbId=fy666
 CCTV17,http://gslbserv.itv.cmvideo.cn:80/5000000011000288014/1.m3u8?channel-id=bestzb&Contentid=5000000011000288014&livemode=1&stbId=fy666
+
+CCTV1,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=IPTV$8M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/1000000001000018602/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3$8M
+CCTV1,http://gslbserv.itv.cmvideo.cn:80/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3$8M
+CCTV2,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=IPTV$8M
+CCTV2,http://gslbserv.itv.cmvideo.cn:80/6000000001000014161/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014161&livemode=1&stbId=3$8M
+CCTV3,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=IPTV$8M
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/1000000001000013682/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013682&livemode=1&stbId=3$8M
+CCTV3,http://gslbserv.itv.cmvideo.cn:80/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3$8M
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/1000000003000030177/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3$8M
+CCTV5,http://gslbserv.itv.cmvideo.cn:80/6000000001000016431/1.m3u8?channel-id=wasusyt&Contentid=6000000001000016431&livemode=1&stbId=3$8M
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3$8M
+CCTV5+,http://gslbserv.itv.cmvideo.cn:80/6000000001000015875/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3$8M
+CCTV6,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=IPTV$8M
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3$8M
+CCTV6,http://gslbserv.itv.cmvideo.cn:80/6000000001000004574/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3$8M
+CCTV7,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=IPTV$8M
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/1000000001000024341/1.m3u8?channel-id=ystenlive&Contentid=1000000001000024341&livemode=1&stbId=3$8M
+CCTV7,http://gslbserv.itv.cmvideo.cn:80/6000000001000009055/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3$8M
+CCTV8,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1&stbId=IPTV$8M
+CCTV8,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=IPTV$8M
+CCTV8,http://gslbserv.itv.cmvideo.cn:80/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3$8M
+CCTV8,http://gslbserv.itv.cmvideo.cn:80/6000000001000001070/1.m3u8?channel-id=wasusyt&Contentid=6000000001000001070&livemode=1&stbId=3$8M
+CCTV9,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=IPTV$8M
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3$8M
+CCTV9,http://gslbserv.itv.cmvideo.cn:80/6000000001000032162/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3$8M
+CCTV10,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=IPTV$8M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/1000000001000023734/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3$8M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/5000000004000012827/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3$8M
+CCTV10,http://gslbserv.itv.cmvideo.cn:80/6000000001000031506/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031506&livemode=1&stbId=3$8M
+CCTV12,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=IPTV$8M
+CCTV12,http://gslbserv.itv.cmvideo.cn:80/1000000001000032494/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032494&livemode=1&stbId=3$8M
+CCTV14,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=IPTV$8M
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/1000000001000008170/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3$8M
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/5000000004000006673/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3$8M
+CCTV14,http://gslbserv.itv.cmvideo.cn:80/6000000001000013647/1.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=3$8M
+CCTV16,http://gslbserv.itv.cmvideo.cn:80/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3$8M
+CCTV17,http://gslbserv.itv.cmvideo.cn:80/1000000006000268004/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=3$8M
 
 //ITV
 CCTV1,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=yu&mode=1&$4M FHD
@@ -301,6 +340,25 @@ CCTV1,http://39.134.67.108/PLTV/88888888/224/3221226119/1.m3u8
 CCTV11,http://39.134.67.108/PLTV/88888888/224/3221226123/1.m3u8
 CCTV13,http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8
 CCTV10,http://39.134.67.108/PLTV/88888888/224/3221226128/1.m3u8
+
+CCTV1,http://8.138.7.223/tv/dl/douyincdn.php?id=1
+CCTV2,http://8.138.7.223/tv/dl/douyincdn.php?id=2
+CCTV3,http://8.138.7.223/tv/dl/douyincdn.php?id=3
+CCTV4,http://8.138.7.223/tv/dl/douyincdn.php?id=4
+CCTV5,http://8.138.7.223/tv/dl/douyincdn.php?id=5
+CCTV6,http://8.138.7.223/tv/dl/douyincdn.php?id=6
+CCTV7,http://8.138.7.223/tv/dl/douyincdn.php?id=7
+CCTV8,http://8.138.7.223/tv/dl/douyincdn.php?id=8
+CCTV9,http://8.138.7.223/tv/dl/douyincdn.php?id=9
+CCTV10,http://8.138.7.223/tv/dl/douyincdn.php?id=10
+CCTV11,http://8.138.7.223/tv/dl/douyincdn.php?id=11
+CCTV12,http://8.138.7.223/tv/dl/douyincdn.php?id=12
+CCTV13,http://8.138.7.223/tv/dl/douyincdn.php?id=13
+CCTV14,http://8.138.7.223/tv/dl/douyincdn.php?id=14
+CCTV15,http://8.138.7.223/tv/dl/douyincdn.php?id=15
+CCTV17,http://8.138.7.223/tv/dl/douyincdn.php?id=16
+
+
 CGTN,http://gslbserv.itv.cmvideo.cn:80/7745129417417101820/1.m3u8?channel-id=hnbblive&Contentid=7745129417417101820&livemode=1&stbId=fy666
 CGTN纪录,http://gslbserv.itv.cmvideo.cn:80/7114647837765104058/1.m3u8?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=fy666
 
@@ -802,6 +860,20 @@ CCTV17,http://183.223.157.33:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&
 
 
 🇨🇳 卫视,#genre#
+安徽卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000030159&livemode=1&stbId=IPTV$8M
+北京冬奥纪实,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=IPTV$8M
+北京卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021288&livemode=1&stbId=IPTV$8M
+东方卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000005866&livemode=1&stbId=IPTV$8M
+广东卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014176&livemode=1&stbId=IPTV$8M
+海南卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=IPTV$8M
+黑龙江卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=IPTV$8M
+湖北卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000024621&livemode=1&stbId=IPTV$8M
+湖南卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=IPTV$8M
+江苏卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001828&livemode=1&stbId=IPTV$8M
+上海纪实人文,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000016545&livemode=1&stbId=IPTV$8M
+深圳卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009227&livemode=1&stbId=IPTV$8M
+天津卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000003475&livemode=1&stbId=IPTV$8M
+浙江卫视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014260&livemode=1&stbId=IPTV$8M
 //ITV
 湖南卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=yu&mode=1&$8M FHD
 湖南卫视,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=bestzb&Contentid=5000000010000030452&livemode=1&stbId=yu&mode=1&$4M FHD
@@ -1187,9 +1259,22 @@ CCTV17,http://183.223.157.33:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&
 吉林卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 海南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
+北京卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=17
+湖南卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=18
+浙江卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=19
+东方卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=20
+江苏卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=21
+东南卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=22
+深圳卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=23
+海南卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=24
+湖北卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=25
+山东卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=26
+四川卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=27
+重庆卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=28
+黑龙江卫视,http://8.138.7.223/tv/dl/douyincdn.php?id=29
 
 
-########
+
 安徽卫视,http://111.14.181.15:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 安徽卫视,http://124.128.73.58:9901/tsfile/live/0130_1.m3u8?key=txiptv
 安徽卫视,http://124.128.73.58:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1744,6 +1829,7 @@ NewTV频道,#genre#
 精品纪录,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000019&livemode=1&stbId=yu&mode=1&$4M FHD
 精品纪录,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000004000013730&livemode=1&stbId=yu&mode=1&$4M FHD
 精品纪录,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=yu&mode=1&$4M FHD
+超级体育,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=IPTV$8M
 超级体育,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=yu&mode=1&$4M FHD
 超级体育,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=yu&mode=1&$4M FHD
 超级体育,http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=yu&mode=1&$8M FHD

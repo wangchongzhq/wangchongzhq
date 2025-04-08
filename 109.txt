@@ -1,5 +1,7 @@
 🇨🇳 4K,#genre#
 
+4K乐享,http://zqh2333.top:2222/rtp/239.93.24.43:5140
+
 FTV,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 FTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
@@ -11,6 +13,9 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 
 咪咕体育4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=fy666
+
+绚影4K,http://zqh2333.top:2222/rtp/239.93.55.33:5140
+
 
 
 🇨🇳 央视,#genre#

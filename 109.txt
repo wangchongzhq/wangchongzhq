@@ -1,6 +1,5 @@
 🇨🇳 4K,#genre#
 
-4K乐享,http://zqh2333.top:2222/rtp/239.93.24.43:5140
 
 FTV,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 FTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8

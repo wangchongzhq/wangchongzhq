@@ -730,8 +730,6 @@ TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 凤凰资讯,http://wouu.net:9977/udp/239.93.0.118:2191
 凤凰资讯,http://wouu.net:9977/udp/239.93.1.4:2191
 凤凰资讯,http://www.flyskyman.cn:4022/udp/233.50.200.192:5140
-中天新闻,http://122.117.71.103:8540/http/220.130.87.218:8081/hls/78/80/ch063max.m3u8
-中天新闻,http://cdn.iptv8k.top/dl/jspd.php?id=1
 
 影视剧,#genre#
 爱情喜剧,http://39.134.65.164/PLTV/88888888/224/3221225533/1.m3u8

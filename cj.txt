@@ -4,6 +4,18 @@
 
 {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "🚀南风线路"},
 
+
+    {
+      "url": "http://www.mpanso.com/小米/DEMO.json",
+      "name": "🚀小米线路"
+    },
+
+    {
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+      "name": "🚀王二小放牛娃"
+    },
+
+
 {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/main/1369.txt","name": "🍇github1369"},
 
 {"url": "https://gitee.com/zhqys/y-shzy/raw/master/1369.txt","name": "🍇gitee 1369"},
@@ -43,11 +55,6 @@
       "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
       "name": "🚀CandyMu"
     },
-    {
-      "url": "http://www.mpanso.com/小米/DEMO.json",
-      "name": "🚀小米线路"
-    },
-
     {
       "url": "http://mzjk.top/禁止贩卖",
       "name": "🚀宝盒线路"

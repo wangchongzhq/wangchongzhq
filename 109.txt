@@ -15,8 +15,10 @@ LoveNature,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 北京IPTV4K,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=31%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=3
 北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 
-北京卫视4K,http://111.14.181.15:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+
 北京卫视4K,http://qtest-play.btime.cn/live/btv_sn_20170706_s41_20m.m3u8
+北京卫视4K,http://111.14.181.15:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 咪咕体育4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=fy666
 

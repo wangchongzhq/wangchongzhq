@@ -1,9 +1,6 @@
-
-
 {"urls":[
 
 {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "🚀南风线路"},
-
 
     {
       "url": "http://www.mpanso.com/小米/DEMO.json",
@@ -15,6 +12,14 @@
       "name": "🚀王二小放牛娃"
     },
 
+    {
+      "url": "http://ok321.top/tv",
+      "name": "🚀OK吊炸天接口"
+    },
+
+
+
+
 
 {"url": "https://gh-proxy.com/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/main/1369.txt","name": "🍇github1369"},
 
@@ -23,6 +28,8 @@
 {"url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJGY.json","name": "🍇超级影视"},
 
 {"url":"http://www.饭太硬.com/tv","name":"🕎饭太硬"},
+
+
 
 {"url":"http://肥猫.com","name":"💋肥猫线路"},
 
@@ -89,4 +96,3 @@
     }
   ]
 }
-

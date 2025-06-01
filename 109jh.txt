@@ -1,10 +1,15 @@
 🇨🇳 4K,#genre#
 
+Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8
+Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
+
 FTV,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 FTV,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+
 
 LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
@@ -12,6 +17,8 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 
 北京卫视4K,http://111.14.181.15:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+
+北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
 纯享4K UHD,http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 纯享4K UHD,http://111.29.9.44:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
@@ -21,19 +28,12 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 欢笑剧场4K,http://222.64.68.61:12028/udp/233.18.204.205:5140
 欢笑剧场4K,http://sunhy.x3322.net:4022/udp/233.18.204.205:5140
 
-
 咪咕体育4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=fy666
-
 咪咕体育,http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
-
 
 绚影4K,http://zqh2333.top:2222/rtp/239.93.55.33:5140
 
-
 中国移动4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
-
-
-
 
 
 🇨🇳 央视,#genre#
@@ -70,7 +70,6 @@ CCTV10,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 CCTV10,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
 CCTV11,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 CCTV11,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8?
-CCTV12,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8?
 CCTV12,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
 CCTV13,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
 CCTV13,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226568/1.m3u8?
@@ -373,7 +372,6 @@ CCTV6,http://39.135.133.177/TVOD/88888888/224/3221225814/main.m3u8
 CCTV6,http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
 CCTV6,http://39.135.135.28/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226010/index.m3u8
-CCTV6[854*480],http://tvbox6.icu/tv/migu.php?id=cctv6
 CCTV7,http://39.134.64.87:6610/PLTV/88888888/224/3221225733/index.m3u8?IASHttpSessionId=
 CCTV7,http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
 CCTV7,http://39.134.65.130/PLTV/88888888/224/3221225671/1.m3u8
@@ -811,6 +809,26 @@ CCTV8,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010216
 CCTV15,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010094
 CCTV16,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010142
 
+CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV2,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+CCTV3,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+CCTV4,http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+CCTV5,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+CCTV6,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+CCTV7,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+CCTV8,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+
+CGTN英语,https://0472.org/hls/cgtn.m3u8
+CGTN记录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
+
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CCTV怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
@@ -1226,28 +1244,60 @@ CCTV央视文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
 青海卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010111
 
 
+湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
+浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
+江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
+东方卫视,http://iptv.huuc.edu.cn/hls/dfhd.m3u8
+安徽卫视,http://iptv.huuc.edu.cn/hls/ahhd.m3u8
+黑龙江卫视,http://iptv.huuc.edu.cn/hls/hljhd.m3u8
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
+深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
+湖北卫视,http://iptv.huuc.edu.cn/hls/hbhd.m3u8
+山东卫视,http://iptv.huuc.edu.cn/hls/sdhd.m3u8
+重庆卫视,http://iptv.huuc.edu.cn/hls/cqhd.m3u8
+四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
+东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
+江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
+北京卫视,http://iptv.huuc.edu.cn/hls/btv1hd.m3u8
+北京文艺,http://iptv.huuc.edu.cn/hls/btv2hd.m3u8
+北京影视,http://iptv.huuc.edu.cn/hls/btv4hd.m3u8
+北京新闻,http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
+北京纪实,http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
+
 
 港台,#genre#
-凤凰中文,http://www.flyskyman.cn:4022/udp/233.50.200.191:5140
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://www.flyskyman.cn:4022/udp/233.50.200.192:5140
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
+凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
+凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-TVB无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=wxxwt
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
-翡翠台北美版(TVB J1),http://php.jdshipin.com:8880/TVOD/iptv.php?id=j1
-凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-7.ctv
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+RTHK-31频高,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+RTHK-32频高,http://cdn5.132.us.kg/live/rthk32/stream.m3u8
+RTHK-32频高,http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
+RTHK-32频高,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+TVBJ1美频高,http://cdn3.132.us.kg/live/j1/stream.m3u8
+TVBJ1美频高,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+八度空间频高,https://cdn6.163189.xyz/live/8tv/stream.m3u8
+东森新闻频高,https://gdfire2.67890123.cn:8088/live/dsxw.m3u8
+凤凰资讯频高,http://cdn3.132.us.kg/live/fhzx/stream.m3u8
+凤凰资讯频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+寰宇新闻频高,https://gdfire2.67890123.cn:8088/live/hyxw.m3u8
+无线翡翠频高,http://cdn3.132.us.kg/live/fct/stream.m3u8
+无线翡翠频高,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+无线明珠频标,http://cdn5.132.us.kg/live/mzt/stream.m3u8
+无线明珠频标,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
+无线明珠频道,http://beishan008.asuscomm.com:8890/bysid/2.m3u8
+无线新闻频高,http://cdn3.132.us.kg/live/wxxw/stream.m3u8
+有线赛讯频道,http://beishan008.asuscomm.com:8891/bysid/76.m3u8
+有线综合频粤,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+有线综合粤高,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+有线综讯频道,http://beishan008.asuscomm.com:8891/bysid/77.m3u8
+重温经典频高,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+
+
 影视剧,#genre#
 爱情喜剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8?
 爱情喜剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8?

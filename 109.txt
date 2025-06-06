@@ -1,8 +1,18 @@
 🇨🇳 4K,#genre#
 
 CCTV16,http://www.lizhinas.top:1009/rtp/239.252.220.237:5140
+CCTV16,http://live.nctv.top/DJlio/tv.php?id=19
 
-CCTV-4K,http://www.lizhinas.top:1009/rtp/239.252.220.244:5140
+CCTV4K,http://www.lizhinas.top:1009/rtp/239.252.220.244:5140
+CCTV4K,http://live.nctv.top/DJlio/tv.php?id=20
+
+CCTV-4K咪咕,https://nptv.freetv.top/nptv/cctv4k.m3u8
+CCTV-8K咪咕,https://nptv.freetv.top/nptv/cctv8k.m3u8
+
+CCTV4K,http://xiaoya.crccxw.top:35455/gaoma/cctv4k.m3u8#http://3501776.xyz:35455/gaoma/cctv4k.m3u8#http://home.kuaidi521.com:35455/gaoma/cctv4k.m3u8
+CCTV4K_10M,http://xiaoya.crccxw.top:35455/gaoma/cctv4k_10m.m3u8#http://3501776.xyz:35455/gaoma/cctv4k_10m.m3u8#http://home.kuaidi521.com:35455/gaoma/cctv4k_10m.m3u8
+CCTV8K_36M,CCTV16_4K,http://xiaoya.crccxw.top:35455/gaoma/cctv4k16.m3u8#http://3501776.xyz:35455/gaoma/cctv4k16.m3u8#http://home.kuaidi521.com:35455/gaoma/cctv4k16.m3u8
+CCTV16_4K_10M,http://xiaoya.crccxw.top:35455/gaoma/cctv4k16_10m.m3u8#http://3501776.xyz:35455/gaoma/cctv4k16_10m.m3u8#http://home.kuaidi521.com:35455/gaoma/cctv4k16_10m.m3u8
 
 
 Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8
@@ -21,8 +31,10 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 北京IPTV4K,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=31%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=3
 北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+北京IPTV4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+
 
 
 北京卫视4K,http://111.14.181.15:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -38,6 +50,9 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=625e905c507ada3ba448431044224948&txTime=194d0c43cd7
+广州南国都市,http://113.90.244.16:4000/rtp/239.253.43.99:5146#http://113.90.244.16:4000/rtp/239.77.0.241:5146
+
 
 欢笑剧场4K,http://222.64.68.61:12028/udp/233.18.204.205:5140
 欢笑剧场4K,http://sunhy.x3322.net:4022/udp/233.18.204.205:5140
@@ -52,6 +67,7 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 中国移动4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
 中国移动4K,http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8
+
 
 
 🇨🇳 央视,#genre#

@@ -1,6 +1,8 @@
+
 🇨🇳 4K,#genre#
 
 CCTV4K,http://live.nctv.top/DJlio/tv.php?id=20
+CCTV4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 
 CCTV16,http://live.nctv.top/DJlio/tv.php?id=19
 
@@ -23,8 +25,12 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 
-
 北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+
+北京卫视,http://judy.livednow.dpdns.org/beijing/5755n511tbk8flo40l4c71l0sdf.m3u8
+北京卫视,http://omnix.cn:4000/udp/225.1.8.120:8002?&4K
+北京4K,http://47.243.110.210:28001/bptv/10000100000000050000000003887500.m3u8
+
 
 纯享4K UHD,http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 纯享4K UHD,http://111.29.9.44:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
@@ -33,6 +39,8 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=625e905c507ada3ba448431044224948&txTime=194d0c43cd7
+广州南国都市,http://zhibo.feylen.top/fltv/js/k-web/ku9/js/gztv.js?id=nanguodushi
+
 
 欢笑剧场4K,http://sunhy.x3322.net:4022/udp/233.18.204.205:5140
 欢笑剧场4K,http://222.64.68.61:12028/udp/233.18.204.205:5140
@@ -48,6 +56,7 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 中国移动4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
 中国移动4K,http://39.134.65.106/PLTV/88888888/224/3221225651/1.m3u8
+
 
 
 

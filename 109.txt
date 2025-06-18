@@ -1,12 +1,23 @@
+
 🇨🇳 4K,#genre#
 
 CCTV4K,http://live.nctv.top/DJlio/tv.php?id=20
 CCTV4K,http://ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8
 CCTV4K,http://39.134.184.100:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229373/1/index.m3u8?
+CCTV4K,https://tv.cry33.com/ys4k.php?id=4k#http://112.17.52.84/PLTV/88888888/224/3221233679/index.m3u8
+CCTV4K,https://cdn2.jdshipin.com/api/bst2.php?id=cctv4k/15000000
+CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 
+CCTV8K,http://mywlkj.ddns.net:754/tv/dl/dl668/ysp.php?id=cctv8k 
+CCTV8K,https://tv.cry33.com/ys4k.php?id=8k
+CCTV8K,https://tv.cry33.com/ys4k.php?id=8k25
 CCTV8K,http://39.134.184.100:6610/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236272/index.m3u8?
+CCTV8Khttp://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
+
+CCTV16,https://cdn2.jdshipin.com/api/bst2.php?id=cctv16hd4k/15000000
 CCTV16,http://live.nctv.top/DJlio/tv.php?id=19
+CCTV16,https://tv.cry33.com/ys4k.php?id=16-4k
 
 Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8
 Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
@@ -41,6 +52,8 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 纯享4K UHD,http://111.29.9.37:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 纯享4K UHD,http://111.29.9.44:6610/000000001000/1000000004000011651/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3
 
+广东综艺4K,http://php.jdshipin.com:8880/chudian.php?id=gdzy
+
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -48,8 +61,13 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 广州南国都市,http://zhibo.feylen.top/fltv/js/k-web/ku9/js/gztv.js?id=nanguodushi
 
 
+
+
+
 欢笑剧场4K,http://sunhy.x3322.net:4022/udp/233.18.204.205:5140
 欢笑剧场4K,http://222.64.68.61:12028/udp/233.18.204.205:5140
+
+江苏移动4K影视,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
 
 
 咪咕体育4K,http://39.134.65.106/PLTV/88888888/224/3221225655/1.m3u8
@@ -66,6 +84,8 @@ LoveNature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台4K,http://php.jdshipin.com/PLTV/iptv.php?id=fct4
+
+
 
 
 🇨🇳 央视,#genre#

@@ -1,5 +1,36 @@
 🇨🇳 4K,#genre#
 
+CCTV1,http://ott.mobaibox.com/PLTV/4/224/3221228581/index.m3u8$央视
+CCTV2,http://ott.mobaibox.com/PLTV/3/224/3221228094/index.m3u8$央视
+CCTV3,http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8$央视
+CCTV4,http://ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8$央视
+CCTV5,http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8$央视
+CCTV5+,http://ott.mobaibox.com/PLTV/3/224/3221228176/index.m3u8$央视
+CCTV6,http://ott.mobaibox.com/PLTV/3/224/3221228516/index.m3u8$央视
+CCTV7,http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8$央视
+CCTV8,http://ott.mobaibox.com/PLTV/3/224/3221228578/index.m3u8$央视
+CCTV9,http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8$央视
+CCTV10,http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8$央视
+CCTV11,http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8$央视
+CCTV12,http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8$央视
+CCTV13,http://ott.mobaibox.com/PLTV/3/224/3221228224/index.m3u8$央视
+CCTV14,http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8$央视
+CCTV15,http://ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8$央视
+CCTV16,http://ott.mobaibox.com/PLTV/3/224/3221228168/index.m3u8$央视
+CCTV17,http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8$央视
+央视台球,http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8$央视
+CCTV1,http://223.105.252.60/PLTV/4/224/3221228581/index.m3u8?servicetype=1
+CCTV3,http://223.105.252.59/PLTV/4/224/3221228499/index.m3u8?servicetype=1
+CCTV5,http://223.105.252.61/PLTV/4/224/3221228502/index.m3u8?servicetype=1
+CCTV8,http://223.105.252.57/PLTV/3/224/3221228165/index.m3u8?servicetype=1
+CCTV4K,http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
+CCTV16,http://223.105.252.59/PLTV/4/224/3221228314/index.m3u8?servicetype=1
+欢笑剧场,http://111.29.9.34:6610/000000001000/1/1.m3u8?stbId=1&livemode=1&IASHttpSessionId=OTT760920241110011719006907&channel-id=bestzb&Contentid=5000000007000010001
+北京卫视4K,http://fjcm-2115.live.iptv.darwinchow.com/PLTV/88888888/224/3221227514/index.m3u8
+深圳卫视4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227489/index.m3u8
+广东卫视4K,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227391/index.m3u8
+
+
 CCTV4K,http://121.29.169.195:8888/rtp/239.253.92.219:6228
 CCTV4K,http://121.29.169.195:8888/rtp/239.253.93.134:6631
 

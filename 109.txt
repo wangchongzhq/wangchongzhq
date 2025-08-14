@@ -1,4 +1,8 @@
+
 🇨🇳 4K,#genre#
+
+CCTV-4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
+CCTV-4K,http://183.236.43.98:4111/udp/239.77.0.174:5146
 
 Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8
 Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
@@ -26,9 +30,13 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 放大镜全网4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
+广东4K超高清,http://117.141.162.238:8181/tsfile/live/faacts/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=625e905c507ada3ba448431044224948&txTime=194d0c43cd7
+
+
 
 河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 
@@ -39,9 +47,6 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
 
 中国移动4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
-
-
-
 
 
 🇨🇳 央视,#genre#

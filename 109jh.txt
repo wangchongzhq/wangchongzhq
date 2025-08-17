@@ -1,5 +1,4 @@
 
-
 🇨🇳 4K,#genre#
 
 CCTV-4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
@@ -15,6 +14,8 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 北京卫视,http://go.bkpcp.top/mg/bjws
 北京卫视,http://omnix.cn:4000/udp/225.1.8.120:8002?&4K
+北京卫视,http://106.53.99.30/tv/api.php?id=bjws4k
+
 
 北京IPTV4K,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=31%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=3
 北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
@@ -32,7 +33,13 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 放大镜全网4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 广东4K超高清,http://117.141.162.238:8181/tsfile/live/faacts/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+广东4K超高清,http://106.53.99.30/tv/api.php?id=gdws
+广东4K超高清,http://8.138.7.223/tv/api.php?id=gdws4k
+广东4K超高清,http://wmh.wmh.ink:6633/udp/239.77.0.225:5146
 
+广东4K超高清,http://106.53.99.30/tv/api.php?id=gdws4k
+
+广州南国都市,http://hui.guo.my/api.php?id=uIWNmegK8XmqpyUYJjDG
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=625e905c507ada3ba448431044224948&txTime=194d0c43cd7
@@ -46,6 +53,8 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 咪咕体育4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=fy666
 
 深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+深圳卫视4k,http://go.bkpcp.top/mg/szws
+
 
 中国移动4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
 

@@ -1,4 +1,5 @@
 
+
 🇨🇳 4K,#genre#
 
 CCTV-4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
@@ -13,7 +14,6 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 北京卫视,http://go.bkpcp.top/mg/bjws
-北京卫视,http://omnix.cn:4000/udp/225.1.8.120:8002?&4K
 北京卫视,http://106.53.99.30/tv/api.php?id=bjws4k
 
 
@@ -24,19 +24,9 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 
 
-北京纪实科教8K,https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
-百事通4K电影,http://nxlj.cn:1688//udp/239.45.3.107:5140
-百事通4K纪实,http://nxlj.cn:1688//rtp/239.45.1.10:5140
-百事通4K儿童,http://nxlj.cn:1688//rtp/239.45.1.1:5140
-
-放大镜全网4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-
-广东4K超高清,http://117.141.162.238:8181/tsfile/live/faacts/1010_1.m3u8?key=txiptv&playlive=1&authid=0
 广东4K超高清,http://106.53.99.30/tv/api.php?id=gdws
-广东4K超高清,http://8.138.7.223/tv/api.php?id=gdws4k
 广东4K超高清,http://wmh.wmh.ink:6633/udp/239.77.0.225:5146
-
 广东4K超高清,http://106.53.99.30/tv/api.php?id=gdws4k
 
 广州南国都市,http://hui.guo.my/api.php?id=uIWNmegK8XmqpyUYJjDG
@@ -57,6 +47,7 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
 
 中国移动4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
+
 
 
 

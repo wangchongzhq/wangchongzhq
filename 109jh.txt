@@ -1,14 +1,17 @@
 
+
 🇨🇳 4K,#genre#
 
 CCTV-4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
 CCTV-4K,http://183.236.43.98:4111/udp/239.77.0.174:5146
+CCTV-4K,http://27.184.65.134:58888/rtp/239.254.201.67:6000
 
 Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8
 Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
 Bloomberg TV+ UHD,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
 
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+Fashion 4K,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 
 Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 
@@ -17,18 +20,42 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 北京卫视,http://120.197.253.254:1818/rtp/239.20.0.250:2298
 北京卫视,http://120.197.253.254:1818/rtp/239.20.0.46:3220
 北京卫视,http://go.bkpcp.top/mg/bjws
+北京卫视,http://115.171.234.7:7777/udp/225.1.8.120:8002$北京电信
+北京卫视,http://220.169.109.72:802/udp/239.76.253.246:9000
+
+北京KAKU少儿,http://220.169.109.72:802/udp/239.76.254.81:9000
+
 
 北京IPTV4K,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=31%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=3
 北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 北京IPTV4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+北京IPTV4K,http://114.241.254.251:4022/rtp/239.3.1.249:8001
+
+北京IPTV淘电影,http://114.241.254.251:4022/rtp/239.3.1.250:8001
+北京IPTV淘剧场,http://114.241.254.251:4022/rtp/239.3.1.95:8001
+北京IPTV淘娱乐,http://114.241.254.251:4022/rtp/239.3.1.100:8001
+北京IPTV淘BABY,http://114.241.254.251:4022/rtp/239.3.1.238:8001
+北京IPTV萌宠TV,http://114.241.254.251:4022/rtp/239.3.1.102:8001
+
+
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+
+
+河南卫视4K,http://171.8.169.253:8800/rtp/239.16.20.199:11990$河南郑州电信
+河南卫视4K,http://42.227.89.3:9003/hls/100/index.m3u8$河南联通 
 
 
 
 广东卫视,http://106.53.99.30/tv/api.php?id=gdws
 广东卫视,http://106.53.99.30/tv/api.php?id=gdws4k
+广东卫视,http://58.253.171.138:8188/udp/239.0.1.169:6030
+
+
 广东民生,http://wmh.wmh.ink:6633/udp/239.77.0.225:5146
+
+广东综艺4K,http://117.141.162.238:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=0&authid=0
 
 广州南国都市,http://hui.guo.my/api.php?id=uIWNmegK8XmqpyUYJjDG
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7
@@ -36,18 +63,30 @@ Loupe,https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=625e905c507ada3ba448431044224948&txTime=194d0c43cd7
 
 
-
-河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
-
 华数爱上4K,http://106.86.155.81:20001/rtp/235.254.198.102:7980
+华数爱上4K,http://114.241.254.251:4022/rtp/239.3.1.236:2000
 
 咪咕体育4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=fy666
+
+
+上海欢笑剧场4K,http://117.174.25.254:8188/rtp/239.0.0.201:5140
+上海欢笑剧场4K,http://220.169.109.72:802/udp/239.76.254.66:9000
+上海欢笑剧场4K,http://42.92.195.108:10000/udp/239.255.29.7:8231
+
 
 深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
 深圳卫视4k,http://go.bkpcp.top/mg/szws
 
+云南4K频道,http://106.59.3.113:55555/rtp/239.200.200.178:8884
 
 中国移动4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
+
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
+
+
+测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+测试,http://121.29.141.88:4022/rtp/239.253.92.220:6229
+测试,http://27.184.65.134:58888/rtp/239.254.201.68:6000
 
 
 

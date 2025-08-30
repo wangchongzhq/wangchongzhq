@@ -713,7 +713,7 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 黑龙江卫视,http://tpc.x3322.net:9901/tsfile/live/0143_1.m3u8
 甘肃卫视,http://tpc.x3322.net:9901/tsfile/live/0141_1.m3u8
 
-🇨🇳 咪咕央卫地,#genre#
+🇨🇳 咪咕,#genre#
 CCTV1,https://migu.188766.xyz/?migutoken=ed6f184e1b861f6a89de8502255f3ec9&id=CCTV1&pp=1
 CCTV2,https://migu.188766.xyz/?migutoken=6a7c0889ebf0852359637cab0674b189&id=CCTV2&pp=1
 CCTV3,https://migu.188766.xyz/?migutoken=6976b95d30b13ac851d45ef16c37d330&id=CCTV3&pp=1
@@ -790,7 +790,7 @@ CHC影迷电影,https://migu.188766.xyz/?migutoken=d2781659b3f964223a37fe96d8187
 南京教科,https://migu.188766.xyz/?migutoken=4bd68da239288b3115ae20f1c54577b6&id=%E5%8D%97%E4%BA%AC%E6%95%99%E7%A7%91%E9%A2%91%E9%81%93&type=yy
 南京十八,https://migu.188766.xyz/?migutoken=958cd407dc343a3c523657db743aa1fa&id=%E5%8D%97%E4%BA%AC%E5%8D%81%E5%85%AB%E9%A2%91%E9%81%93&type=yy
 
-🇨🇳 山东地方台,#genre#
+🇨🇳 山东,#genre#
 蓬莱新闻,http://43.138.196.212/q0l.php?id=ytplxw
 蓬莱综合,http://43.138.196.212/q0l.php?id=ytplzh
 齐鲁频道,http://43.138.196.212/q0l.php?id=qlpd

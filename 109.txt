@@ -2,9 +2,13 @@
 
 4KUHD,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010006/1.m3u8?
 
-CCTV-4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
-CCTV-4K,http://183.236.43.98:4111/udp/239.77.0.174:5146
-CCTV-4K,http://27.184.65.134:58888/rtp/239.254.201.67:6000
+CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
+CCTV4K,http://183.236.43.98:4111/udp/239.77.0.174:5146
+CCTV4K,http://27.184.65.134:58888/rtp/239.254.201.67:6000
+CCTV4K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600002264
+
+CCTV8K,http://A/ku9/js/webview.js?id=https://www.yangshipin.cn/tv/home?pid=600156816
+
 
 
 Bloomberg TV+,https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8

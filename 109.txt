@@ -1,4 +1,4 @@
-🇨🇳 4K,#genre#
+🇨🇳 4K,#genre#,JS=https://gongdian.top/tv/ku9/webview.js
 
 4KUHD,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010006/1.m3u8?
 

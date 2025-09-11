@@ -1,3 +1,4 @@
+
 🇨🇳 4K,#genre#
 
 4KUHD,http://[2409:8087:5e08:25::16]:6610/200000001898/460000089800010006/1.m3u8?
@@ -5,6 +6,12 @@
 CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
 CCTV4K,http://183.236.43.98:4111/udp/239.77.0.174:5146
 CCTV4K,http://27.184.65.134:58888/rtp/239.254.201.67:6000
+
+
+
+CCTV16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
+CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
+
 
 Bloomberg TV+,https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8
 Bloomberg TV+,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
@@ -14,6 +21,8 @@ Bloomberg TV+,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8?c
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 
+北京卫视,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
+北京卫视,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
 北京卫视,https://migu.188766.xyz/?migutoken=399e9301431775f3f911e76ba50d0d11&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
 北京卫视,http://go.bkpcp.top/mg/bjws
 北京卫视,http://115.171.234.7:7777/udp/225.1.8.120:8002$北京电信
@@ -33,6 +42,8 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 河南卫视4K,http://171.8.169.253:8800/rtp/239.16.20.199:11990$河南郑州电信
 河南卫视4K,http://42.227.89.3:9003/hls/100/index.m3u8$河南联通 
 
+
+广东卫视,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
 广东卫视,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 广东卫视,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 广东卫视,http://106.53.99.30/tv/api.php?id=gdws
@@ -48,6 +59,9 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=625e905c507ada3ba448431044224948&txTime=194d0c43cd7
 
+
+华数4K视界,http://nas.201606.xyz:4022/udp/239.11.0.120:5140
+
 华数爱上4K,http://106.86.155.81:20001/rtp/235.254.198.102:7980
 华数爱上4K,http://114.241.254.251:4022/rtp/239.3.1.236:2000
 
@@ -57,8 +71,10 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 上海欢笑剧场4K,http://220.169.109.72:802/udp/239.76.254.66:9000
 上海欢笑剧场4K,http://42.92.195.108:10000/udp/239.255.29.7:8231
 
-深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
-深圳卫视4K,http://go.bkpcp.top/mg/szws
+
+深圳卫视,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
+深圳卫视,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+深圳卫视,http://go.bkpcp.top/mg/szws
 
 云南4K频道,http://106.59.3.113:55555/rtp/239.200.200.178:8884
 
@@ -78,8 +94,9 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 测试,http://27.184.65.134:58888/rtp/239.254.201.68:6000
 
 
-🇨🇳北京频道,#genre#
 
+
+🇨🇳北京频道,#genre#
 北京财经,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?
 北京纪实,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226559/1.m3u8?
 北京生活,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226561/1.m3u8?

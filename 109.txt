@@ -107,6 +107,30 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 河北4K,http://2099.tv12.xyz/106_1759293538366.m3u8
 
 
+CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
+CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
+CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
+湖南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
+东方卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227427/index.m3u8
+江苏卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227436/index.m3u8
+浙江卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
+山东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
+四川卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227444/index.m3u8
+北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
+北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
+广东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227415/index.m3u8
+深圳卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227428/index.m3u8
+河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
+求索纪录4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8
+CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227357/1.m3u8?fmt=ts2hls
+CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227413/1.m3u8?fmt=ts2hls
+河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226936/1.m3u8?fmt=ts2hls
+北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227122/1.m3u8?fmt=ts2hls
+北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227424/1.m3u8?fmt=ts2hls
+咪视界4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227285/1.m3u8?fmt=ts2hls
+
+
+
 
 🇨🇳北京频道,#genre#
 

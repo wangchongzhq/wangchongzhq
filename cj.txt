@@ -1,15 +1,17 @@
+
 {"urls":[
 
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "🚀南风线路"},
+{"url": "https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json","name": "🚀南风线路"},
 
-    {
-      "url": "http://www.mpanso.com/小米/DEMO.json",
+
+{
+      "url": "http://miqk.cc/小米/DEMO.json",
       "name": "🚀小米线路"
     },
 
     {
-      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-      "name": "🚀王二小放牛娃"
+      "url": "http://tvbox.王二小放牛娃.top",
+      "name": "🚀王二小线"
     },
 
     {
@@ -17,11 +19,18 @@
       "name": "🚀OK吊炸天接口"
     },
 
+{
+      "url": "http://我不是.摸鱼儿.com",
+      "name": "🚀摸鱼线路"
+    },
+
+    {
+      "url": "https://7337.kstore.space/kjtv/%E8%87%AA%E7%94%A8%E6%B5%8B%E8%AF%95.json",
+      "name": "🚀天微影线"
+    },
 
 
-
-
-{"url": "https://gh-proxy.com/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/main/1369.txt","name": "🍇github1369"},
+{"url": "https://ghfast.top/https://raw.githubusercontent.com/wangchongzhq/wangchongzhq/main/1369.txt","name": "🍇github1369"},
 
 {"url": "https://gitee.com/zhqys/y-shzy/raw/master/1369.txt","name": "🍇gitee 1369"},
 
@@ -32,6 +41,7 @@
 
 
 {"url":"http://肥猫.com","name":"💋肥猫线路"},
+
 
 
 {"url": "http://cdn.qiaoji8.com/tvbox.json","name": "🍑巧技"},
@@ -71,7 +81,7 @@
       "name": "🚀菜妮丝线"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
       "name": "🚀香雅情线"
     },
     {
@@ -79,11 +89,11 @@
       "name": "🚀挺好线路"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
       "name": "🚀老刘线路"
     },
     {
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "name": "🚀高天流云"
     },
     {
@@ -96,3 +106,4 @@
     }
   ]
 }
+

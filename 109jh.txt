@@ -18,8 +18,6 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1759296616&sign=151e329b8dbf7ea53c4633145398cfe3
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
-北京卫视4K,http://go.bkpcp.top/mg/bjws
-北京卫视4K,http://115.171.234.7:7777/udp/225.1.8.120:8002$北京电信
 北京卫视4K,http://220.169.109.72:802/udp/239.76.253.246:9000
 北京卫视4K,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
 

@@ -4,7 +4,7 @@ CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
 CCTV4K,http://183.236.43.98:4111/udp/239.77.0.174:5146
 CCTV4K,http://27.184.65.134:58888/rtp/239.254.201.67:6000
 CCTV4K,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/ys4Kcq_2000.m3u8
-
+CCTV4K,http://linqiush.top:9557/edge-cache02.live3.omd.sc96655.com/live/ys4Kcq_2000.m3u8
 
 CCTV16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
@@ -88,46 +88,30 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 
 峨眉电影4K,http://60.255.72.119:4022//udp/239.132.1.87:5000
 峨眉电影4K,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/emdy4k_8000.m3u8
+峨眉电影4K,http://linqiush.top:9557/edge-cache02.live3.omd.sc96655.com/live/emdy4k_8000.m3u8
+
 
 测试,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 测试,http://121.29.141.88:4022/rtp/239.253.92.220:6229
 测试,http://27.184.65.134:58888/rtp/239.254.201.68:6000
 
 
-深圳卫视4K,http://2099.tv12.xyz/96_1759293538366.m3u8
-北京卫视4K,http://2099.tv12.xyz/97_1759293538366.m3u8
-湖南卫视4K,http://2099.tv12.xyz/98_1759293538366.m3u8
-浙江卫视4K,http://2099.tv12.xyz/99_1759293538366.m3u8
-江苏卫视4K,http://2099.tv12.xyz/100_1759293538366.m3u8
-东方卫视4K,http://2099.tv12.xyz/101_1759293538366.m3u8
-北京卫视4K,http://2099.tv12.xyz/102_1759293538366.m3u8
-广东卫视4K,http://2099.tv12.xyz/103_1759293538366.m3u8
-山东卫视4K,http://2099.tv12.xyz/104_1759293538366.m3u8
-苏州4K,http://2099.tv12.xyz/105_1759293538366.m3u8
-河北4K,http://2099.tv12.xyz/106_1759293538366.m3u8
 
+北京卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
+湖南卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
+浙江卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
+江苏卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+东方卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
+广东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+深圳卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
+四川卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
+山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
+爱上4K,http://ddns.xryo.cn:8888/udp/239.112.205.186:5140
 
-CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227426/index.m3u8
-CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
-CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
-湖南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227425/index.m3u8
-东方卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227427/index.m3u8
-江苏卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227436/index.m3u8
-浙江卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227438/index.m3u8
-山东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
-四川卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227444/index.m3u8
-北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
-北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
-广东卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227415/index.m3u8
-深圳卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227428/index.m3u8
-河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
-求索纪录4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8
-CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227357/1.m3u8?fmt=ts2hls
-CCTV4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227413/1.m3u8?fmt=ts2hls
-河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226936/1.m3u8?fmt=ts2hls
-北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227122/1.m3u8?fmt=ts2hls
-北京卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227424/1.m3u8?fmt=ts2hls
-咪视界4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227285/1.m3u8?fmt=ts2hls
+北京卫视4K,http://118.251.96.145:8888/rtp/239.76.253.246:9000
+深圳卫视4K,http://118.251.96.145:8888/rtp/239.76.254.137:9000
+广东卫视4K,http://118.251.96.145:8888/rtp/239.76.254.139:9000
+
 
 
 

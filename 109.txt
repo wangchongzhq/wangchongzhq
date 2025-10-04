@@ -15,12 +15,10 @@
 CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
 CCTV4K,http://183.236.43.98:4111/udp/239.77.0.174:5146
 CCTV4K,http://27.184.65.134:58888/rtp/239.254.201.67:6000
-CCTV4K,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/ys4Kcq_2000.m3u8
-CCTV4K,http://linqiush.top:9557/edge-cache02.live3.omd.sc96655.com/live/ys4Kcq_2000.m3u8
+
 
 CCTV16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
-CCTV16,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/CCTV-16-4K.m3u8
 
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
@@ -92,8 +90,6 @@ Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 
 
 峨眉电影4K,http://60.255.72.119:4022//udp/239.132.1.87:5000
-峨眉电影4K,http://leireese.top:9557/edge-cache02.live3.omd.sc96655.com/live/emdy4k_8000.m3u8
-峨眉电影4K,http://linqiush.top:9557/edge-cache02.live3.omd.sc96655.com/live/emdy4k_8000.m3u8
 
 
 北京卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140

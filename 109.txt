@@ -1,5 +1,6 @@
 🇨🇳 4K,#genre#
 
+
 北京卫视4K,https://www.shqsy.com/zgst.php?id=btv4k
 东方卫视4K,https://www.shqsy.com/zgst.php?id=sh4k
 江苏卫视4K,https://www.shqsy.com/zgst.php?id=js4k
@@ -128,13 +129,7 @@ CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 北京卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.2:5146
 
 苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
-
 河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
-
-
-
-
-
 
 
 
@@ -160,6 +155,8 @@ CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1759296612&sign=b2ae07783bfaa33be1dbc5c4739c5196
 北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1759296610&sign=bab6250bcb35f6afd97bae2fcf4669f0
 北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1759296615&sign=8b6ab2e2088cf10970ad768bf7b75203
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1759585818&sign=ad1dbc93c8e1c7132df51a3aa7d62733
+
 
 
 北京淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
@@ -859,23 +856,6 @@ CCTV17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 黑龙江视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
 
-
-🇨🇳 山东地方台,#genre#
-蓬莱新闻,http://43.138.196.212/q0l.php?id=ytplxw
-蓬莱综合,http://43.138.196.212/q0l.php?id=ytplzh
-齐鲁频道,http://43.138.196.212/q0l.php?id=qlpd
-济阳综合,http://43.138.196.212/q0l.php?id=jnjyzh
-济阳影视,http://43.138.196.212/q0l.php?id=jnjyys
-济铁电视台,http://43.138.196.212/q0l.php?id=jnjrtv
-招远综合,http://43.138.196.212/q0l.php?id=ytzyzh
-龙口综合,http://43.138.196.212/q0l.php?id=ytlkzh
-龙口生活,http://43.138.196.212/q0l.php?id=ytlksh
-莱州综合,http://43.138.196.212/q0l.php?id=ytlzzh
-莱阳综合,http://43.138.196.212/q0l.php?id=ytlyxw
-莱阳民生综艺,http://43.138.196.212/q0l.php?id=ytlyms
-莱山综合,http://43.138.196.212/q0l.php?id=ytlszh
-
-
 🇨🇳 港奥台,#genre#
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
@@ -1303,4 +1283,3 @@ Alkarma TV Australia,https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaa
 Elbeshara GTV,http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 HTV 1 - Houston Television,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
 HTV 2 Houston Television,https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-b/playlist.m3u8
-

@@ -65,6 +65,7 @@ CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 广东卫视4K,http://183.236.43.98:4013/udp/239.77.0.245:5146
 广东卫视4K,http://183.236.43.98:4013/udp/239.77.1.237:5146
 广东卫视4K,http://183.236.43.98:4013/udp/239.77.0.244:5146
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 
 
 广东民生,http://wmh.wmh.ink:6633/udp/239.77.0.225:5146
@@ -90,6 +91,9 @@ CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 
 咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=fy666
 咪视界4K,http://113.106.171.234:8899/rtp/239.20.0.66:3136
+咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
+咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=BingCha
+
 
 上海欢笑剧场4K,http://117.174.25.254:8188/rtp/239.0.0.201:5140
 上海欢笑剧场4K,http://220.169.109.72:802/udp/239.76.254.66:9000
@@ -145,6 +149,9 @@ CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 
 苏州修复4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北电视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
+
+至臻视界4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
+
 
 CCTV16 4K,http://171.213.195.96:4000/rtp/239.10.0.187:5140
 CCTV16 4K,http://171.213.201.31:4000/rtp/239.10.0.187:5140

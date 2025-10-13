@@ -1,6 +1,18 @@
 🇨🇳 4K,#genre#
 
 
+
+北京卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
+湖南卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
+浙江卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
+江苏卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+东方卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
+广东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+深圳卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
+四川卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
+山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
+爱上4K,http://ddns.xryo.cn:8888/udp/239.112.205.186:5140
+
 北京卫视4K,https://itv.809899.xyz/4k.php?id=btv4k
 上海卫视4K,https://itv.809899.xyz/4k.php?id=sh4k
 江苏卫视4K,https://itv.809899.xyz/4k.php?id=js4k
@@ -11,14 +23,14 @@
 四川卫视4K,https://itv.809899.xyz/4k.php?id=sc4k
 深圳卫视4K,https://itv.809899.xyz/4k.php?id=sz4k
 
-
-
 四川卫视4K,http://yulang132.cn:58888/udp/239.94.0.115:5140$四川电信3
 湖南卫视4K,http://yulang132.cn:58888/udp/239.94.0.116:5140$四川电信3
 江苏卫视4K,http://yulang132.cn:58888/udp/239.94.0.117:5140$四川电信3
 浙江卫视4K,http://yulang132.cn:58888/udp/239.94.0.118:5140$四川电信3
 东方卫视4K,http://yulang132.cn:58888/udp/239.94.0.119:5140$四川电信3
 山东卫视4K,http://yulang132.cn:58888/udp/239.94.0.120:5140$四川电信3
+
+
 
 广东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.103:5140?$3840x2160
 深圳卫视4K,http://124.116.170.138:8081/rtp/239.111.205.104:5140?$3840x2160
@@ -43,10 +55,14 @@ CCTV4K,http://183.236.43.98:4013/udp/239.77.0.174:5146
 CCTV16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 
+
+北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1760315417&sign=366a0c9cf6351d11f643609206aabc7e
+
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
 北京卫视4K,http://220.169.109.72:802/udp/239.76.253.246:9000
 北京卫视4K,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
+
 
 
 北京卫视4K,http://183.220.107.138:4022/rtp/239.10.0.91:5140
@@ -59,6 +75,10 @@ CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 北京IPTV4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
 北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+北京IPTV4K,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.249:8001
+
+翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
+
 
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
@@ -85,6 +105,9 @@ CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 华数爱上4K,http://nas.201606.xyz:4022/udp/239.11.0.120:5140
 华数爱上4K,http://183.220.107.138:4022/rtp/239.11.0.120:5140
 
+
+
+
 咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=fy666
 咪视界4K,http://113.106.171.234:8899/rtp/239.20.0.66:3136
 咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
@@ -110,16 +133,6 @@ CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 
 峨眉电影4K,http://60.255.72.119:4022//udp/239.132.1.87:5000
 
-北京卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
-湖南卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
-浙江卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
-江苏卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
-东方卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
-广东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
-深圳卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-四川卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
-山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-爱上4K,http://ddns.xryo.cn:8888/udp/239.112.205.186:5140
 
 
 
@@ -127,6 +140,10 @@ CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 
 苏州4K,http://106.53.99.30/tv/api.php?id=sztv4k
 河北卫视4K,http://106.53.99.30/tv/api.php?id=hebtv4k
+
+苏州4K,http://2099.tv12.xyz/125_1760238819325.m3u8
+河北卫视4K,http://2099.tv12.xyz/126_1760238819325.m3u8
+
 
 至臻视界4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
 
@@ -189,6 +206,17 @@ CCTV4K,http://117.174.25.254:8188/rtp/239.0.0.184:5140
 北京文艺,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?
 北京新闻,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?
 北京影视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?
+
+
+北京卫视4K超高清,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1760315417&sign=366a0c9cf6351d11f643609206aabc7e
+北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1760315407&sign=bdf41cfaef556eaa57411b7f31698077
+北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1760315416&sign=153da7e314e5a011a33034fc07f7e7e9
+北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1760315413&sign=d8fc34edf95bf6b8baf0838876925e79
+北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1760315415&sign=7133cf6815e9043f7fdc349eecec75e7
+北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1760315409&sign=1c54fe0698dd16677c91da9e9abbeeb8
+北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1760315414&sign=dc1e4607c63d1e50587b4f0b10359001
+北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1760315411&sign=a0a2e9a46325c19a85acede009f8c8ca
+北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1760315416&sign=6949782e74ad556264a0db80b5f39c34
 
 
 北京淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
@@ -1016,6 +1044,7 @@ YMG未来,http://l.cztvcloud.com:80/channels/lantian/SXyuhang3/720p.m3u8
 
 
 🇨🇳 影视剧,#genre#
+1905电源网,http://120.46.223.160/PHP/1905.php?id=1905a
 爱情喜剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8?
 爱情喜剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226989/1.m3u8?
 超级电视剧,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8?
@@ -1319,4 +1348,5 @@ YTN,https://d1qpa642pafi0d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 투니버스 신비아파트: 고스트볼의 비밀,https://d2jtp2u7s0oid6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw7peenqm1bog-ssai-prd/4cb8089d_7e08_4435_bc0d_8e2d9ec90dd8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000144F
 투니버스 흔한남매의 안흔한일기2,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
 투니버스 흔한남매의 안흔한일기3,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
+
 

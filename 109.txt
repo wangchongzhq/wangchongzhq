@@ -1,8 +1,12 @@
 🇨🇳 4K,#genre#
 
 
+
+北京卫视4K,http://110.42.63.57:158/live/dft/beijing/beijing.php?id=bjws4k
+浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
 北京卫视4K,https://itv.809899.xyz/4k.php?id=btv4k
-上海卫视4K,https://itv.809899.xyz/4k.php?id=sh4k
+东方卫视4K,https://itv.809899.xyz/4k.php?id=sh4k
 江苏卫视4K,https://itv.809899.xyz/4k.php?id=js4k
 浙江卫视4K,https://itv.809899.xyz/4k.php?id=zj4k
 山东卫视4K,https://itv.809899.xyz/4k.php?id=sd4k
@@ -44,11 +48,14 @@
 山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 爱上4K,http://ddns.xryo.cn:8888/udp/239.112.205.186:5140
 
+
 上海卫视4K,https://itv.809899.xyz/4k.php?id=sh4k
 江苏卫视4K,https://itv.809899.xyz/4k.php?id=js4k
 浙江卫视4K,https://itv.809899.xyz/4k.php?id=zj4k
 湖南卫视4K,https://itv.809899.xyz/4k.php?id=hn4k
 深圳卫视4K,https://itv.809899.xyz/4k.php?id=sz4k
+
+
 
 CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
 CCTV4K,http://183.236.43.98:4111/udp/239.77.0.174:5146
@@ -88,7 +95,6 @@ CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 
-浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
 广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
 广东卫视4K,http://58.253.171.138:8188/udp/239.0.1.169:6030
@@ -1030,48 +1036,48 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 甘肃卫视,http://tpc.x3322.net:9901/tsfile/live/0141_1.m3u8
 
 🇨🇳 高码,#genre#
-CCTV01高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
-CCTV02高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
-CCTV03高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
-CCTV04高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
-CCTV05高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
-CCTV5+高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
-CCTV06高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
-CCTV07高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
-CCTV08高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
-CCTV09高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
-CCTV10高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
-CCTV11高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
-CCTV12高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
-CCTV13高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
-CCTV14高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
-CCTV15高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
-CCTV16高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
-CCTV17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
-北京卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
-东方卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
-浙江卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
-江苏卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
-湖南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
-广东卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
-深圳卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
-天津卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
-安徽卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
-山东卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
-辽宁卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
-河北卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
-河南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
-江西卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
-四川卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
-重庆卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
-贵州卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
-湖北卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
-广西卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
-东南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
-海南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
-青海卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
-吉林卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
-黑龙江视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
+CCTV01,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+CCTV02,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+CCTV03,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+CCTV04,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+CCTV05,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+CCTV06,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+CCTV07,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+CCTV08,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+CCTV09,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+CCTV12,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+东方卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
+浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
+江苏卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
+湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
+广东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+深圳卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
+天津卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
+安徽卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
+山东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
+辽宁卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
+河北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
+河南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
+江西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
+四川卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
+重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
+贵州卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+湖北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+广西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
+东南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
+海南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
+青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
+吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
+黑龙江视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
 
 🇨🇳 港奥台,#genre#
@@ -1507,5 +1513,3 @@ YTN,https://d1qpa642pafi0d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 투니버스 신비아파트: 고스트볼의 비밀,https://d2jtp2u7s0oid6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw7peenqm1bog-ssai-prd/4cb8089d_7e08_4435_bc0d_8e2d9ec90dd8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000144F
 투니버스 흔한남매의 안흔한일기2,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
 투니버스 흔한남매의 안흔한일기3,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
-
-

@@ -68,14 +68,11 @@ CCTV16,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 
 
-北京卫视4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1760315417&sign=366a0c9cf6351d11f643609206aabc7e
 
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
 北京卫视4K,http://220.169.109.72:802/udp/239.76.253.246:9000
 北京卫视4K,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
-
-
 
 北京卫视4K,http://183.220.107.138:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://183.220.107.138:4022/rtp/239.10.0.92:5140
@@ -224,17 +221,6 @@ CCTV4K,http://117.174.25.254:8188/rtp/239.0.0.184:5140
 北京文艺,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?
 北京新闻,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?
 北京影视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?
-
-
-北京卫视4K超高清,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s110/index.m3u8?time=1760315417&sign=366a0c9cf6351d11f643609206aabc7e
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1760315407&sign=bdf41cfaef556eaa57411b7f31698077
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1760315416&sign=153da7e314e5a011a33034fc07f7e7e9
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1760315413&sign=d8fc34edf95bf6b8baf0838876925e79
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1760315415&sign=7133cf6815e9043f7fdc349eecec75e7
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1760315409&sign=1c54fe0698dd16677c91da9e9abbeeb8
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1760315414&sign=dc1e4607c63d1e50587b4f0b10359001
-北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1760315411&sign=a0a2e9a46325c19a85acede009f8c8ca
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1760315416&sign=6949782e74ad556264a0db80b5f39c34
 
 
 北京淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001

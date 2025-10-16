@@ -49,7 +49,7 @@
 爱上4K,http://ddns.xryo.cn:8888/udp/239.112.205.186:5140
 
 
-上海卫视4K,https://itv.809899.xyz/4k.php?id=sh4k
+东方卫视4K,https://itv.809899.xyz/4k.php?id=sh4k
 江苏卫视4K,https://itv.809899.xyz/4k.php?id=js4k
 浙江卫视4K,https://itv.809899.xyz/4k.php?id=zj4k
 湖南卫视4K,https://itv.809899.xyz/4k.php?id=hn4k

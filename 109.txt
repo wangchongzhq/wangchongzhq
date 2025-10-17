@@ -1,19 +1,21 @@
 🇨🇳 4K,#genre#
 
 
-
 北京卫视4K,http://110.42.63.57:158/live/dft/beijing/beijing.php?id=bjws4k
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 
-北京卫视4K,https://itv.809899.xyz/4k.php?id=btv4k
-东方卫视4K,https://itv.809899.xyz/4k.php?id=sh4k
-江苏卫视4K,https://itv.809899.xyz/4k.php?id=js4k
-浙江卫视4K,https://itv.809899.xyz/4k.php?id=zj4k
-山东卫视4K,https://itv.809899.xyz/4k.php?id=sd4k
-湖南卫视4K,https://itv.809899.xyz/4k.php?id=hn4k
-广东卫视4K,https://itv.809899.xyz/4k.php?id=gd4k
-四川卫视4K,https://itv.809899.xyz/4k.php?id=sc4k
-深圳卫视4K,https://itv.809899.xyz/4k.php?id=sz4k
+
+北京卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
+湖南卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
+浙江卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
+江苏卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
+东方卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
+广东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+深圳卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
+四川卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
+山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
+爱上4K,http://ddns.xryo.cn:8888/udp/239.112.205.186:5140
+
 
 四川卫视4K,http://yulang132.cn:58888/udp/239.94.0.115:5140$四川电信3
 湖南卫视4K,http://yulang132.cn:58888/udp/239.94.0.116:5140$四川电信3
@@ -36,17 +38,6 @@
 四川卫视4K,http://124.116.170.138:8081/rtp/239.111.205.62:5140?$3840x2160
 山东卫视4K,http://124.116.170.138:8081/rtp/239.111.205.66:5140?$3840x2160
 
-
-北京卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
-湖南卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
-浙江卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
-江苏卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
-东方卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
-广东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
-深圳卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
-四川卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
-山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
-爱上4K,http://ddns.xryo.cn:8888/udp/239.112.205.186:5140
 
 
 东方卫视4K,https://itv.809899.xyz/4k.php?id=sh4k

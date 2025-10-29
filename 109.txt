@@ -1,9 +1,17 @@
-
 🇨🇳 4K,#genre#
 
 
 北京卫视4K,http://110.42.63.57:158/live/dft/beijing/beijing.php?id=bjws4k
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+
+
+北京卫视4K,http://106.53.99.30/tv/bj.php?id=bjws4k
+东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
+湖南卫视4K,http://106.53.99.30/tv/api.php?id=hnws4k
+深圳卫视4K,http://106.53.99.30/tv/api.php?id=szws4k
+江苏卫视4K,http://106.53.99.30/tv/api.php?id=jsws4k
+东方卫视4K,http://106.53.99.30/tv/api.php?id=dfws4k
+
 
 北京卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
 湖南卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
@@ -15,6 +23,7 @@
 四川卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
 山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 爱上4K,http://ddns.xryo.cn:8888/udp/239.112.205.186:5140
+
 
 
 四川卫视4K,http://yulang132.cn:58888/udp/239.94.0.115:5140$四川电信3
@@ -196,7 +205,6 @@ CCTV4K,http://117.174.25.254:8188/rtp/239.0.0.184:5140
 求索4K,http://5kuiwan.cn:8888/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/1.m3u8
 
 
-
 🇨🇳北京频道,#genre#
 
 北京财经,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?
@@ -208,6 +216,7 @@ CCTV4K,http://117.174.25.254:8188/rtp/239.0.0.184:5140
 北京文艺,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?
 北京新闻,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?
 北京影视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?
+
 
 
 北京淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
@@ -640,6 +649,32 @@ CHC影迷电影,http://113.195.172.192:808/hls/112/index.m3u8
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
 
+//辽宁
+CCTV1,http://sh.lnott.top:880/dx01.m3u8
+CCTV2,http://sh.lnott.top:880/dx02.m3u8
+CCTV3,http://sh.lnott.top:880/dx03.m3u8
+CCTV4,http://sh.lnott.top:880/dx04.m3u8
+CCTV5,http://sh.lnott.top:880/dx05.m3u8
+CCTV6,http://sh.lnott.top:880/dx06.m3u8
+CCTV7,http://sh.lnott.top:880/dx07.m3u8
+CCTV8,http://sh.lnott.top:880/dx08.m3u8
+CCTV9,http://sh.lnott.top:880/dx09.m3u8
+CCTV10,http://sh.lnott.top:880/dx10.m3u8
+CCTV11,http://sh.lnott.top:880/dx11.m3u8
+CCTV12,http://sh.lnott.top:880/dx12.m3u8
+CCTV13,http://sh.lnott.top:880/dx13.m3u8
+CCTV14,http://sh.lnott.top:880/dx14.m3u8
+CCTV15,http://sh.lnott.top:880/dx15.m3u8
+CCTV16,http://sh.lnott.top:880/dx16.m3u8
+CCTV17,http://sh.lnott.top:880/dx17.m3u8
+风云音乐,http://sh.lnott.top:880/dx73.m3u8
+纪实科教,http://sh.lnott.top:880/dx64.m3u8
+家庭理财,http://sh.lnott.top:880/dx65.m3u8
+兵器科技,http://sh.lnott.top:880/dx81.m3u8
+风云剧场,http://sh.lnott.top:880/dx94.m3u8
+怀旧剧场,http://sh.lnott.top:880/dx95.m3u8
+央视台球,http://sh.lnott.top:880/dx82.m3u8
+
 
 🇨🇳 卫视,#genre#
 北京卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?
@@ -1007,6 +1042,34 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 河南卫视,http://tpc.x3322.net:9901/tsfile/live/0139_1.m3u8
 黑龙江卫视,http://tpc.x3322.net:9901/tsfile/live/0143_1.m3u8
 甘肃卫视,http://tpc.x3322.net:9901/tsfile/live/0141_1.m3u8
+
+//辽宁
+浙江卫视,http://sh.lnott.top:880/dx32.m3u8
+辽宁卫视,http://sh.lnott.top:880/dx19.m3u8
+湖南卫视,http://sh.lnott.top:880/dx31.m3u8
+江苏卫视,http://sh.lnott.top:880/dx33.m3u8
+吉林卫视,http://sh.lnott.top:880/dx37.m3u8
+北京卫视,http://sh.lnott.top:880/dx29.m3u8
+东南卫视,http://sh.lnott.top:880/dx47.m3u8
+天津卫视,http://sh.lnott.top:880/dx30.m3u8
+安徽卫视,http://sh.lnott.top:880/dx34.m3u8
+东方卫视,http://sh.lnott.top:880/dx35.m3u8
+山东卫视,http://sh.lnott.top:880/dx38.m3u8
+山西卫视,http://sh.lnott.top:880/dx39.m3u8
+广东卫视,http://sh.lnott.top:880/dx40.m3u8
+广西卫视,http://sh.lnott.top:880/dx41.m3u8
+湖北卫视,http://sh.lnott.top:880/dx42.m3u8
+江西卫视,http://sh.lnott.top:880/dx43.m3u8
+河南卫视,http://sh.lnott.top:880/dx44.m3u8
+四川卫视,http://sh.lnott.top:880/dx45.m3u8
+辽宁北方,http://sh.lnott.top:880/dx25.m3u8
+辽宁经济,http://sh.lnott.top:880/dx26.m3u8
+辽宁公共,http://sh.lnott.top:880/dx27.m3u8
+辽宁都市,http://sh.lnott.top:880/dx20.m3u8
+辽宁生活,http://sh.lnott.top:880/dx23.m3u8
+新闻综合,http://sh.lnott.top:880/dx28.m3u8
+//
+
 
 🇨🇳 高码,#genre#
 CCTV01,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
@@ -1486,3 +1549,5 @@ YTN,https://d1qpa642pafi0d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 투니버스 신비아파트: 고스트볼의 비밀,https://d2jtp2u7s0oid6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw7peenqm1bog-ssai-prd/4cb8089d_7e08_4435_bc0d_8e2d9ec90dd8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000144F
 투니버스 흔한남매의 안흔한일기2,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
 투니버스 흔한남매의 안흔한일기3,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
+
+

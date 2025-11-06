@@ -200,6 +200,7 @@ CCTV4K,http://117.174.25.254:8188/rtp/239.0.0.184:5140
 
 求索4K,http://5kuiwan.cn:8888/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/1.m3u8
 
+
 北京卫视4K,http://116.179.149.157:6001/rtp/226.0.2.155:9172
 北京卫视4K,http://118.79.12.65:6000/rtp/226.0.2.155:9172
 深圳卫视4K,http://116.179.149.157:6001/rtp/226.0.1.244:2119
@@ -221,10 +222,13 @@ CCTV4K,http://117.174.25.254:8188/rtp/239.0.0.184:5140
 北京影视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8?
 
 
+
 北京淘电影,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.250:8001
 北京淘剧场,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.95:8001
 北京淘娱乐,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.100:8001
 北京淘BABY,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.238:8001
+
+
 
 
 北京移动,#genre#
@@ -1074,49 +1078,116 @@ NewTV精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/
 
 
 🇨🇳 高码,#genre#
-CCTV01,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
-CCTV02,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
-CCTV03,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
-CCTV04,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
-CCTV05,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
-CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
-CCTV06,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
-CCTV07,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
-CCTV08,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
-CCTV09,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
-CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
-CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
-CCTV12,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
-CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
-CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
-CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
-CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
-CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
-北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
-东方卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
-浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
-江苏卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
-湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
-广东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
-深圳卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
-天津卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
-安徽卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
-山东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
-辽宁卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
-河北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
-河南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
-江西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
-四川卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
-重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
-贵州卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
-湖北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
-广西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
-东南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
-海南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
-青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
-吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
-黑龙江视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
-
+CCTV01高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+CCTV02高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+CCTV03高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+CCTV04高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+CCTV05高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+CCTV5+高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+CCTV06高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+CCTV07高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+CCTV08高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+CCTV09高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+CCTV10高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+CCTV11高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+CCTV12高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+CCTV13高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+CCTV14高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+CCTV15高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+CCTV16高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+CCTV17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+北京卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+东方卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
+浙江卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
+江苏卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
+湖南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
+广东卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+深圳卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
+天津卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
+安徽卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
+山东卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
+辽宁卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
+河北卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
+河南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
+江西卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
+四川卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
+重庆卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
+贵州卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+湖北卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+广西卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
+东南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
+海南卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
+青海卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
+吉林卫视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
+黑龙江视高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
+//
+CCTV01高码,https://zby.130519.xyz/PLTV/11/224/3221225673/index.m3u8
+CCTV01高码,https://zby.130519.xyz/PLTV/11/224/3221225723/index.m3u8
+CCTV01高码,https://zby.130519.xyz/PLTV/11/224/3221225770/index.m3u8
+CCTV01高码,https://zby.130519.xyz/PLTV/11/224/3221226163/index.m3u8
+CCTV02高码,https://zby.130519.xyz/PLTV/11/224/3221226122/index.m3u8
+CCTV03高码,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
+CCTV03高码,https://zby.130519.xyz/PLTV/11/224/3221226165/index.m3u8
+CCTV04高码,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
+CCTV05高码,https://zby.130519.xyz/PLTV/11/224/3221225734/index.m3u8
+CCTV05高码,https://zby.130519.xyz/PLTV/11/224/3221226146/index.m3u8
+CCTV06高码,https://zby.130519.xyz/PLTV/11/224/3221225741/index.m3u8
+CCTV06高码,https://zby.130519.xyz/PLTV/11/224/3221226148/index.m3u8
+CCTV07高码,https://zby.130519.xyz/PLTV/11/224/3221225701/index.m3u8
+CCTV07高码,https://zby.130519.xyz/PLTV/11/224/3221226143/index.m3u8
+CCTV07高码,https://zby.130519.xyz/PLTV/11/224/3221226137/index.m3u8
+CCTV08高码,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
+CCTV08高码,https://zby.130519.xyz/PLTV/11/224/3221226167/index.m3u8
+CCTV10高码,https://zby.130519.xyz/PLTV/11/224/3221225743/index.m3u8
+CCTV10高码,https://zby.130519.xyz/PLTV/11/224/3221226169/index.m3u8
+CCTV11高码,https://zby.130519.xyz/PLTV/11/224/3221226101/index.m3u8
+CCTV11高码,https://zby.130519.xyz/PLTV/11/224/3221226145/index.m3u8
+CCTV12高码,https://zby.130519.xyz/PLTV/11/224/3221226103/index.m3u8
+CCTV12高码,https://zby.130519.xyz/PLTV/11/224/3221226126/index.m3u8
+CCTV13高码,https://zby.130519.xyz/PLTV/11/224/3221226128/index.m3u8
+CCTV14高码,https://zby.130519.xyz/PLTV/11/224/3221225738/index.m3u8
+CCTV14高码,https://zby.130519.xyz/PLTV/11/224/3221226150/index.m3u8
+CCTV15高码,https://zby.130519.xyz/PLTV/11/224/3221226147/index.m3u8
+CCTV16高码,https://zby.130519.xyz/PLTV/11/224/3221226120/index.m3u8
+CETV01高码,https://zby.130519.xyz/PLTV/11/224/3221225775/index.m3u8
+CETV04高码,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
+北京卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
+东方卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
+东方卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
+浙江卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
+江苏卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
+湖南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
+广东卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
+深圳卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
+天津卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
+安徽卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
+山东卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
+山西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
+辽宁卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
+河北卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
+河南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
+江西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
+四川卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
+重庆卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
+贵州卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
+湖北卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
+广西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
+广西卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
+云南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
+云南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
+东南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
+海南卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
+甘肃卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
+青海卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
+吉林卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
+吉林卫视高码,https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
+黑龙江视高码,https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
+东方影视高码,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
+东方财经高码,https://zby.130519.xyz/PLTV/11/224/3221226134/index.m3u8
+睛彩竞技高码,https://zby.130519.xyz/PLTV/11/224/3221226116/index.m3u8
+睛彩篮球高码,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
+睛彩广场高码,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
+五星体育高码,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 
 🇨🇳 港奥台,#genre#
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
@@ -1551,4 +1622,3 @@ YTN,https://d1qpa642pafi0d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 투니버스 신비아파트: 고스트볼의 비밀,https://d2jtp2u7s0oid6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw7peenqm1bog-ssai-prd/4cb8089d_7e08_4435_bc0d_8e2d9ec90dd8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000144F
 투니버스 흔한남매의 안흔한일기2,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
 투니버스 흔한남매의 안흔한일기3,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
-

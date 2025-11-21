@@ -46,6 +46,7 @@ CCTV16 4K,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 CCTV16 4K,http://shyd.695847.xyz/cms001/ch00000090990000001258/index.m3u8?IAS
 CCTV16 4K,http://183.220.107.138:4022/rtp/239.10.0.187:5140
+CCTV16 4K,http://220.176.218.56:9000/udp/239.252.220.237:5140
 
 
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
@@ -1313,6 +1314,20 @@ YMG未来,http://l.cztvcloud.com:80/channels/lantian/SXyuhang3/720p.m3u8
 北京文艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWrJcgMpdGPvZavpf4dmmrQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNhmwDsUZnvQgU5E5wiGA2g%2CEND
 北京新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
 
+音乐,#genre#
+CompanyTV,https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/playlist.m3u8
+First Music Channel HD,http://hz1.teleport.cc/HLS/HD.m3u8
+M2http://live.m2.tv/hls3/stream.m3u8
+MDIICTPAHA,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+MDIIFistmusic,http://hz1.teleport.cc/HLS/HD.m3u8
+MDIIjoomusic,https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+MDIImasfm,https://vivo.solumedia.com:19360/masfm/masfm.m3u8
+Sportska televizija,https://stream1.freetv.fun/69b2c529dbea823b3f0c6b906971a589b0f276fe78011eb0a2da85cc7768a117.m3u8
+М2,http://live.m2.tv/hls3/720/stream.m3u8
+Матч ТВ,https://stream1.freetv.fun/e33457ebbc3b991790f96dc6d8c1807c7b91fe2a6980fd5db48785a6b36d1213.m3u8
+Relaxing piano music,http://61.221.215.25:8800/hls/49/index.m3u8
+
+
 🌍丨全球,#genre#
 [半岛电视],https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
 [半岛新闻],http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -1465,4 +1480,3 @@ YTN,https://d1qpa642pafi0d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 투니버스 신비아파트: 고스트볼의 비밀,https://d2jtp2u7s0oid6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw7peenqm1bog-ssai-prd/4cb8089d_7e08_4435_bc0d_8e2d9ec90dd8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000144F
 투니버스 흔한남매의 안흔한일기2,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
 투니버스 흔한남매의 안흔한일기3,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
-

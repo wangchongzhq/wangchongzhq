@@ -1,31 +1,19 @@
 🇨🇳 4K,#genre#
 
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
+浙江卫视4K,http://www.li0580.top:4022/udp/233.50.201.226:5140
+
 北京卫视4K,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K&auth=666858
 
 北京卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
-湖南卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
+
 浙江卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
 江苏卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.64:5140
 东方卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.67:5140
-广东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
 深圳卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.104:5140
 四川卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.62:5140
 山东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.66:5140
 华数爱上4K,http://ddns.xryo.cn:8888/udp/239.112.205.186:5140
-
-北京卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001510/index.m3u8?IAS
-北京卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001500/index.m3u8?IAS
-湖南卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001710/index.m3u8?IAS
-东方卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001641/index.m3u8?IAS
-四川卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001690/index.m3u8?IAS
-山东卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001581/index.m3u8?IAS
-广东卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001540/index.m3u8?IAS
-广东卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001550/index.m3u8?IAS
-江苏卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001700/index.m3u8?IAS
-浙江卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001720/index.m3u8?IAS
-深圳卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?IAS
-深圳卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001521/index.m3u8?IAS
 
 四川卫视4K,http://yulang132.cn:58888/udp/239.94.0.115:5140$四川电信3
 湖南卫视4K,http://yulang132.cn:58888/udp/239.94.0.116:5140$四川电信3
@@ -34,58 +22,48 @@
 东方卫视4K,http://yulang132.cn:58888/udp/239.94.0.119:5140$四川电信3
 山东卫视4K,http://yulang132.cn:58888/udp/239.94.0.120:5140$四川电信3
 
-
 CCTV4K,http://btjg.net:809/hls/141/index.m3u8
 CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
-CCTV4K,http://183.236.43.98:4111/udp/239.77.0.174:5146
 CCTV4K,http://183.236.43.98:4013/udp/239.77.0.194:5146
-CCTV4K,http://183.236.43.98:4013/udp/239.77.0.174:5146
 
 CCTV8K,http://yp.qqqtv.top/1/api.php?id=CCTV-8K%E8%B6%85%E9%AB%98%E6%B8%85&auth=666858
 
 CCTV16 4K,http://nas.201606.xyz:4022/rtp/239.10.0.187:5140
 CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
-CCTV16 4K,http://shyd.695847.xyz/cms001/ch00000090990000001258/index.m3u8?IAS
+
 CCTV16 4K,http://183.220.107.138:4022/rtp/239.10.0.187:5140
 
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
-北京卫视4K,http://220.169.109.72:802/udp/239.76.253.246:9000
 北京卫视4K,http://183.220.107.138:4022/rtp/239.10.0.91:5140
 北京卫视4K,http://183.220.107.138:4022/rtp/239.10.0.92:5140
 
 北京IPTV4K,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?zoneoffset=480&servicetype=1&icpid=88888888&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~Q8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk~ExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240802122114%2C162944%2C119.123.69.186%2C20240802122114%2C10000100000000050000000003887500%2C162944%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=31%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007266388_0%2CEND&GuardEncType=2&RTS=1729247386&from=6&ocs=2_39.135.238.65_80&popid=6&hms_devid=3771&prioritypopid=6&vqe=3
-北京IPTV4K,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
-北京IPTV4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
-北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?
-北京IPTV4K,http://[2409:8087:8:21::04]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 北京IPTV4K,http://ydl.yueyaoxian.top:8686/rtp/239.3.1.249:8001
-翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
 
-广东卫视4K,http://113.106.171.234:8899/rtp/239.20.0.60:3160
+翡翠台4K,http://cdn6.163189.xyz/163189/fct4k
+翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
+
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+
+广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
 广东卫视4K,http://183.236.43.98:4013/udp/239.77.0.245:5146
 广东卫视4K,http://183.236.43.98:4013/udp/239.77.1.237:5146
 广东卫视4K,http://183.236.43.98:4013/udp/239.77.0.244:5146
 广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 
-华数爱上4K,http://nas.201606.xyz:4022/udp/239.11.0.120:5140
-华数爱上4K,http://183.220.107.138:4022/rtp/239.11.0.120:5140
+爱上4K,http://nas.201606.xyz:4022/udp/239.11.0.120:5140
+爱上4K,http://183.220.107.138:4022/rtp/239.11.0.120:5140
 至臻视界,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
 至臻视界,http://[2409:8087:8:21::0b]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8?
 咪视界4K,http://[2409:8087:8:21::0b]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8?
 咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/1.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=fy666
 咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=BingCha
 咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=BingCha
-欢笑剧场4K,http://117.174.25.254:8188/rtp/239.0.0.201:5140
-欢笑剧场4K,http://220.169.109.72:802/udp/239.76.254.66:9000
+
 深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
 深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
-深圳卫视4K,http://go.bkpcp.top/mg/szws
-深圳卫视4K,http://j.s.bkpcp.top/jj/szws
 深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
-深圳卫视4K,http://shyd.695847.xyz/cms001/ch00000090990000001560/index.m3u8?HAS
 
 河北卫视4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 
@@ -97,49 +75,24 @@ CCTV16 4K,http://183.220.107.138:4022/rtp/239.10.0.187:5140
 苏州4K,http://2099.tv12.xyz/125_1760238819325.m3u8
 河北卫视4K,http://2099.tv12.xyz/126_1760238819325.m3u8
 
-
-
-
-北京卫视4K,http://183.184.47.145:8001/rtp/226.0.2.155:9172
-广东卫视4K,http://183.184.47.145:8001/rtp/226.0.1.245:2120
-深圳卫视4K,http://183.184.47.145:8001/rtp/226.0.1.244:2119
-
-CCTV4K,http://117.174.25.254:8188/rtp/239.0.0.184:5140
-CCTV4K,http://113.101.245.153:9988/udp/239.77.0.194:5146
-CCTV4K,http://www.li0580.top:4022/udp/233.50.201.226:5140
-CCTV4K,http://www.tszhgjj.cn:7000/rtp/239.253.93.134:6631
-
 东方卫视4K,http://yulang132.cn:58888/udp/239.94.0.120:5140$四川电信3
-北京卫视4K,http://113.106.171.234:8899/rtp/239.20.0.46:3220
-北京卫视4K,http://113.106.171.234:8899/rtp/239.20.0.250:2298
 
-江苏卫视4K,http://ddns.xryo.cn:8888/rtp/239.109.205.97:8712
 深圳卫视4K,http://ddns.xryo.cn:8888/rtp/239.109.205.195:9642
 CCTV16 4K,http://ddns.xryo.cn:8888/rtp/239.111.205.134:5140
 华数爱上4K,http://ddns.xryo.cn:8888/rtp/239.109.205.53:8360
 
-百事通电影4K,http://180.154.61.39:4022/rtp/239.45.1.42:5140
-百事通电影4K,http://180.154.61.39:4022/rtp/239.45.3.107:5140
-百事通少儿4K,http://180.154.61.39:4022/rtp/239.45.1.1:5140
-百事通纪实4K,http://180.154.61.39:4022/rtp/239.45.1.10:5140
 
 CCTV4K,http://ddns.xryo.cn:8888/rtp/239.111.205.40:5140
 四川卫视4K,http://ddns.xryo.cn:8888/rtp/239.110.205.90:7916
-河南卫视4K,http://www.cdnstv.com:6398/hls/1168/index.m3u8
-翡翠台4K,https://cdn6.163189.xyz/163189/fct4k
+
 百事通4K,http://124.78.13.23:4022/udp/239.45.1.42:5140
 百事通4K,http://124.78.13.23:4022/udp/239.45.3.107:5140
 广东卫视4K,http://ddns.xryo.cn:8888/rtp/239.110.205.36:9850
 北京卫视4K,http://ddns.xryo.cn:8888/rtp/239.109.205.5:9144
 CCTV4K,http://bigy.timwin.top:5400/udp/239.3.1.245:2000
 
-湖南卫视4K,https://migu.188766.xyz/?migutoken=2dfd0c7e89fd9be7bb7d145c226f94f5&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-浙江卫视4K,https://migu.188766.xyz/?migutoken=ecc1dcb0f97faf1123aa6f6eab7c7f15&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 江苏卫视4K,#EXTVLCOPT:referer=https://api.chinaaudiovisual.cn/
 东方卫视4K,#EXTVLCOPT:referer=https://live.kankanews.com/
-北京卫视4K,https://migu.188766.xyz/?migutoken=9621b5923a49bd2d907ed87f825071af&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-深圳卫视4K,https://migu.188766.xyz/?migutoken=de0579d17c893f7c5018058d864b79b5&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
-
 
 南国都市4K,http://183.236.43.98:4013/udp/239.253.43.99:5146
 
@@ -1536,4 +1489,3 @@ YTN,https://d1qpa642pafi0d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 투니버스 신비아파트: 고스트볼의 비밀,https://d2jtp2u7s0oid6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw7peenqm1bog-ssai-prd/4cb8089d_7e08_4435_bc0d_8e2d9ec90dd8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000144F
 투니버스 흔한남매의 안흔한일기2,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
 투니버스 흔한남매의 안흔한일기3,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
-

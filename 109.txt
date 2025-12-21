@@ -4,7 +4,6 @@
 浙江卫视4K,http://www.li0580.top:4022/udp/233.50.201.226:5140
 
 北京卫视4K,http://yp.qqqtv.top/1/api.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%864K&auth=666858
-
 北京卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.51:5140
 
 浙江卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
@@ -51,6 +50,8 @@ CCTV16 4K,http://183.220.107.138:4022/rtp/239.10.0.187:5140
 广东卫视4K,http://183.236.43.98:4013/udp/239.77.1.237:5146
 广东卫视4K,http://183.236.43.98:4013/udp/239.77.0.244:5146
 广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+广东卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.103:5140
+湖南卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.63:5140
 
 爱上4K,http://nas.201606.xyz:4022/udp/239.11.0.120:5140
 爱上4K,http://183.220.107.138:4022/rtp/239.11.0.120:5140
@@ -95,6 +96,7 @@ CCTV4K,http://bigy.timwin.top:5400/udp/239.3.1.245:2000
 东方卫视4K,#EXTVLCOPT:referer=https://live.kankanews.com/
 
 南国都市4K,http://183.236.43.98:4013/udp/239.253.43.99:5146
+
 
 
 

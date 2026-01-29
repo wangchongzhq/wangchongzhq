@@ -1,3 +1,50 @@
+
+﻿🇨🇳 5.1环绕声,#genre#
+CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
+CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
+CCTV4,http://112.27.235.94:8000/hls/4/index.m3u8
+CCTV5,http://112.27.235.94:8000/hls/5/index.m3u8
+CCTV5+,http://112.27.235.94:8000/hls/6/index.m3u8
+CCTV5+,http://120.238.94.10:9901/tsfile/live/1023_1.m3u8
+CCTV6,http://117.13.22.178:4022/udp/225.1.1.195:5002
+CCTV7,http://112.27.235.94:8000/hls/8/index.m3u8
+CCTV8,http://120.238.94.10:9901/tsfile/live/1026_1.m3u8
+CCTV8,http://113.15.109.216:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://112.27.235.94:8000/hls/9/index.m3u8
+CCTV9,http://112.27.235.94:8000/hls/10/index.m3u8
+CCTV10,http://112.27.235.94:8000/hls/11/index.m3u8
+CCTV11,http://112.27.235.94:8000/hls/12/index.m3u8
+CCTV11,http://113.15.109.216:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://112.27.235.94:8000/hls/13/index.m3u8
+CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
+CCTV14,http://60.16.0.216:5757/hls/15/index.m3u8
+CCTV15,http://112.27.235.94:8000/hls/16/index.m3u8
+CCTV17,http://120.238.94.10:9901/tsfile/live/1048_1.m3u8
+CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+CHC高清电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+上海卫视,http://219.146.65.78:59902/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://go.bkpcp.top/mg/dfws
+东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8
+动漫秀场,http://220.176.218.23:9000/udp/239.252.219.59:5140
+北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
+北京卫视4K,http://124.116.170.138:8081/rtp/239.111.205.51:5140?
+四川卫视4K,http://112.27.235.94:8000/hls/35/index.m3u8
+山西卫视,http://60.16.0.216:5757/hls/39/index.m3u8
+峨眉电影4K,http://60.255.72.119:4022//udp/239.132.1.87:5000
+广东卫视4K,http://183.236.43.98:4013/udp/239.77.0.244:5146
+江苏卫视,http://219.146.65.78:59902/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
+深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+深圳卫视4K,http://ddns.cyruslee.top:8888/udp/239.77.1.14:5146
+湖北卫视,http://60.16.0.216:5757/hls/33/index.m3u8
+湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
+翡翠台,http://nz171l122.bb60246.ctm.net:8889/bysid/1.m3u8
+重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
+重温经典,http://8.138.7.223/tv/cwjd.php
+陕西卫视,http://111.221.137.155:44330/tsfile/live/0114_1.m3u8?key=txiptv
+黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
+
+
 🇨🇳 4K,#genre#
 
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8

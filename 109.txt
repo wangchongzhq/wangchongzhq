@@ -1113,116 +1113,59 @@ CCTV17高码,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 
 
 🇨🇳 港奥台,#genre#
-凤凰卫视http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰香港http://php.jdshipin.com/PLTV/iptv.php?id=fhhk
-凤凰香港http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰香港https://cdn6.101.qzz.io/163189/fhhk
-凤凰香港台,http://r.jdshipin.com/yDoTN
-凤凰香港台,https://cdn6.101.qzz.io/163189/fhhk
+中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+中天新闻,http://222.128.55.152:9080/live/fc.m3u8
+中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+中视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+凤凰中文,http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰中文,https://migu.188766.xyz/?migutoken=a719d7132e0ddec44891d6b84850e213&id=fhzw&pp=1
+凤凰中文,http://rihou.cc:555/tv/[PL]凤凰中文
+凤凰中文,http://php.jdshipin.com:8880/iptv.php?id=fhzw
+凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
+凤凰资讯,http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283854
+凤凰资讯,http://rihou.cc:555/tv/[PL]凤凰资讯
+凤凰资讯,https://mgev.188766.xyz/?migutoken=2e3953f206630b7f3339463594cf21c0&id=fhzx&pp=1
+凤凰资讯,http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
+凤凰香港,https://mgev.188766.xyz/?migutoken=40fa6c0ba9aebd84e02b7a2c1730f455&id=fhhk&pp=1$LR•IPV4『线路11』
+凤凰香港,http://bziyunshao.synology.me:8890/bysid/85
+凤凰香港,https://migu.188766.xyz/?migutoken=ed051c2cc36dd7778520ca5f46f4b08f&id=fhhk&pp=1
+凤凰香港,http://rihou.cc:555/tv/[PL]凤凰香港
+凤凰香港,http://r.jdshipin.com/yDoTN
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
 凤凰中文,http://api.kkitv.itv888.vip:8080/streams/vny1wblsnch/index.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
-凤凰中文http://php.jdshipin.com/PLTV/iptv.php?id=fhzw
-凤凰中文http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文https://cdn6.101.qzz.io/163189/fhzw
 凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
-凤凰资讯[1280*720]http://j.s.bkpcp.top/js/fhzx
-凤凰资讯http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-凤凰资讯http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯https://cdn6.101.qzz.io/163189/fhzx
 Now爆谷台,http://23.237.228.133/live2/baogutai.m3u8
 Now爆谷台,http://rihou.cc:555/tv/[Bx]Now爆谷
 Now财经台,http://hls.168.us.kg/u/333/master.m3u8
-Now新闻http://cdn.163189.xyz/163189/now
 Now新闻台,http://hls.168.us.kg/u/332/master.m3u8
 Now星影台,http://23.237.228.133/live2/xingyingtai.m3u8
 Now星影台,http://rihou.cc:555/tv/[Bx]Now星影
 Now直播台,http://hls.168.us.kg/u/331/master.m3u8
-Plus综合http://php.jdshipin.com/PLTV/iptv.php?id=tvbp
 RHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK31http://php.jdshipin.com/PLTV/iptv.php?id=rthk31
-RTHK31http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK31http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31
-RTHK32http://php.jdshipin.com/PLTV/iptv.php?id=rthk32
-RTHK32http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-RTHK32http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
 TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVBS亚洲http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 ViuTV,http://r.jdshipin.com/vSJvl
 ViuTV,https://cdn.163189.xyz/163189/viu
 ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
-YMG未来http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8
-YMG未来http://l.cztvcloud.com:80/channels/lantian/SXyuhang3/720p.m3u8
-澳门Machttp://php.jdshipin.com/PLTV/iptv.php?id=as
-澳门莲花http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
-澳视Macauhttp://103.233.191.133:1935/ch3/ch3.live/playlist.m3u8
-澳视澳门http://103.233.191.132:1935/ch1/ch1.live/playlist.m3u8
-澳视澳门http://php.jdshipin.com/PLTV/iptv.php?id=asam
-澳视澳门http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星http://103.233.191.134:1935/ch3/ch3.live/playlist.m3u8
-澳视卫星http://php.jdshipin.com/TVOD/iptv.php?id=as
-澳视资讯http://103.233.191.134:1935/ch5/info_ch5.live/playlist.m3u8
-澳视综艺http://103.233.191.132:1935/ch6/hd_ch6.live/playlist.m3u8
-东森超视http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
-东森超视http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-番薯111http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯111http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
-番薯111http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番禺电视http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-番禺新闻http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 翡翠台,http://hls.168.us.kg/u/81/master.m3u8
 翡翠台,http://mytv.cdn.loc.cc/o12.php?id=fct
 翡翠台,http://r.jdshipin.com/62WM7
-翡翠台http://8.138.7.223/tv/hot.php?id=68
-翡翠台http://mytv.cdn.loc.cc/o12.php?id=fct
-翡翠台http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-翡翠台北美版(TVB J1)http://php.jdshipin.com/TVOD/iptv.php?id=j1
-翡翠台北美版TVBJ1http://php.jdshipin.com/TVOD/iptv.php?id=j1
 华视,http://211.23.125.95:50007/4gtv-4gtv041/index.m3u8?proxy=true
 龙华电影,https://cdn8.163189.xyz/163189/lhdy
 龙华经典,https://cdn8.163189.xyz/163189/lhjd
 龙华偶像,https://cdn8.163189.xyz/163189/lhox
 龙华戏剧,https://cdn8.163189.xyz/163189/lhxj
-美亚C+http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 明珠台,http://hls.168.us.kg/u/84/master.m3u8
 明珠台,http://php.jdshipin.com/PLTV/iptv.php?id=mzt
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 欧洲华文电视台,http://oh.eztv.vip/live/eztv1.m3u8
-台视新闻http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-无线翡翠http://php.jdshipin.com/PLTV/iptv.php?id=fct2
-无线翡翠http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-无线明珠http://php.jdshipin.com/PLTV/iptv.php?id=mzt
-无线明珠http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-无线新闻http://8.138.7.223/tv/hot.php?id=69
-无线新闻http://t.061899.xyz/tl/js/js.php?id=tvbwxxwt
 无线新闻台,http://hls.168.us.kg/u/83/master.m3u8
-无线新闻台,https://cdn6.101.qzz.io/163189/wxxw
-香港_C+_http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-香港J2https://vdm6-hw.nbgdsygs.com/live/h6-2.flv$1080P
-新加坡国际http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-新闻综合http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
-星空电影http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
 亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-亚洲卫视https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-有线综合http://php.jdshipin.com/PLTV/iptv.php?id=hoytv
-有线综合http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-中视,http://211.23.125.95:50007/4gtv-4gtv040/index.m3u8?proxy=true
-中天新闻http://222.128.55.152:9080/live/fc.m3u8
-中旺电视http://38.64.72.148:80/hls/modn/list/4010/chunklist1.m3u8
-重温经典http://112.27.235.94:8000/hls/50/index.m3u8
-重温经典http://m.061899.xyz/mg/cwjd
-重温经典http://php.jdshipin.com/PLTV/iptv.php?id=cwjd
-重温经典http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-重温经典http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-
 
 🇨🇳 影视剧,#genre#
 1905电源网,http://120.46.223.160/PHP/1905.php?id=1905a

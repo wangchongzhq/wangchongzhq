@@ -1052,7 +1052,6 @@ ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8

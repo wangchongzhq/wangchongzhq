@@ -604,6 +604,27 @@ CETV4,http://yanshifen.top:8889/udp/239.253.43.40:5146
 高尔夫网球,http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
 高尔夫网球,http://yanshifen.top:8889/udp/239.253.43.22:5146
 
+CCTV1,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV2,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV3,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV5,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV6,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV7,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV8,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV9,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV10,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV11,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV12,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV13,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV14,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV15,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV16,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV17,http://74.91.26.218:82/live/cctv17hd.m3u8
+
+
+
 
 🇨🇳 卫视,#genre#
 东南卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?
@@ -1044,6 +1065,28 @@ CETV4,http://yanshifen.top:8889/udp/239.253.43.40:5146
 黑龙江卫视,http://221.226.51.220:50081/newlive/live/hls/31/live.m3u8
 
 🇨🇳 港奥台,#genre#
+
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+中视,http://74.91.26.218:82/live/ctv.m3u8
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+中视经典,http://74.91.26.218:82/live/ctvjd.m3u8
+中视菁采,http://74.91.26.218:82/live/ctvjc.m3u8
+台视,http://74.91.26.218:82/live/ttv.m3u8
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+台视综合,http://74.91.26.218:82/live/ttvzh.m3u8
+台视财经,http://74.91.26.218:82/live/ttvcj.m3u8
+华视,http://74.91.26.218:82/live/cts.m3u8
+华视新闻资讯,http://74.91.26.218:82/live/ctsnews.m3u8
+华视教育体育文化,http://74.91.26.218:82/live/ctsjy.m3u8
+民视,http://74.91.26.218:82/live/ftv.m3u8
+民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
+民视第一台,http://74.91.26.218:82/live/ftvdy.m3u8
+公视,http://74.91.26.218:82/live/pts.m3u8
+公视台语台,http://74.91.26.218:82/live/ptsty.m3u8
+小公视,http://74.91.26.218:82/live/ptsse.m3u8
+
 Now新闻台,http://hls.168.us.kg/u/332/master.m3u8
 Now直播台,http://hls.168.us.kg/u/331/master.m3u8
 Now财经台,http://hls.168.us.kg/u/333/master.m3u8
@@ -1052,6 +1095,7 @@ ViuTV,http://hls.168.us.kg/u/99/master.m3u8
 ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
+
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8
@@ -1074,7 +1118,7 @@ ViuTV6,http://hls.168.us.kg/u/96/master.m3u8
 凤凰资讯,http://qctv.fengshows.cn/live/0701pin72.flv?txSecret=226954e53e7f75371e9efc590b6e5204&txTime=68a051a8
 无线新闻台,http://hls.168.us.kg/u/83/master.m3u8
 欧洲华文电视台,http://oh.eztv.vip/live/eztv1.m3u8
-翡翠台,http://hls.168.us.kg/u/81/master.m3u8
+
 
 
 🇨🇳 影视剧,#genre#

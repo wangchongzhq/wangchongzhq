@@ -1401,6 +1401,7 @@ CCTV15,http://39.164.164.132:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&
 重庆卫视,http://39.164.164.132:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=0&authid=0
 河南电视剧,http://39.164.164.132:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0
 河南戏曲,http://39.164.164.132:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=0&authid=0
+
 🇨🇳 港奥台,#genre#
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
 TVB Plus,http://74.91.26.218:82/live/j2.m3u8
@@ -1427,6 +1428,25 @@ ViuTV,https://cdn.163189.xyz/163189/viu
 凤凰资讯,http://61.184.46.85:85/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 欧洲华文电视台,http://oh.eztv.vip/live/eztv1.m3u8
 凤凰卫视,http://219.146.65.78:59902/tsfile/live/0117_2.m3u8?key=txiptv&playlive=1&authid=0
+明珠台,http://r.jdshipin.com/ZQ4kN
+明珠台,https://php.jdshipin.com:2096/TVOD/iptv.php?id=mzt
+TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8?
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
+中天新闻,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
+三立台湾,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立台湾
+三立新闻,http://zb.xmzb.xyz/123.php?id=⚽马上oppppp一三立INEW
+TVB Plus,https://php.jdshipin.com:2096/TVOD/iptv.php?id=tvbp
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVBS新闻,http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20168
+TVBS新闻,http://iptv.4666888.xyz/iptv2A.php?id=43
+
+
 🇨🇳 影视剧,#genre#
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 中国功夫,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8?
@@ -1617,14 +1637,16 @@ MDIIjoomusic,https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 MDIImasfm,https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 Relaxing piano music,http://61.221.215.25:8800/hls/49/index.m3u8
 🌍丨全球,#genre#
+ABC News,http://xtvantsc.xyz/Smart.php?id=abcnews_glo
 Al Horreya TV,http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
 Al Horreya TV,http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
 AlbUK TV,http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 Alkarma TV Australia,https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 AzstarTV,http://live.livestreamtv.ca/azstar/smil:azstar.smil/playlist.m3u8
 Elbeshara GTV,http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
-Global News BC,https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
-Global News BC,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+Global News,https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
+Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+Global News,https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
 Niederbayern TV,https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8?checkedby:iptvcat.com
 Niederbayern TV Deggendorf & Straubing,https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8?checkedby:iptvcat.com
 Niederbayern TV Landshut,https://stream03.welocal.stream/stream/fhd-nbylandshut_75262/ngrp:stream_all/index.m3u8?checkedby:iptvcat.com

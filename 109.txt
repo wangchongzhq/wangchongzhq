@@ -19,26 +19,18 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
 东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8
 东方卫视,http://go.bkpcp.top/mg/dfws
-东南卫视,http://112.27.235.94:8000/hls/38/index.m3u8
-动漫秀场,http://220.176.218.27:9000/udp/239.252.219.59:5140
+东方卫视,http://219.146.65.78:59902/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 广东卫视4K,http://183.236.43.98:4013/udp/239.77.0.244:5146
-贵州卫视,http://112.27.235.94:8000/hls/46/index.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
 湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
 江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8
 江苏卫视,http://219.146.65.78:59902/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://112.27.235.94:8000/hls/44/index.m3u8
-辽宁卫视,http://112.27.235.94:8000/hls/47/index.m3u8
-陕西卫视,http://112.27.235.94:8000/hls/43/index.m3u8
 陕西卫视,http://36.36.200.198:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
-上海卫视,http://219.146.65.78:59902/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8
-深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
 四川卫视4K,http://112.27.235.94:8000/hls/35/index.m3u8
-云南卫视,http://112.27.235.94:8000/hls/40/index.m3u8
 浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
 重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
 重温经典,http://8.138.7.223/tv/cwjd.php
+动漫秀场,http://220.176.218.27:9000/udp/239.252.219.59:5140
 
 
 
@@ -1684,7 +1676,6 @@ CCTV15,http://39.164.164.132:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&
 ViuTV,https://cdn.163189.xyz/163189/viu
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 中视新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8

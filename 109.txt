@@ -26,6 +26,7 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8
 江苏卫视,http://219.146.65.78:59902/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://36.36.200.198:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+陕西卫视,http://111.221.137.234:44330/tsfile/live/0116_2.m3u8?key=txiptv&playlive=0&authid=0
 四川卫视4K,http://112.27.235.94:8000/hls/35/index.m3u8
 浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
 重温经典,http://112.27.235.94:8000/hls/50/index.m3u8

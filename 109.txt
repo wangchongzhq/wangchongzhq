@@ -1228,6 +1228,7 @@ CCTV15,http://39.164.164.132:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&
 中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv009&token=xiatianshigou
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
+中天新闻,http://46.38.157.60:53874/proxy/e02b3975691e34b3.m3u8
 中天新闻秒开,rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 中天新闻,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,https://stream1.freetv.fun/zhong-tian-xin-wen-4.m3u8

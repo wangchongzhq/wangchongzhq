@@ -395,8 +395,8 @@ CHC动作电影,http://120.238.94.82:9901/tsfile/live/1052_1.m3u8
 
 🇨🇳 4K,#genre#
 CCTV16 4K,http://ddns.xryo.cn:8888/rtp/239.111.205.134:5140
-CCTV4K,http://183.236.43.98:4013/udp/239.77.0.194:5146
 CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
+CCTV4K,http://183.236.43.98:4013/udp/239.77.0.194:5146$广东电信11
 CCTV8K,http://198.204.240.250:82/live/cctv8k.m3u8
 北京卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.2:5146
 咪视界4K,http://gslbserv.itv.cmvideo.cn:80/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=BingCha
@@ -434,7 +434,7 @@ CCTV16 4K,http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=
 华数爱上4K,http://ddns.xryo.cn:8888/udp/239.112.205.186:5140
 河南卫视4K,http://lysj.aylzline.top:8899/rtp/225.1.2.237:11530
 江苏卫视4K,http://111.170.156.74:3344/地方频道/js.php?id=jsws4kpro
-CCTV4K,http://183.236.43.98:4013/udp/239.77.0.194:5146$广东电信11
+
 CCTV4K,http://home.wscxy.fun:30100/udp/233.18.204.204:5140
 CCTV4K,http://home.wscxy.fun:30100/udp/233.18.204.188:5140
 CCTV4K,http://bigy.timwin.top:5400/udp/239.3.1.245:2000
@@ -452,6 +452,56 @@ CCTV4K,http://www.520345.xyz:8188/rtp/239.69.1.111:10304?
 浙江卫视4K,http://ddns.xryo.cn:8888/udp/239.111.205.65:5140
 湖南卫视4K,http://yulang132.cn:58888/udp/239.94.0.116:5140$四川电信3
 湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k
+CCTV4K,http://106.116.126.119:4022/rtp/239.254.201.67:6000$河北电信11
+CCTV4K,http://183.236.43.98:4013/udp/239.77.0.174:5146$广东电信12
+CCTV4K,http://113.119.25.4:58888/udp/239.77.0.194:5146$广东电信21
+CCTV4K,http://113.119.25.4:58888/udp/239.77.0.174:5146$广东电信22
+CCTV4K,http://111.170.156.74:3344/央视/cctv.php?id=cctv4k
+CCTV4K,http://p.ytelc.com/169l/0/cctv.php?id=cctv4k
+CCTV4K,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_CCTV-4K-HD
+CCTV4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
+CCTV4K,http://rihou.cc:555/tv/CCTV4K
+CCTV4K,http://183.236.43.98:4111/udp/239.77.0.174:5146
+CCTV4K,http://tiandong.site:8188/udp/239.77.0.174:5146
+CCTV4K,http://tiandong.site:8188/udp/239.77.0.194:5146
+CCTV4K,http://192.151.150.154/live/cctv4k.m3u8
+东方卫视4K,http://180.184.31.193/zgst/zgst.php?id=sh4k
+东方卫视4K,http://101.35.240.114:88/live.php?id=东方卫视4K
+东方卫视4K,https://www.shqsy.com/zgst.php?id=sh4k
+北京IPTV4K,http://home.airengine.net:9003/rtp/228.1.1.123:8001
+北京卫视4K,http://139.ye23.vip/dl/btv2502.php?id=bjws4
+北京卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+北京卫视4K,http://8.138.7.223/tv/btime.php?id=bjws4k
+北京卫视4K,http://101.35.240.114:88/live.php?id=北京卫视
+北京卫视4K,http://106.53.99.30/tv/api.php?id=bjws4k
+北京卫视4K,https://www.shqsy.com/zgst.php?id=btv4k
+北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
+北京卫视4K,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
+山东卫视4K,https://www.shqsy.com/zgst.php?id=sd4k
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+广东卫视4K,http://180.184.31.193/zgst/zgst.php?id=gd4k
+广东卫视4K,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+广东卫视4K,http://101.35.240.114:88/live.php?id=广东卫视4K
+广东卫视4K,https://www.shqsy.com/zgst.php?id=gd4k
+广东卫视4K,http://106.53.99.30/tv/api.php?id=gdws
+广东卫视4K,http://106.53.99.30/tv/api.php?id=gdws4k
+江苏卫视4K,https://www.shqsy.com/zgst.php?id=js4k
+浙江卫视4K,http://180.184.31.193/zgst/zgst.php?id=zj4k
+浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
+浙江卫视4K,https://www.shqsy.com/zgst.php?id=zj4k
+深圳卫视4K,http://8.138.7.223/tv/gd.php?id=0201
+深圳卫视4K,https://cdn3.163189.xyz/163189/szws4k
+深圳卫视4K,http://180.184.31.193/zgst/zgst.php?id=sz4k
+深圳卫视4K,http://go.bkpcp.top/mg/szws
+深圳卫视4K,http://nn.7x9d.cn/深圳最新.php?id=szws4k
+深圳卫视4K,http://101.35.240.114:88/live.php?id=深圳卫视4K
+深圳卫视4K,https://www.shqsy.com/zgst.php?id=sz4k
+深圳卫视4K,http://j.s.bkpcp.top/jj/szws
+湖南卫视4K,http://180.184.31.193/zgst/zgst.php?id=hn4k
+湖南卫视4K,http://101.35.240.114:88/live.php?id=湖南卫视4K
+湖南卫视4K,https://www.shqsy.com/zgst.php?id=hn4k
+
+
 
 🇨🇳北京频道,#genre#
 北京体育休闲,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?
@@ -1128,4 +1178,3 @@ tvN,https://c4c11e7fe6e1498387f3e8389ef9409d.mediatailor.ap-northeast-2.amazonaw
 방송대학TV(웹),http://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_313_D46B5C07.m3u8
 불교방송(BBS TV),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 지방자치TV,http://jjctv.ecn.cdn.infralab.net/jjctv/live/playlist.m3u8
-

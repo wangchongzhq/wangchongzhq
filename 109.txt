@@ -1,4 +1,4 @@
-﻿🇨🇳 5.1环绕声,#genre#
+🇨🇳 5.1环绕声,#genre#
 CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
 CCTV3,http://112.27.235.94:8000/hls/3/index.m3u8
@@ -7,7 +7,6 @@ CCTV4,http://112.27.235.94:8000/hls/4/index.m3u8
 CCTV5,http://120.238.84.45:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5,http://112.27.235.94:8000/hls/5/index.m3u8
-CCTV6,http://112.27.235.94:8000/hls/7/index.m3u8
 CCTV7,http://112.27.235.94:8000/hls/8/index.m3u8
 CCTV7,http://116.1.148.123:9901/newlive/live/hls/7/live.m3u8
 CCTV8,http://112.27.235.94:8000/hls/9/index.m3u8
@@ -20,28 +19,19 @@ CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
 CCTV14,http://112.27.235.94:8000/hls/15/index.m3u8
 CCTV15,http://112.27.235.94:8000/hls/16/index.m3u8
 CCTV5+,http://112.27.235.94:8000/hls/6/index.m3u8
-CCTV4K,http://home.wscxy.fun:30100/udp/233.18.204.188:5140
 CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 CHC影迷电影,http://120.198.86.186:9901/tsfile/live/1126_1.m3u8?key=txiptv
-安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
-安徽卫视,http://27.129.145.110:4433/hls/26/index.m3u8
-安徽卫视,http://222.223.41.27:8888/hls/30/index.m3u8
 北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
 北京卫视4K,http://112.27.235.94:8000/hls/27/index.m3u8
 重庆卫视,http://222.223.41.27:8888/hls/43/index.m3u8
 重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
 东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
-黑龙江卫视,http://113.119.24.235:58888/udp/239.77.0.124:5146
-湖北卫视,http://27.129.145.110:4433/hls/39/index.m3u8
-湖北卫视,http://222.223.41.27:8888/hls/41/index.m3u8
 湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
 江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8
-辽宁卫视,http://112.27.235.94:8000/hls/47/index.m3u8
-深圳卫视,http://112.27.235.94:8000/hls/33/index.m3u8
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
-天津卫视,http://112.27.235.94:8000/hls/42/index.m3u8
 浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
+
 ﻿﻿🇨🇳 音频高码,#genre#
 CCTV1,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 CCTV1,http://[2409:8087:8:21::0b]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8?
@@ -90,7 +80,6 @@ CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
 CCTV3,http://cx.li13313000882.cn:24280/hls/3/index.m3u8
 CCTV3,http://118.193.115.2:9901/tsfile/live/0003_1.m3u8?key=txiptv
 CCTV3,http://60.4.29.80:8077/rtp/239.253.92.191:6057
-CCTV3,http://nas.iszbd.com:4022/rtp/225.0.4.142:7980
 CCTV3,http://60.10.139.113:8801/hls/3/index.m3u8
 CCTV3,http://222.223.41.27:8888/hls/3/index.m3u8
 CCTV3,http://27.129.145.110:4433/hls/3/index.m3u8
@@ -453,7 +442,6 @@ CHC家庭影院,http://120.198.86.186:9901/tsfile/live/1046_1.m3u8?key=txiptv
 甘肃卫视,http://183.11.239.36:808/hls/119/index.m3u8
 甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
 甘肃卫视,http://183.237.71.182:40000/hls/49/index.m3u8
-甘肃卫视,http://118.193.115.2:9901/tsfile/live/0139_2.m3u8?key=txiptv
 甘肃卫视,http://218.13.170.98:9901/tsfile/live/0141_1.m3u8
 高尔夫网球,http://183.236.43.98:4013/udp/239.253.43.12:5146
 广东体育,http://183.236.43.98:4014/udp/239.77.0.112:5146
@@ -479,7 +467,6 @@ CHC家庭影院,http://120.198.86.186:9901/tsfile/live/1046_1.m3u8?key=txiptv
 广东卫视,http://182.150.112.112:2025/hls/58/index.m3u8
 广东卫视,http://113.119.24.235:58888/udp/239.77.1.19:5146
 广东卫视,http://220.231.188.194:8088/hls/28/index.m3u8
-广东卫视,http://www.maomizi.cn:9527/udp/239.77.0.84:5146
 广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
 广东卫视,http://223.75.149.129:9906/tsfile/live/0125_1.m3u8?key=txiptv
 广东卫视,http://182.150.23.74:808/hls/32/index.m3u8
@@ -817,7 +804,6 @@ CCTV4K,http://60.4.29.80:8077/rtp/239.253.92.219:6228
 CCTV4K,http://60.4.29.80:8077/rtp/239.253.93.134:6631
 CCTV4K,http://60.4.29.80:8077/rtp/239.253.93.134:6631
 CCTV4K,http://home.wscxy.fun:30100/udp/233.18.204.204:5140
-CCTV4K,http://220.176.218.4:9000/rtp/239.252.219.60:5140
 CCTV8K,http://107.150.52.50:82/live/cctv8k.m3u8
 CCTV8K,http://198.204.228.26/live/cctv8k.m3u8
 爱上4K,http://183.220.107.138:4022/rtp/239.11.0.120:5140
@@ -1337,6 +1323,9 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 安徽卫视,http://114.226.212.145:8787/rtp/239.49.8.204:6000
 安徽卫视,http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8
 安徽卫视,http://220.176.218.4:9000/udp/239.252.220.83:5140
+安徽卫视,http://112.27.235.94:8000/hls/26/index.m3u8
+安徽卫视,http://27.129.145.110:4433/hls/26/index.m3u8
+安徽卫视,http://222.223.41.27:8888/hls/30/index.m3u8
 北京卫视,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226936/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 北京卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_BEIJING-HQ/G_BEIJING-HQ.m3u8
 北京卫视,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND

@@ -890,6 +890,24 @@ CETV4,http://121.29.215.51:2083/rtp/239.253.92.200:6137
 风云音乐,http://121.29.215.51:2083/rtp/239.253.93.253:6431
 高尔夫网球,http://121.29.215.51:2083/rtp/239.253.93.122:6465
 女性时尚,http://121.29.215.51:2083/rtp/239.253.92.144:6114
+CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
+CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
+CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
+CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
+CCTV5,http://120.76.248.139/live/bfgd/4200000064.m3u8
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV6,http://120.76.248.139/live/bfgd/4200000065.m3u8
+CCTV7,http://120.76.248.139/live/bfgd/4200000127.m3u8
+CCTV8,http://120.76.248.139/live/bfgd/4200000066.m3u8
+CCTV9,http://120.76.248.139/live/bfgd/4200000128.m3u8
+CCTV10,http://120.76.248.139/live/bfgd/4200000129.m3u8
+CCTV11,http://120.76.248.139/live/bfgd/4200000130.m3u8
+CCTV12,http://120.76.248.139/live/bfgd/4200000131.m3u8
+CCTV13,http://120.76.248.139/live/bfgd/4200000067.m3u8
+CCTV14,http://120.76.248.139/live/bfgd/4200000132.m3u8
+CCTV15,http://120.76.248.139/live/bfgd/4200000133.m3u8
+CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
+
 🇨🇳 卫视,#genre#
 安徽卫视,http://221.226.51.220:50081/newlive/live/hls/36/live.m3u8
 安徽卫视,http://27.129.145.110:4433/hls/26/index.m3u8
@@ -1084,6 +1102,32 @@ CETV4,http://121.29.215.51:2083/rtp/239.253.92.200:6137
 浙江卫视,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 浙江卫视,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?
 浙江卫视,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+北京卫视,http://120.76.248.139/live/bfgd/4200000083.m3u8
+湖南卫视,http://120.76.248.139/live/bfgd/4200000086.m3u8
+浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8
+东方卫视,http://120.76.248.139/live/bfgd/4200000093.m3u8
+江苏卫视,http://120.76.248.139/live/bfgd/4200000085.m3u8
+安徽卫视,http://120.76.248.139/live/bfgd/4200000096.m3u8
+重庆卫视,http://120.76.248.139/live/bfgd/4200000107.m3u8
+四川卫视,http://120.76.248.139/live/bfgd/4200000103.m3u8
+东南卫视,http://120.76.248.139/live/bfgd/4200000483.m3u8
+深圳卫视,http://120.76.248.139/live/bfgd/4200000100.m3u8
+广东卫视,http://120.76.248.139/live/bfgd/4200000092.m3u8
+广西卫视,http://120.76.248.139/live/bfgd/4200000116.m3u8
+甘肃卫视,http://120.76.248.139/live/bfgd/4200000119.m3u8
+贵州卫视,http://120.76.248.139/live/bfgd/4200000101.m3u8
+河北卫视,http://120.76.248.139/live/bfgd/4200000108.m3u8$
+河南卫视,http://120.76.248.139/live/bfgd/4200000339.m3u8
+黑龙江卫视,http://120.76.248.139/live/bfgd/4200000095.m3u8
+湖北卫视,http://120.76.248.139/live/bfgd/4200000102.m3u8
+江西卫视,http://120.76.248.139/live/bfgd/4200000098.m3u8
+吉林卫视,http://120.76.248.139/live/bfgd/4200000097.m3u8
+辽宁卫视,http://120.76.248.139/live/bfgd/4200000058.m3u8
+青海卫视,http://120.76.248.139/live/bfgd/4200000111.m3u8
+山东卫视,http://120.76.248.139/live/bfgd/4200000099.m3u8
+海南卫视,http://120.76.248.139/live/bfgd/4200000473.m3u8
+云南卫视,http://120.76.248.139/live/bfgd/4200000482.m3u8
+西藏卫视,http://120.76.248.139/live/bfgd/4200000121.m3u8
 
 🇨🇳 港奥台,#genre#
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd

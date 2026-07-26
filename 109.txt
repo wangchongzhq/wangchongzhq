@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿🇨🇳 5.1环绕声,#genre#
+🇨🇳 5.1环绕声,#genre#
 CCTV1,http://112.27.5.218:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
@@ -24,23 +24,19 @@ CCTV13,http://112.27.235.94:8000/hls/14/index.m3u8
 CCTV14,http://112.27.235.94:8000/hls/15/index.m3u8
 CCTV15,http://112.27.235.94:8000/hls/16/index.m3u8
 CCTV16,http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV17,http://45.192.97.170:8880/play/518.m3u8
 CCTV16 4K,http://112.27.5.218:9901/tsfile/live/faacts/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+,http://112.27.235.94:8000/hls/6/index.m3u8
 CHC影迷电影,http://120.198.86.186:9901/tsfile/live/1126_1.m3u8?key=txiptv
 CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 北京卫视,http://183.236.43.98:4013/udp/239.77.1.151:5146
 北京卫视,http://112.27.235.94:8000/hls/27/index.m3u8
-北京卫视,http://45.192.97.170:8880/play/493.m3u8
 北京卫视4K,http://112.27.235.94:8000/hls/27/index.m3u8
-北京卫视4K,http://45.192.97.170:8880/play/493.m3u8
 重温经典,http://112.27.235.94:8000/hls/50/index.m3u8
 东方卫视,http://112.27.235.94:8000/hls/28/index.m3u8
 黑龙江卫视,http://112.27.235.94:8000/hls/48/index.m3u8
 湖南卫视,http://112.27.235.94:8000/hls/31/index.m3u8
 江苏卫视,http://112.27.235.94:8000/hls/32/index.m3u8
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
-四川卫视,http://45.192.97.170:8880/play/390.m3u8
 四川卫视4K,http://112.27.235.94:8000/hls/35/index.m3u8
 浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
 

@@ -1,4 +1,4 @@
-﻿﻿🇨🇳 5.1环绕声,#genre#
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿🇨🇳 5.1环绕声,#genre#
 CCTV1,http://112.27.5.218:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
@@ -39,6 +39,31 @@ CHC影迷电影,http://183.237.95.108:9901/tsfile/live/1008_1.m3u8?key=txiptv&pl
 四川卫视,http://112.27.235.94:8000/hls/35/index.m3u8
 四川卫视4K,http://112.27.235.94:8000/hls/35/index.m3u8
 浙江卫视,http://112.27.235.94:8000/hls/29/index.m3u8
+北京卫视4K,http://183.236.43.98:4013/udp/239.77.1.151:5146
+北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
+CCTV5+,http://113.15.109.216:59901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,http://120.76.248.139/live/bfgd/4200000488.m3u8
+CCTV2,http://113.15.109.216:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://113.15.109.216:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://120.76.248.139/live/bfgd/4200000062.m3u8
+CCTV4,http://120.76.248.139/live/bfgd/4200000063.m3u8
+CCTV4,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
+CCTV5,http://113.15.109.216:59901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://116.1.148.123:9901/newlive/live/hls/7/live.m3u8
+CCTV8,http://113.15.109.216:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://116.1.148.123:9901/newlive/live/hls/8/live.m3u8
+CCTV9,http://112.27.5.218:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
+CCTV9,http://113.15.109.216:59901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://113.15.109.216:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://113.15.109.216:59901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://113.15.109.216:59901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://liuwenxiaokevin.top:14044/rtp/233.18.204.215:5140
+CCTV16,http://youngx.top:4022/rtp/233.18.204.215:5140
+北京卫视,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
+重庆卫视,http://222.223.41.27:8888/hls/43/index.m3u8
+广东卫视,http://183.236.43.98:4013/udp/239.77.1.152:5146
+广东卫视,http://113.15.109.216:59901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ﻿﻿﻿﻿🇨🇳 高码,#genre#
 CCTV1,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND

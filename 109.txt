@@ -1335,7 +1335,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8?
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-无线新闻,http://8.138.7.223/tv/hot.php?id=69
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森美洲卫视,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8

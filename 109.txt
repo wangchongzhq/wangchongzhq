@@ -1,5 +1,4 @@
-
-﻿﻿🇨🇳 5.1环绕声,#genre#
+🇨🇳 5.1环绕声,#genre#
 CCTV1,http://112.27.5.218:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://112.27.235.94:8000/hls/1/index.m3u8
 CCTV2,http://112.27.235.94:8000/hls/2/index.m3u8
@@ -932,17 +931,30 @@ CETV4,http://39.77.159.145:4002/rtp/239.253.254.116:8000
 
 ﻿4K频道,#genre#
 CCTV16 4K,http://220.176.218.169:9000/udp/239.252.220.237:5140
+CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
+CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
+CCTV4K,http://220.176.218.169:9000/rtp/239.252.219.60:5140
 爱上4K,http://124.128.95.78:5140/其他频道/爱上4K测试体验
 北京IPTV4K,http://home.airengine.net:9003/rtp/228.1.1.123:8001
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
+北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
+东方卫视4K,http://202.102.201.244:40022/udp/238.1.79.39:4428
+广东卫视4K,http://202.102.201.244:40022/udp/238.1.79.25:4312
+广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140
 河北卫视4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+河南卫视4K,http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
 湖南卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=hunws&zy.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 江苏卫视,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=jsws&zy.m3u8
+江苏卫视4K,http://yulang132.cn:58888/udp/239.94.0.117:5140
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
+深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8
+浙江卫视4K,http://202.102.201.244:40022/udp/238.1.79.28:4336
+
+
 
 🇨🇳北京频道,#genre#
 北京财经,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?
@@ -1907,4 +1919,5 @@ NewTV惊悚悬疑,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV
 纳豆奶奶,http://live.nctv.top/douyu1.php?id=8745628
 悉奇,http://live.nctv.top/douyu1.php?id=9401473
 自说自话的总裁,http://live.nctv.top/douyu1.php?id=9317739
+
 

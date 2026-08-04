@@ -1767,7 +1767,16 @@ CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 Comedy Central,http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 E!,http://23.237.104.106:8080/USA_E/index.m3u8
-
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+France 24,https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+WION NEWS,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT Document,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+WILD TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+FOX BUSINESS,http://41.205.93.154/FOXBUSINESS/index.m3u8
+WILD EARTH,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+PAC-12,https://pac12-samsungus.amagi.tv/playlist.m3u8
+foxkids.be,https://foxkidstv.be:3369/stream/play.m3u8
 
 🇨🇳 影视剧,#genre#
 NewTV爱情剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv/tslive/c59_fast_967_1080P_t10/c59_fast_967_1080P_t10.m3u8?d

@@ -675,7 +675,6 @@ CHC影迷电影,http://120.198.86.186:9901/tsfile/live/1126_1.m3u8?key=txiptv
 辽宁卫视,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 辽宁卫视,http://cx.li13313000882.cn:24280/hls/27/index.m3u8
 辽宁卫视,http://120.238.84.45:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-辽宁卫视,http://183.237.240.235:808/hls/28/index.m3u8
 辽宁卫视,http://genglei.8866.org:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://183.237.71.182:40000/hls/30/index.m3u8
 辽宁卫视,http://120.198.95.220:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&down=1
@@ -1414,7 +1413,6 @@ CCTV16 4K,http://220.176.218.169:9000/udp/239.252.220.237:5140
 CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140
 CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
 CCTV4K,http://220.176.218.169:9000/rtp/239.252.219.60:5140
-爱上4K,http://124.128.95.78:5140/其他频道/爱上4K测试体验
 北京IPTV4K,http://home.airengine.net:9003/rtp/228.1.1.123:8001
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140
 北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140
@@ -1566,8 +1564,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2016/chunklist1.m3u8
 东森美洲卫视,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 东森美洲卫视,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
-东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8?
-东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 凤凰卫视,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 凤凰中文,http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 凤凰中文,http://218.104.239.114:9901/tsfile/live/1013_1.m3u8

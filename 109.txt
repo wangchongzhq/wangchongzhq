@@ -2241,132 +2241,87 @@ CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn.m3u8$128,7.58
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8$128
 ﻿CGTN英语,https://english-livebkali.cgtn.com/live/encgtn.m3u8$128,15.4
 ﻿﻿CCTV1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$128,3.89
+
 4K频道,#genre#
-CCTV16 4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,49.74
-CCTV16 4K,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,48.5
-CCTV16 4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,42.44
-CCTV16 4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,34.42
-CCTV16 4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226892/1.m3u8?$128,31.79
-CCTV16 4K,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,25.24
-CCTV16 4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,24.28
-CCTV16 4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,21.76
-CCTV16 4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,18.43
-CCTV16 4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?$128,16.94
-CCTV16 4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?$128,15.53
-CCTV16 4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,13.9
-CCTV16 4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,11.2
-CCTV16 4K,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND$128,6.06
-CCTV16 4K,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,5.47
-CCTV16 4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,5.2
-CCTV16 4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?$128,4.41
-CCTV16 4K,http://1.24.39.180:9003/hls/60/index.m3u8$128,1.16
-CCTV16 4K,http://118.122.144.115:8888/newlive/live/hls/17/live.m3u8$256,0.82
-CCTV16 4K,http://1.24.39.180:808/hls/60/index.m3u8$128,0.7
-CCTV16 4K,http://183.129.255.66:8480/hls/17/index.m3u8$192,0.6
-CCTV16 4K,http://27.129.145.110:4433/hls/16/index.m3u8$96,0.56
-CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140$259,0.51
-CCTV16 4K,http://liuwenxiaokevin.top:14044/rtp/233.18.204.215:5140$384,0.35
-CCTV16 4K,http://tpc.x3322.net:9901/tsfile/live/1061_1.m3u8$128,0.19
-CCTV16 4K,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8$128,0.11
-CCTV16 4K,http://121.19.134.101:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$96,0.08
-CCTV16 4K,http://183.11.239.36:808/hls/169/index.m3u8$256,0.07
-CCTV16 4K,http://121.19.134.22:808/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$96,0.04
-CCTV16 4K,http://hiliu.myds.me:18088/rtp/239.69.1.247:11124$128
-CCTV16 4K,http://www.yyf1991.top:9999/rtp/233.18.204.82:5140
-CCTV16 4K,http://47.242.63.189:2203/1234.php?id=16&s=8$128
-CCTV16 4K,http://youngx.top:4022/rtp/233.18.204.215:5140$384
-CCTV16 4K,http://www.syy3.top:3861/rtp/239.77.0.165:5146$256
-CCTV16 4K,http://204.12.221.218:8181/3m1080p/cctv16.m3u8$128
-CCTV16 4K,http://107.150.60.122/live/cctv16hd.m3u8$128
-CCTV16 4K,http://173.208.212.130:8181/1080p/cctv16.m3u8$128,0.0
-CCTV16 4K,http://gmxw.7766.org:808/hls/169/index.m3u8$256
-CCTV4K,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$128,3.86
-CCTV4K,http://60.4.31.149:8077/rtp/239.253.93.134:6631$128,0.61
-CCTV4K,http://218.81.49.34:10010/rtp/233.18.204.188:5140$192,0.52
-CCTV4K,http://182.135.66.163:1888/rtp/239.94.0.20:5140$128,0.24
-CCTV4K,http://218.81.49.34:10010/rtp/233.18.204.204:5140$384,0.14
-CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
-CCTV4K,http://60.4.31.149:8077/rtp/239.253.92.219:6228$128
-CCTV4K,http://47.242.63.189:2203/1234.php?id=8&s=9$128
-CCTV8K,http://47.242.63.189:2203/1234.php?id=9&s=9$128
-北京IPTV4K,http://home.airengine.net:9003/rtp/228.1.1.123:8001$128,0.2
-北京卫视4K,http://home.scanflove.com:7788/rtp/235.254.198.66:1540$256,26.72
-北京卫视4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,25.21
-北京卫视4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,24.81
-北京卫视4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,19.96
-北京卫视4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8?$128,19.15
-北京卫视4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?$128,18.38
-北京卫视4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,18.23
-北京卫视4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,18.07
-北京卫视4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,17.23
-北京卫视4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,16.8
-北京卫视4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,15.58
-北京卫视4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,15.25
-北京卫视4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,14.28
-北京卫视4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,13.19
-北京卫视4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?$128,11.9
-北京卫视4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,11.76
-北京卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$128,7.65
-北京卫视4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,7.45
-北京卫视4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?$128,5.84
-北京卫视4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,5.62
-北京卫视4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,5.54
-北京卫视4K,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND$128,5.53
-北京卫视4K,http://112.30.73.119:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0$256,4.92
-北京卫视4K,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$128,4.17
-北京卫视4K,http://39.150.102.131:19901/tsfile/live/0122_1.m3u8$128,3.22
-北京卫视4K,http://101.66.194.210:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0$192,2.76
-北京卫视4K,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8$128,2.34
-北京卫视4K,http://cx.li13313000882.cn:24280/hls/26/index.m3u8$256,2.33
-北京卫视4K,http://59.39.89.130:60901/tsfile/live/0125_7.m3u8$256,1.52
-北京卫视4K,http://103.72.172.253:8041/hls/345649569/index.m3u8$128,1.21
-北京卫视4K,http://118.193.115.2:9901/tsfile/live/0122_1.m3u8?key=txiptv$128,0.98
-北京卫视4K,http://182.37.41.46:8154/tsfile/live/0122_1.m3u8?key=txiptv$256,0.83
-北京卫视4K,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0$256,0.66
-北京卫视4K,http://27.129.145.110:4433/hls/28/index.m3u8$256,0.53
-北京卫视4K,http://182.150.23.74:808/hls/17/index.m3u8$256,0.34
-北京卫视4K,http://183.237.71.182:40000/hls/24/index.m3u8$256,0.21
-北京卫视4K,http://gfr.x3322.net:9901/tsfile/live/1089_1.m3u8$256,0.11
-北京卫视4K,http://113.25.252.226:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$256,0.1
-北京卫视4K,http://222.223.41.27:8888/hls/31/index.m3u8$256,0.07
-北京卫视4K,http://58.56.162.102:4466/newlive/live/hls/20/live.m3u8$256,0.06
-北京卫视4K,http://121.19.134.101:808/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0$256,0.06
-北京卫视4K,http://fuxin.yunjifei.top:999/tsfile/live/0122_1.m3u8?key=txiptv$256,0.06
-北京卫视4K,http://110.80.17.38:9999/tsfile/live/0122_2.m3u8$256,0.02
-北京卫视4K,http://183.236.43.98:4013/udp/239.77.1.151:5146$448
-北京卫视4K,http://183.47.2.156:16883/udp/239.77.1.151:5146$448
-北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140$128
-北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140$448
-北京卫视4K,http://183.220.107.138:4022/rtp/239.11.0.121:5140$256
-北京卫视4K,http://47.242.63.189:2203/1234.php?id=21&s=8$128
-北京卫视4K,http://120.76.248.139/live/bfgd/4200000083.m3u8
-北京卫视4K,http://173.208.212.130:8181/720p/bjws.m3u8$128,0.0
-北京卫视4K,http://173.208.212.130:8181/1080p/bjws.m3u8$128,0.0
-北京卫视4K,http://114.226.212.151:8787/rtp/239.49.8.11:9414$128
-东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8$128,2.3
-东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8$128,1.45
-东方卫视4K,http://202.102.201.244:40022/udp/238.1.79.39:4428$128
-广东卫视4K,http://202.102.201.244:40022/udp/238.1.79.25:4312$128
-广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140$128
-河北卫视4K,https://event.pull.hebtv.com:443/live/live101.m3u8$128,31.49
-河南卫视4K,http://ik6.iptv8.net:8888/rtp/225.1.4.254:1300
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$128,4.09
-湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$128,3.66
-湖南卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.116:5140$128,0.05
-湖南卫视4K,http://123.118.55.165:45237/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$256
-湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k$128
-湖南卫视4K,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=hunws&zy.m3u8$128
-江苏卫视4K,http://yulang132.cn:58888/udp/239.94.0.117:5140$128,0.16
-江苏卫视4K,http://8.138.7.223/tv/jsws4k.php$128
-江苏卫视4K,http://110.42.52.180:6688/live/live.php?token=1yeiVihw&id=jsws&zy.m3u8$128
-南国都市4K,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8$128,9.69
-南国都市4K,http://r.jdshipin.com/nWaZO$128
-深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140
-四川卫视4K,http://yulang132.cn:58888/udp/239.94.0.115:5140$128,0.17
-浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8$128,2.38
-浙江卫视4K,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8$128,2.06
-浙江卫视4K,http://202.102.201.244:40022/udp/238.1.79.28:4336$128
-浙江卫视4K,http://yulang132.cn:58888/udp/239.94.0.118:5140$128
+CCTV16 4K,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,25.24
+CCTV16 4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,24.28
+CCTV16 4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,21.76
+CCTV16 4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,18.43
+CCTV16 4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?$1920x1080,16.94
+CCTV16 4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?$1920x1080,15.53
+CCTV16 4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226887/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,13.9
+CCTV16 4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,11.2
+CCTV16 4K,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND$1920x1080,6.06
+CCTV16 4K,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,5.47
+CCTV16 4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,5.2
+CCTV16 4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?$1920x1080,4.41
+CCTV16 4K,http://nas.201606.xyz:4022/udp/239.11.0.67:5140$3840x2160,0.51
+CCTV16 4K,http://liuwenxiaokevin.top:14044/rtp/233.18.204.215:5140$3840x2160,0.35
+CCTV16 4K,http://tpc.x3322.net:9901/tsfile/live/1061_1.m3u8$1920x1080,0.19
+CCTV16 4K,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8$1920x1080,0.11
+CCTV16 4K,http://hiliu.myds.me:18088/rtp/239.69.1.247:11124$1920x1080
+CCTV16 4K,http://47.242.63.189:2203/1234.php?id=16&s=8$1920x1080
+CCTV16 4K,http://www.syy3.top:3861/rtp/239.77.0.165:5146$4K
+CCTV4K,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$1920x1080,3.86
+CCTV4K,http://60.4.31.149:8077/rtp/239.253.93.134:6631$3840x2160,0.61
+CCTV4K,http://218.81.49.34:10010/rtp/233.18.204.188:5140$3840x2160,0.52
+CCTV4K,http://182.135.66.163:1888/rtp/239.94.0.20:5140$3840x2160,0.24
+CCTV4K,http://218.81.49.34:10010/rtp/233.18.204.204:5140$3840x2160,0.14
+CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146$4K
+CCTV4K,http://60.4.31.149:8077/rtp/239.253.92.219:6228$3840x2160
+CCTV4K,http://47.242.63.189:2203/1234.php?id=8&s=9$1920x1080
+CCTV8K,http://47.242.63.189:2203/1234.php?id=9&s=9$1920x1080
+北京IPTV4K,http://home.airengine.net:9003/rtp/228.1.1.123:8001$3840x2160,0.2
+北京卫视4K,http://home.scanflove.com:7788/rtp/235.254.198.66:1540$4K,26.72
+北京卫视4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?$1920x1080,18.38
+北京卫视4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,18.07
+北京卫视4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,16.8
+北京卫视4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,15.58
+北京卫视4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,15.25
+北京卫视4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,14.28
+北京卫视4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?$1920x1080,11.9
+北京卫视4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,11.76
+北京卫视4K,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920x1080,7.65
+北京卫视4K,http://[2409:8087:8:21::5]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,7.45
+北京卫视4K,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227005/1.m3u8?$1920x1080,5.84
+北京卫视4K,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,5.62
+北京卫视4K,http://[2409:8087:8:21::19]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$1920x1080,5.54
+北京卫视4K,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ElMQ3ov45VmhzipweN5VstQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPg_yZ8DZHTaSU92MIl_o3b%2CEND$1920x1080,5.53
+北京卫视4K,http://112.30.73.119:9901/tsfile/live/1034_1.m3u8?key=txiptv&playlive=0&authid=0$1920x1080,4.92
+北京卫视4K,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$1920x1080,4.17
+北京卫视4K,http://39.150.102.131:19901/tsfile/live/0122_1.m3u8$1920x1080,3.22
+北京卫视4K,http://222.169.85.8:9901/tsfile/live/0017_1.m3u8$1920x1080,2.34
+北京卫视4K,http://112.123.243.37:50085/tsfile/live/0127_1.m3u8?key=txiptv&playlive=0&authid=0$1920x1080,0.66
+北京卫视4K,http://113.25.252.226:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080,0.1
+北京卫视4K,http://183.236.43.98:4013/udp/239.77.1.151:5146$1920x1080
+北京卫视4K,http://183.47.2.156:16883/udp/239.77.1.151:5146$1920x1080
+北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.91:5140$3840x2160
+北京卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.92:5140$3840x2160
+北京卫视4K,http://47.242.63.189:2203/1234.php?id=21&s=8$1920x1080
+北京卫视4K,http://120.76.248.139/live/bfgd/4200000083.m3u8$4K
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8$1920x1080,2.3
+东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8$1920x1080,1.45
+东方卫视4K,http://202.102.201.244:40022/udp/238.1.79.39:4428$3840x2160
+广东卫视4K,http://202.102.201.244:40022/udp/238.1.79.25:4312$3840x2160
+广东卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.94:5140$3840x2160
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$3840x2160,4.09
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8$3840x2160,3.66
+湖南卫视4K,http://vl15191373.imwork.net:8880/udp/239.94.0.116:5140$3840x2160,0.05
+湖南卫视4K,http://123.118.55.165:45237/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
+湖南卫视4K,http://8.138.7.223/tv/api.php?id=hnws4k$3840x2160
+江苏卫视4K,http://yulang132.cn:58888/udp/239.94.0.117:5140$3840x2160,0.16
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=627498b93bc6f5d6e2460d0823bf81a3&txTime=18e6df74fc2$4K
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46$4K
+南国都市4K,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4$4K
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=59b2d3f371597c07d47815034a0e6e78&txTime=19019c65629$4K
+南国都市4K,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de$4K
+深圳卫视4K,http://nas.201606.xyz:4022/rtp/239.10.0.93:5140$4K
+四川卫视4K,http://yulang132.cn:58888/udp/239.94.0.115:5140$3840x2160,0.17
+浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8$3840x2160,2.38
+浙江卫视4K,https://ali-xwl.cztv.com/live/channel4k2160p.m3u8$3840x2160,2.06
+浙江卫视4K,http://202.102.201.244:40022/udp/238.1.79.28:4336$3840x2160
+浙江卫视4K,http://yulang132.cn:58888/udp/239.94.0.118:5140$3840x2160
+
 🇨🇳北京频道,#genre#
 北京财经,http://[2409:8087:8:21::10]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,5.9
 北京财经,http://[2409:8087:8:21::11]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226560/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND$128,5.63

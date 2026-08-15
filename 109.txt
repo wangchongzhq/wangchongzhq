@@ -2005,10 +2005,9 @@ CCTV5+,http://[2409:8087:8:21::0b]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 
 🇨🇳 港奥台,#genre#
 凤凰卫视,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$256
-凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$256
+凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$256,4.66
 凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=114695$128
 凤凰资讯,http://mag.trexlive.me:80/play/live.php?extension=ts&mac=00:1A:79:7E:2F:ED&stream=156407$127
-凤凰中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk$128
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$256,3.99
 凤凰中文,http://221.7.175.154:8445/tsfile/live/1020_1.m3u8$256,1.16
 凤凰资讯,http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$256,4.66
@@ -2016,7 +2015,6 @@ CCTV5+,http://[2409:8087:8:21::0b]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$256
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8$209,5.83
 中天新闻,http://173.208.234.146/live/ctinews.m3u8$128
-
 
 国外,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$128

@@ -1264,14 +1264,6 @@ Wild TV,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8$1
 龙祥时代,https://ktpremium.world/live/LT1976F/A9177/694086.ts$44,0.77
 美亚电影,https://ktpremium.world/live/LT1976F/A9177/870561.ts$131,1.1
 明珠台,http://120.238.84.45:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$256,0.93
-民视旅游台,https://ktpremium.world/live/LT1976F/A9177/918592.ts$131,0.47
-民视台湾台,https://ktpremium.world/live/LT1976F/A9177/918589.ts$131,1.09
-民视台湾台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1784706116084$128,0.47
-民视戏剧台,https://ktpremium.world/live/LT1976F/A9177/918591.ts$131,0.67
-民视新闻,https://ktpremium.world/live/LT1976F/A9177/515191.ts$134,1.16
-民视新闻,https://ktpremium.world/live/LT1976F/A9177/515192.ts$99,0.99
-民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1784706116084$128,0.54
-民视综艺台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784706116084$128,0.74
 年代新闻,https://ktpremium.world/live/LT1976F/A9177/877060.ts$131,1.26
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8$128,0.43
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u$128

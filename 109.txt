@@ -1432,6 +1432,7 @@ CCTV5+,http://[2409:8087:8:21::0b]:6610/otttv.bj.chinamobile.com/PLTV/88888888/2
 有线新闻台,http://120.234.44.98:18180/TV00000000000000000088@HHZT$128
 中视,http://211.72.174.95:8113/0.ts$131
 中视,http://211.72.174.95:8113/0.ts$131
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 国外,#genre#
 CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$128,2.66
 tvN1,https://d2zyqoz1zsj2mq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i9yul1lyegl6e-ssai-prd/6d07fe2a_003a_4879_acfc_44e3c3c10f03/hls/playlist.m3u8?$128,0.12

@@ -60,8 +60,6 @@ CCTV4,http://120.198.86.186:9901/tsfile/live/1023_1.m3u8?key=txiptv
 CCTV4,http://112.123.243.37:50085/tsfile/live/0004_1.m3u8?key=txiptv
 CCTV4,http://e1.woc.iiiya.cn:18888/rtp/239.61.2.206:9224
 CCTV4,http://182.150.23.74:808/hls/4/index.m3u8
-CCTV4欧洲,http://www.zyhfm.com:8088/rtp/239.69.1.231:11028
-CCTV4美洲,http://www.zyhfm.com:8088/rtp/239.69.1.232:11034
 CCTV5,http://27.129.145.110:4433/hls/5/index.m3u8
 CCTV5,http://175.154.151.98:808/hls/5/index.m3u8
 CCTV5,http://120.198.86.186:9901/tsfile/live/1024_1.m3u8?key=txiptv
@@ -243,7 +241,6 @@ CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&pl
 新疆卫视,http://122.136.195.178:8085/hls/32/index.m3u8
 新疆卫视,http://112.92.129.96:9898/hls/61/index.m3u8
 新疆卫视,http://www.zyhfm.com:8088/rtp/239.69.2.30:11334
-明珠台,https://10.fast.hidns.vip/163189/mzt/
 欢笑剧场,http://www.rongrong.me:14022/rtp/233.18.204.55:5140
 江苏卫视,http://112.123.243.37:50085/tsfile/live/0017_1.m3u8?key=txiptv
 江苏卫视,http://112.92.129.96:9898/hls/38/index.m3u8
@@ -314,8 +311,6 @@ CHC动作电影,http://183.237.95.108:9901/tsfile/live/1006_1.m3u8?key=txiptv&pl
 第一剧场,http://120.198.95.220:9901/tsfile/live/1071_1.m3u8?key=txiptv
 第一剧场,http://120.198.95.220:9901/tsfile/live/1071_1.m3u8?key=txiptv
 第一财经,http://www.rongrong.me:14022/rtp/233.18.204.59:5140
-翡翠台4K,https://10.fast.hidns.vip/163189/fct/
-翡翠台4K,http://r.jdshipin.com/62WM7
 西藏卫视,http://112.92.129.96:9898/hls/65/index.m3u8
 西藏卫视,http://www.zyhfm.com:8088/rtp/239.69.2.31:11340
 贵州卫视,http://112.123.243.37:50085/tsfile/live/0130_2.m3u8?key=txiptv
@@ -447,13 +442,9 @@ CETV4,http://www.zyhfm.com:8088/rtp/239.69.2.29:11328
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN Documentary,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
-CGTN法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
-CGTN西语,https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 CHC家庭影院,http://www.zyhfm.com:8088/rtp/239.69.1.243:11100
 China Travel,https://fastlive.cctvplus.com/out/v1/ca6f9297b7314a63959435028af287fc/index.m3u8
-CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 世界地理,http://dassby.qqff.top:99/live/世界地理/index.m3u8
 东南卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_DONGNAN-HQ/G_DONGNAN-HQ.m3u8
 东南卫视,http://27.129.145.110:4433/hls/27/index.m3u8
@@ -593,7 +584,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 广西卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/广西卫视.php?id=301
 广西卫视,http://198.204.228.26/live/gxwshd.m3u8
 广西卫视,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd
-康巴卫视,http://www.yanbingg.com:1888/udp/239.94.0.78:5140
 延边卫视,https://srs.iyb983.cn:443/video/CYS/index.m3u8
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
@@ -611,9 +601,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 新疆卫视,http://192.151.150.154/live/xjws.m3u8
 梨园频道,http://e1.woc.iiiya.cn:18888/rtp/239.61.3.19:9634
 梨园频道,http://www.zyhfm.com:8088/rtp/239.69.1.33:9838
-武术世界,http://www.zyhfm.com:8088/rtp/239.69.1.47:9922
-武术世界,http://woc.iiiya.cn:18888/rtp/239.61.3.22:9652
-武汉教育,http://www.zyhfm.com:8088/rtp/239.69.1.60:9994
 江苏卫视,http://yncbn.ks-cdn.gitv.tv/gitv_live/G_JIANGSU-HQ/G_JIANGSU-HQ.m3u8
 江苏卫视,http://vl15191373.imwork.net:8880/udp/239.94.0.117:5140
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
@@ -677,7 +664,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 湖北卫视,http://198.204.228.26/live/hbwshd.m3u8
 湖北卫视,http://222.169.85.8:9901/tsfile/live/0132_1.m3u8
 湖北影视,http://www.zyhfm.com:8088/rtp/239.69.1.204:10866
-湖北综合,http://www.zyhfm.com:8088/rtp/239.69.1.42:9892
 湖南卫视,http://27.129.145.110:4433/hls/23/index.m3u8
 湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://iptv.4666888.xyz/iptv2A.php?id=13
@@ -702,7 +688,6 @@ CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 第一剧场,http://198.204.228.26/live/dyjc.m3u8
 西藏卫视,http://120.198.86.186:9901/tsfile/live/1089_1.m3u8?key=txiptv
 西藏卫视,http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/西藏卫视.php?id=301
 贵州卫视,http://iptv.4666888.xyz/iptv2A.php?id=16
 贵州卫视,http://112.123.243.37:50085/tsfile/live/0130_2.m3u8
 贵州卫视,http://175.154.151.98:808/hls/43/index.m3u8
@@ -752,4 +737,4 @@ CHC动作电影,http://198.204.228.26/live/chcdz.m3u8
 CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
 CHC影迷电影,http://192.151.150.154/live/chchd.m3u8
-CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
+CHC影迷电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8

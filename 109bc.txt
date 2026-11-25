@@ -4,14 +4,13 @@ CCTV4K,http://183.236.43.98:4111/udp/239.77.0.194:5146
 CCTV4K,http://www.rongrong.me:14022/rtp/233.18.204.188:5140
 CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
 CCTV16 4K,http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://61.136.172.236:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视4K,http://61.136.172.236:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 东方卫视4K,http://n2.192372.xyz:8888/rtp/239.3.1.119:3006
 北京卫视4K,http://27.129.145.110:4433/hls/28/index.m3u8
 北京卫视4K,http://n2.192372.xyz:8888/rtp/239.3.1.139:8001
 广东卫视4K,http://home.amucn.net:8800/rtp/239.49.1.26:8000
-江苏卫视,http://8.138.7.223/tv/jsws4k.php
 江苏卫视4K,http://8.138.7.223/tv/jsws4k.php
 河北卫视,https://event.pull.hebtv.com:443/live/live101.m3u8
 河北卫视,https://event.pull.hebtv.com/live/live101.m3u8
@@ -23,7 +22,6 @@ CCTV16 4K,http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv&playlive=
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 浙江卫视4K,http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
 深圳卫视4K,http://61.136.172.236:9901/tsfile/live/0126_1.m3u8
-湖南卫视,http://mg.hmysapp.cn:177/偷源狗/卫视/湖南卫视.php?id=301
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
@@ -755,4 +753,3 @@ CHC动作电影,http://107.150.60.122/live/chcdz.m3u8
 CHC动作电影,http://192.151.150.154/live/chcdz.m3u8
 CHC影迷电影,http://192.151.150.154/live/chchd.m3u8
 CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
-
